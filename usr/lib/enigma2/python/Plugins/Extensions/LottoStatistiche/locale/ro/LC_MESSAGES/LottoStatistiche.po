@@ -1,0 +1,102 @@
+# LottoStatistiche translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: LottoStatistiche\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-08-28 09:00+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Romanian <translation-team-ro@lists.sourceforge.net>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
+
+msgid "✅ Lotto archive updated!"
+msgstr "✅ Arhiva Loto actualizată!"
+
+msgid "✅ Superenalotto updated!"
+msgstr "✅ Superenalotto actualizat!"
+
+msgid "❌ Exit"
+msgstr "❌ Ieșire"
+
+msgid "❌ Lotto update error"
+msgstr "❌ Eroare de actualizare a loto"
+
+msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
+msgstr "❌ Nu există date disponibile. Apăsați „Actualizare Superenalotto” din meniul principal."
+
+msgid "❌ No draws available. Press 'Update Archive' from main menu."
+msgstr "❌ Nu există extrageri disponibile. Apăsați „Actualizare arhivă” din meniul principal."
+
+msgid "❌ Superenalotto update error"
+msgstr "❌ Eroare de actualizare Superenalotto"
+
+msgid "⭐ SUPERENALOTTO - Historical Archive"
+msgstr "⭐ SUPERENALOTTO - Arhiva istorică"
+
+msgid "⭐ Superenalotto"
+msgstr ""
+
+msgid "🎯 10 e LOTTO"
+msgstr "🎯 10 și LOT"
+
+msgid "🎯 10 e Lotto"
+msgstr "🎯 10 și Loto"
+
+msgid "🎰 MAIN MENU - LOTTO STATISTICS"
+msgstr "🎰 MENIU PRINCIPAL - STATISTICA LOTO"
+
+msgid "💡 Tip: Play responsibly!"
+msgstr "💡 Sfat: Joacă responsabil!"
+
+msgid "📈 FREQUENCIES AND DELAYS"
+msgstr "📈 FRECVENȚE ȘI ÎNTÂRZIERI"
+
+msgid "📈 Number Frequencies"
+msgstr "📈 Frecvențe de numere"
+
+msgid "📊 Draws Archive"
+msgstr "📊 Arhiva Desene"
+
+msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
+msgstr "📊 STATISTICA GENERALA:\\\\\\\\\\\\\\\\n"
+
+msgid "📚 DRAWS ARCHIVE"
+msgstr "📚 ARHIVA SENERILOR"
+
+msgid "🔄 Update Lotto Archive"
+msgstr "🔄 Actualizați Arhiva Loto"
+
+msgid "🔄 Update Superenalotto"
+msgstr "🔄 Actualizați Superenalotto"
+
+msgid "🔍 COMPLETE ANALYSIS"
+msgstr "🔍 ANALIZA COMPLETĂ"
+
+msgid "🔍 Statistical Analysis"
+msgstr "🔍 Analiză statistică"
+
+msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
+msgstr "🔢 ULTIMELE 10 eLOTO TRAGERE:\\\\\\\\\\\\\\\\n"
+
+msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
+msgstr "🔥 NUMERE FOARTE (cele mai extrase):\\\\\\\\\\\\\\\\n"
+
+msgid "🔮 PREDICTIONS"
+msgstr "🔮 PRONOSTICE"
+
+msgid "🔮 Predictions"
+msgstr "🔮 Predicții"
+
+msgid "😴 NEAPOLITAN SMORFIA"
+msgstr "😴 GRAȚIA NAPOLITANĂ"
+
+msgid "😴 Neapolitan Smorfia"
+msgstr "😴 Grimașa napolitană"

@@ -1,0 +1,102 @@
+# LottoStatistiche translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: LottoStatistiche\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-08-28 09:02+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Serbian <(nothing)>\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "✅ Lotto archive updated!"
+msgstr "✅ Архива лото ажурирана!"
+
+msgid "✅ Superenalotto updated!"
+msgstr "✅ Супереналотто ажуриран!"
+
+msgid "❌ Exit"
+msgstr "❌ Изађи"
+
+msgid "❌ Lotto update error"
+msgstr "❌ Грешка при ажурирању лота"
+
+msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
+msgstr "❌ Нема доступних података. Притисните 'Ажурирај Супереналотто' из главног менија."
+
+msgid "❌ No draws available. Press 'Update Archive' from main menu."
+msgstr "❌ Нема доступних извлачења. Притисните 'Ажурирај архиву' из главног менија."
+
+msgid "❌ Superenalotto update error"
+msgstr "❌ Грешка при ажурирању Супереналотто"
+
+msgid "⭐ SUPERENALOTTO - Historical Archive"
+msgstr "⭐ СУПЕРЕНАЛОТТО - Историјски архив"
+
+msgid "⭐ Superenalotto"
+msgstr "⭐ Супереналотто"
+
+msgid "🎯 10 e LOTTO"
+msgstr "🎯 10 и ЛОТ"
+
+msgid "🎯 10 e Lotto"
+msgstr "🎯 10 и лото"
+
+msgid "🎰 MAIN MENU - LOTTO STATISTICS"
+msgstr "🎰 ГЛАВНИ МЕНИ - ЛОТО СТАТИСТИКА"
+
+msgid "💡 Tip: Play responsibly!"
+msgstr "💡 Савет: Играјте одговорно!"
+
+msgid "📈 FREQUENCIES AND DELAYS"
+msgstr "📈 ФРЕКВЕНЦИЈЕ И КАШЊЕЊА"
+
+msgid "📈 Number Frequencies"
+msgstr "📈 Фреквенције бројева"
+
+msgid "📊 Draws Archive"
+msgstr "📊 Архива цртежа"
+
+msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
+msgstr "📊 ОПШТА СТАТИСТИКА:\\\\\\\\\\\\\\\\н"
+
+msgid "📚 DRAWS ARCHIVE"
+msgstr "📚 АРХИВА ЦРТЕЖА"
+
+msgid "🔄 Update Lotto Archive"
+msgstr "🔄 Ажурирајте архиву лото"
+
+msgid "🔄 Update Superenalotto"
+msgstr "🔄 Ажурирајте Супереналотто"
+
+msgid "🔍 COMPLETE ANALYSIS"
+msgstr "🔍 КОМПЛЕТНА АНАЛИЗА"
+
+msgid "🔍 Statistical Analysis"
+msgstr "🔍 Статистичка анализа"
+
+msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
+msgstr "🔢 ПОСЛЕДЊИХ 10 еЛОТО ИЗВЛАЧЕЊЕ:\\\\\\\\\\\\\\\\н"
+
+msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
+msgstr "🔥 ВРУЋИ БРОЈЕВИ (највише извучени):\\\\\\\\\\\\\\\\н"
+
+msgid "🔮 PREDICTIONS"
+msgstr "🔮 ПРЕДВИЂАЊА"
+
+msgid "🔮 Predictions"
+msgstr "🔮 Предвиђања"
+
+msgid "😴 NEAPOLITAN SMORFIA"
+msgstr "😴 НАПОЛИТАНСКА ГРАЦЕ"
+
+msgid "😴 Neapolitan Smorfia"
+msgstr "😴 Напуљска гримаса"

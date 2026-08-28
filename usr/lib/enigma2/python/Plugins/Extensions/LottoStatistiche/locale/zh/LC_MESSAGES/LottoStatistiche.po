@@ -1,0 +1,101 @@
+# LottoStatistiche translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: LottoStatistiche\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-08-28 09:04+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "✅ Lotto archive updated!"
+msgstr "✅ 乐透档案已更新！"
+
+msgid "✅ Superenalotto updated!"
+msgstr "✅ 超级乐透已更新！"
+
+msgid "❌ Exit"
+msgstr "❌ 退出"
+
+msgid "❌ Lotto update error"
+msgstr "❌ 乐透更新错误"
+
+msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
+msgstr "❌ 无可用数据。按主菜单中的“更新 Superenalotto”。"
+
+msgid "❌ No draws available. Press 'Update Archive' from main menu."
+msgstr "❌ 不提供抽奖。按主菜单中的“更新存档”。"
+
+msgid "❌ Superenalotto update error"
+msgstr "❌ Superenalotto 更新错误"
+
+msgid "⭐ SUPERENALOTTO - Historical Archive"
+msgstr "⭐ SUPERENALOTTO - 历史档案"
+
+msgid "⭐ Superenalotto"
+msgstr "⭐ 超级乐透"
+
+msgid "🎯 10 e LOTTO"
+msgstr "🎯 10 和很多"
+
+msgid "🎯 10 e Lotto"
+msgstr "🎯 10 和乐透"
+
+msgid "🎰 MAIN MENU - LOTTO STATISTICS"
+msgstr "🎰 主菜单 - 乐透统计"
+
+msgid "💡 Tip: Play responsibly!"
+msgstr "💡提示：负责任地玩！"
+
+msgid "📈 FREQUENCIES AND DELAYS"
+msgstr "📈 频率和延迟"
+
+msgid "📈 Number Frequencies"
+msgstr "📈 数字频率"
+
+msgid "📊 Draws Archive"
+msgstr "📊 绘制档案"
+
+msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
+msgstr "📊 一般统计数据：\\\\\\\\\\\\\\\\n"
+
+msgid "📚 DRAWS ARCHIVE"
+msgstr "📚 绘制档案"
+
+msgid "🔄 Update Lotto Archive"
+msgstr "🔄 更新乐透档案"
+
+msgid "🔄 Update Superenalotto"
+msgstr "🔄 更新超级乐透"
+
+msgid "🔍 COMPLETE ANALYSIS"
+msgstr "🔍 完整分析"
+
+msgid "🔍 Statistical Analysis"
+msgstr "🔍统计分析"
+
+msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
+msgstr "🔢 最后 10eLOTTO 抽奖：\\\\\\\\\\\\\\\\n"
+
+msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
+msgstr "🔥 热门号码（抽中最多）：\\\\\\\\\\\\\\\\n"
+
+msgid "🔮 PREDICTIONS"
+msgstr "🔮 预测"
+
+msgid "🔮 Predictions"
+msgstr "🔮 预测"
+
+msgid "😴 NEAPOLITAN SMORFIA"
+msgstr "😴那不勒斯恩典"
+
+msgid "😴 Neapolitan Smorfia"
+msgstr "😴 那不勒斯鬼脸"

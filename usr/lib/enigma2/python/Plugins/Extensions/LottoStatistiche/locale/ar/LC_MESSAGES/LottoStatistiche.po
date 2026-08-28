@@ -1,0 +1,101 @@
+# LottoStatistiche translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: LottoStatistiche\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-08-28 08:52+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Arabic <(nothing)>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "✅ Lotto archive updated!"
+msgstr "✅ تم تحديث أرشيف لوتو!"
+
+msgid "✅ Superenalotto updated!"
+msgstr "✅ تم تحديث Superenalotto!"
+
+msgid "❌ Exit"
+msgstr "❌ خروج"
+
+msgid "❌ Lotto update error"
+msgstr "❌ خطأ في تحديث اللوتو"
+
+msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
+msgstr "❌ لا توجد بيانات متاحة. اضغط على \\\"تحديث Superenalotto\\\" من القائمة الرئيسية."
+
+msgid "❌ No draws available. Press 'Update Archive' from main menu."
+msgstr "❌ لا توجد سحوبات متاحة. اضغط على \\\"تحديث الأرشيف\\\" من القائمة الرئيسية."
+
+msgid "❌ Superenalotto update error"
+msgstr "❌ خطأ في تحديث Superenalotto"
+
+msgid "⭐ SUPERENALOTTO - Historical Archive"
+msgstr "⭐ سوبرينالوتو - الأرشيف التاريخي"
+
+msgid "⭐ Superenalotto"
+msgstr "⭐ سوبرينالوتو"
+
+msgid "🎯 10 e LOTTO"
+msgstr "🎯 10 والكثير"
+
+msgid "🎯 10 e Lotto"
+msgstr "🎯 10 واللوتو"
+
+msgid "🎰 MAIN MENU - LOTTO STATISTICS"
+msgstr "🎰 القائمة الرئيسية - إحصائيات اليانصيب"
+
+msgid "💡 Tip: Play responsibly!"
+msgstr "💡 نصيحة: العب بمسؤولية!"
+
+msgid "📈 FREQUENCIES AND DELAYS"
+msgstr "📈 الترددات والتأخيرات"
+
+msgid "📈 Number Frequencies"
+msgstr "📈 ترددات الأرقام"
+
+msgid "📊 Draws Archive"
+msgstr "📊 أرشيف الرسومات"
+
+msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
+msgstr "📊 إحصائيات عامة:\\\\\\\\\\\\\\\\n"
+
+msgid "📚 DRAWS ARCHIVE"
+msgstr "📚 أرشيف الرسومات"
+
+msgid "🔄 Update Lotto Archive"
+msgstr "🔄 تحديث أرشيف اللوتو"
+
+msgid "🔄 Update Superenalotto"
+msgstr "🔄 تحديث سوبرينالوتو"
+
+msgid "🔍 COMPLETE ANALYSIS"
+msgstr "🔍 تحليل كامل"
+
+msgid "🔍 Statistical Analysis"
+msgstr "🔍 التحليل الإحصائي"
+
+msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
+msgstr "🔢 سحب الـ 10 اللوتو الأخير: \\\\\\\\\\\\\\\\n"
+
+msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
+msgstr "🔥 الأرقام الساخنة (الأكثر جذبا):\\\\\\\\\\\\\\\\n"
+
+msgid "🔮 PREDICTIONS"
+msgstr "🔮 التنبؤات"
+
+msgid "🔮 Predictions"
+msgstr "🔮 التوقعات"
+
+msgid "😴 NEAPOLITAN SMORFIA"
+msgstr "😴 نعمة نابولية"
+
+msgid "😴 Neapolitan Smorfia"
+msgstr "😴 كشر نابولي"

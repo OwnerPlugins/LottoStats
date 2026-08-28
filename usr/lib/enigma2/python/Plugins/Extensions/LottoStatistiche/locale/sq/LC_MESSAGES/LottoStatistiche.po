@@ -1,0 +1,101 @@
+# LottoStatistiche translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: LottoStatistiche\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-08-28 09:01+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Albanian <translation-team-sq@lists.sourceforge.net>\n"
+"Language: sq\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "✅ Lotto archive updated!"
+msgstr "✅ Arkivi i lotos u përditësua!"
+
+msgid "✅ Superenalotto updated!"
+msgstr "✅ Superenalotto u përditësua!"
+
+msgid "❌ Exit"
+msgstr "❌ Dalje"
+
+msgid "❌ Lotto update error"
+msgstr "❌ Gabim i përditësimit të lotos"
+
+msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
+msgstr "❌ Nuk ka të dhëna të disponueshme. Shtypni 'Përditëso Superenalotto' nga menyja kryesore."
+
+msgid "❌ No draws available. Press 'Update Archive' from main menu."
+msgstr "❌ Nuk ofrohen shorte. Shtypni 'Përditëso arkivin' nga menyja kryesore."
+
+msgid "❌ Superenalotto update error"
+msgstr "❌ Gabim i përditësimit të Superenalotto"
+
+msgid "⭐ SUPERENALOTTO - Historical Archive"
+msgstr "⭐ SUPERENALOTTO - Arkivi Historik"
+
+msgid "⭐ Superenalotto"
+msgstr ""
+
+msgid "🎯 10 e LOTTO"
+msgstr "🎯 10 dhe SHUMË"
+
+msgid "🎯 10 e Lotto"
+msgstr "🎯 10 dhe Lotto"
+
+msgid "🎰 MAIN MENU - LOTTO STATISTICS"
+msgstr "🎰 MENYJA KRYESORE - STATISTIKA LOTO"
+
+msgid "💡 Tip: Play responsibly!"
+msgstr "💡 Këshillë: Luaj me përgjegjësi!"
+
+msgid "📈 FREQUENCIES AND DELAYS"
+msgstr "📈 FREKUENCA DHE VONESA"
+
+msgid "📈 Number Frequencies"
+msgstr "📈 Frekuencat e numrave"
+
+msgid "📊 Draws Archive"
+msgstr "📊 Arkivi i vizatimeve"
+
+msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
+msgstr "📊 STATISTIKA TË PËRGJITHSHME:\\\\\\\\\\\\\\\\n"
+
+msgid "📚 DRAWS ARCHIVE"
+msgstr "📚 ARKIVI I VIZATIMIT"
+
+msgid "🔄 Update Lotto Archive"
+msgstr "🔄 Përditëso Arkivin e Lotto"
+
+msgid "🔄 Update Superenalotto"
+msgstr "🔄 Përditëso Superenalotto"
+
+msgid "🔍 COMPLETE ANALYSIS"
+msgstr "🔍 ANALIZA E PLOTE"
+
+msgid "🔍 Statistical Analysis"
+msgstr "🔍 Analiza Statistikore"
+
+msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
+msgstr "🔢 SHORTA E FUNDIT 10 eLOTO:\\\\\\\\\\\\\\\\n"
+
+msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
+msgstr "🔥 NUMRAT TË NXETË (më të tërhequr):\\\\\\\\\\\\\\\\n"
+
+msgid "🔮 PREDICTIONS"
+msgstr "🔮 PARASHIKIMET"
+
+msgid "🔮 Predictions"
+msgstr "🔮 Parashikimet"
+
+msgid "😴 NEAPOLITAN SMORFIA"
+msgstr "😴 HIRIT NEAPOLITAN"
+
+msgid "😴 Neapolitan Smorfia"
+msgstr "😴 Grimaci napolitane"

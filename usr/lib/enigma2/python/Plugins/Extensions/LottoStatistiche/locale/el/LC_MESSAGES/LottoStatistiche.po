@@ -1,0 +1,102 @@
+# LottoStatistiche translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: LottoStatistiche\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-08-28 08:54+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Greek <team@lists.gnome.gr>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "✅ Lotto archive updated!"
+msgstr "✅ Το αρχείο Lotto ενημερώθηκε!"
+
+msgid "✅ Superenalotto updated!"
+msgstr "✅ Το Superenalotto ενημερώθηκε!"
+
+msgid "❌ Exit"
+msgstr "❌ Έξοδος"
+
+msgid "❌ Lotto update error"
+msgstr "❌ Σφάλμα ενημέρωσης Lotto"
+
+msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
+msgstr "❌ Δεν υπάρχουν διαθέσιμα δεδομένα. Πατήστε «Ενημέρωση Superenalotto» από το κύριο μενού."
+
+msgid "❌ No draws available. Press 'Update Archive' from main menu."
+msgstr "❌ Δεν υπάρχουν διαθέσιμες κληρώσεις. Πατήστε «Ενημέρωση αρχείου» από το κύριο μενού."
+
+msgid "❌ Superenalotto update error"
+msgstr "❌ Σφάλμα ενημέρωσης Superenalotto"
+
+msgid "⭐ SUPERENALOTTO - Historical Archive"
+msgstr "⭐ SUPERENALOTTO - Ιστορικό Αρχείο"
+
+msgid "⭐ Superenalotto"
+msgstr ""
+
+msgid "🎯 10 e LOTTO"
+msgstr "🎯 10 και ΠΟΛΛΑ"
+
+msgid "🎯 10 e Lotto"
+msgstr "🎯 10 και Λόττο"
+
+msgid "🎰 MAIN MENU - LOTTO STATISTICS"
+msgstr "🎰 ΚΥΡΙΟ ΜΕΝΟΥ - ΣΤΑΤΙΣΤΙΚΑ ΛΟΤΤΟ"
+
+msgid "💡 Tip: Play responsibly!"
+msgstr "💡 Συμβουλή: Παίξτε υπεύθυνα!"
+
+msgid "📈 FREQUENCIES AND DELAYS"
+msgstr "📈 ΣΥΧΝΟΤΗΤΕΣ ΚΑΙ ΚΑΘΥΣΤΕΡΗΣΕΙΣ"
+
+msgid "📈 Number Frequencies"
+msgstr "📈 Αριθμητικές συχνότητες"
+
+msgid "📊 Draws Archive"
+msgstr "📊 Αρχείο κληρώσεων"
+
+msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
+msgstr "📊 ΓΕΝΙΚΑ ΣΤΑΤΙΣΤΙΚΑ:\\\\\\\\\\\\\\\\n"
+
+msgid "📚 DRAWS ARCHIVE"
+msgstr "📚 ΑΡΧΕΙΟ ΚΛΗΡΩΣΕΩΝ"
+
+msgid "🔄 Update Lotto Archive"
+msgstr "🔄 Ενημερώστε το αρχείο Lotto"
+
+msgid "🔄 Update Superenalotto"
+msgstr "🔄 Ενημερώστε το Superenalotto"
+
+msgid "🔍 COMPLETE ANALYSIS"
+msgstr "🔍 ΠΛΗΡΗΣ ΑΝΑΛΥΣΗ"
+
+msgid "🔍 Statistical Analysis"
+msgstr "🔍 Στατιστική Ανάλυση"
+
+msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
+msgstr "🔢 ΤΕΛΕΥΤΑΙΑ 10 eLOTTO ΚΛΗΡΩΣΗ:\\\\\\\\\\\\\\\\n"
+
+msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
+msgstr "🔥 ΚΑΥΤΟΙ ΑΡΙΘΜΟΙ (οι περισσότεροι κληρωμένοι):\\\\\\\\\\\\\\\\n"
+
+msgid "🔮 PREDICTIONS"
+msgstr "🔮 ΠΡΟΒΛΕΨΕΙΣ"
+
+msgid "🔮 Predictions"
+msgstr "🔮 Προβλέψεις"
+
+msgid "😴 NEAPOLITAN SMORFIA"
+msgstr "😴 ΝΕΑΠΟΛΙΤΙΚΗ ΧΑΡΗ"
+
+msgid "😴 Neapolitan Smorfia"
+msgstr "😴 Ναπολιτάνικος μορφασμός"

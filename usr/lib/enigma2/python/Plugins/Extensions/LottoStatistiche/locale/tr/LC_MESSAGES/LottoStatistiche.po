@@ -1,0 +1,102 @@
+# LottoStatistiche translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: LottoStatistiche\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-08-28 09:03+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Turkish <gnome-turk@gnome.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "✅ Lotto archive updated!"
+msgstr "✅ Loto arşivi güncellendi!"
+
+msgid "✅ Superenalotto updated!"
+msgstr "✅ Superenalotto güncellendi!"
+
+msgid "❌ Exit"
+msgstr "❌ Çıkış"
+
+msgid "❌ Lotto update error"
+msgstr "❌ Loto güncelleme hatası"
+
+msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
+msgstr "❌ Veri mevcut değil. Ana menüden 'Superenalotto'yu Güncelle'ye basın."
+
+msgid "❌ No draws available. Press 'Update Archive' from main menu."
+msgstr "❌Çekiliş mevcut değil. Ana menüden 'Arşivi Güncelle'ye basın."
+
+msgid "❌ Superenalotto update error"
+msgstr "❌ Superenalotto güncelleme hatası"
+
+msgid "⭐ SUPERENALOTTO - Historical Archive"
+msgstr "⭐ SUPERENALOTTO - Tarih Arşivi"
+
+msgid "⭐ Superenalotto"
+msgstr "⭐ Süperenalotto"
+
+msgid "🎯 10 e LOTTO"
+msgstr "🎯 10 ve ÇOK"
+
+msgid "🎯 10 e Lotto"
+msgstr "🎯 10 ve Loto"
+
+msgid "🎰 MAIN MENU - LOTTO STATISTICS"
+msgstr "🎰 ANA MENÜ - LOTO İSTATİSTİKLERİ"
+
+msgid "💡 Tip: Play responsibly!"
+msgstr "💡 İpucu: Sorumlu bir şekilde oynayın!"
+
+msgid "📈 FREQUENCIES AND DELAYS"
+msgstr "📈 FREKANSLAR VE GECİKMELER"
+
+msgid "📈 Number Frequencies"
+msgstr "📈 Sayı Frekansları"
+
+msgid "📊 Draws Archive"
+msgstr "📊 Çizimler Arşivi"
+
+msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
+msgstr "📊 GENEL İSTATİSTİKLER:\\\\\\\\\\\\\\\\n"
+
+msgid "📚 DRAWS ARCHIVE"
+msgstr "📚 ÇİZİM ARŞİVİ"
+
+msgid "🔄 Update Lotto Archive"
+msgstr "🔄 Loto Arşivini Güncelle"
+
+msgid "🔄 Update Superenalotto"
+msgstr "🔄 Superenalotto'yu güncelleyin"
+
+msgid "🔍 COMPLETE ANALYSIS"
+msgstr "🔍 KOMPLE ANALİZ"
+
+msgid "🔍 Statistical Analysis"
+msgstr "🔍 İstatistiksel Analiz"
+
+msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
+msgstr "🔢 SON 10eLOTO ÇEKİLİŞİ:\\\\\\\\\\\\\\\\n"
+
+msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
+msgstr "🔥 SICAK NUMARALAR (en çok çekilenler):\\\\\\\\\\\\\\\\n"
+
+msgid "🔮 PREDICTIONS"
+msgstr "🔮 TAHMİNLER"
+
+msgid "🔮 Predictions"
+msgstr "🔮 Tahminler"
+
+msgid "😴 NEAPOLITAN SMORFIA"
+msgstr "😴 NAPOLITAN ZARAR"
+
+msgid "😴 Neapolitan Smorfia"
+msgstr "😴 Napoliten Yüz Buruşturması"

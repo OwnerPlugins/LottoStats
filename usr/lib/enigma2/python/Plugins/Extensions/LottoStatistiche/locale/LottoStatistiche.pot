@@ -1,0 +1,102 @@
+# LottoStatistiche translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: LottoStatistiche\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ekekaz@gmail.com [lululla]\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+msgid "✅ Lotto archive updated!"
+msgstr ""
+
+msgid "✅ Superenalotto updated!"
+msgstr ""
+
+msgid "❌ Exit"
+msgstr ""
+
+msgid "❌ Lotto update error"
+msgstr ""
+
+msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
+msgstr ""
+
+msgid "❌ No draws available. Press 'Update Archive' from main menu."
+msgstr ""
+
+msgid "❌ Superenalotto update error"
+msgstr ""
+
+msgid "⭐ SUPERENALOTTO - Historical Archive"
+msgstr ""
+
+msgid "⭐ Superenalotto"
+msgstr ""
+
+msgid "🎯 10 e LOTTO"
+msgstr ""
+
+msgid "🎯 10 e Lotto"
+msgstr ""
+
+msgid "🎰 MAIN MENU - LOTTO STATISTICS"
+msgstr ""
+
+msgid "💡 Tip: Play responsibly!"
+msgstr ""
+
+msgid "📈 FREQUENCIES AND DELAYS"
+msgstr ""
+
+msgid "📈 Number Frequencies"
+msgstr ""
+
+msgid "📊 Draws Archive"
+msgstr ""
+
+msgid "📊 GENERAL STATISTICS:\\n"
+msgstr ""
+
+msgid "📚 DRAWS ARCHIVE"
+msgstr ""
+
+msgid "🔄 Update Lotto Archive"
+msgstr ""
+
+msgid "🔄 Update Superenalotto"
+msgstr ""
+
+msgid "🔍 COMPLETE ANALYSIS"
+msgstr ""
+
+msgid "🔍 Statistical Analysis"
+msgstr ""
+
+msgid "🔢 LAST 10eLOTTO DRAW:\\n"
+msgstr ""
+
+msgid "🔥 HOT NUMBERS (most drawn):\\n"
+msgstr ""
+
+msgid "🔮 PREDICTIONS"
+msgstr ""
+
+msgid "🔮 Predictions"
+msgstr ""
+
+msgid "😴 NEAPOLITAN SMORFIA"
+msgstr ""
+
+msgid "😴 Neapolitan Smorfia"
+msgstr ""

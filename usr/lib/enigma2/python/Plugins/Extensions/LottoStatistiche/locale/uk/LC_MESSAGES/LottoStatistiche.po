@@ -1,0 +1,102 @@
+# LottoStatistiche translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: LottoStatistiche\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-08-28 09:03+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "✅ Lotto archive updated!"
+msgstr "✅ Оновлено архів Лото!"
+
+msgid "✅ Superenalotto updated!"
+msgstr "✅ SuperEnalotto оновлено!"
+
+msgid "❌ Exit"
+msgstr "вихід"
+
+msgid "❌ Lotto update error"
+msgstr "❌ Помилка оновлення Lotto"
+
+msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
+msgstr "❌ Немає даних. Натисніть «Оновити SuperEnalotto» в головному меню."
+
+msgid "❌ No draws available. Press 'Update Archive' from main menu."
+msgstr "❌ Розіграшів немає. Натисніть «Оновити архів» у головному меню."
+
+msgid "❌ Superenalotto update error"
+msgstr "❌ Помилка оновлення SuperEnalotto"
+
+msgid "⭐ SUPERENALOTTO - Historical Archive"
+msgstr "⭐ SUPERENALOTTO - Історичний архів"
+
+msgid "⭐ Superenalotto"
+msgstr "⭐ Супереналотто"
+
+msgid "🎯 10 e LOTTO"
+msgstr "🎯 10 і БАГАТО"
+
+msgid "🎯 10 e Lotto"
+msgstr "🎯 10 і Лото"
+
+msgid "🎰 MAIN MENU - LOTTO STATISTICS"
+msgstr "🎰 ГОЛОВНЕ МЕНЮ - СТАТИСТИКА ЛОТО"
+
+msgid "💡 Tip: Play responsibly!"
+msgstr "💡 Порада: грайте відповідально!"
+
+msgid "📈 FREQUENCIES AND DELAYS"
+msgstr "📈 ЧАСТОТИ ТА ЗАТРИМКИ"
+
+msgid "📈 Number Frequencies"
+msgstr "📈 Частоти чисел"
+
+msgid "📊 Draws Archive"
+msgstr "📊 Архів розіграшів"
+
+msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
+msgstr "📊 ЗАГАЛЬНА СТАТИСТИКА:\\\\\\\\\\\\\\\\n"
+
+msgid "📚 DRAWS ARCHIVE"
+msgstr "📚 АРХІВ РІЗНЕШІВ"
+
+msgid "🔄 Update Lotto Archive"
+msgstr "🔄 Оновіть архів Lotto"
+
+msgid "🔄 Update Superenalotto"
+msgstr "🔄 Оновіть SuperEnalotto"
+
+msgid "🔍 COMPLETE ANALYSIS"
+msgstr "🔍 ПОВНИЙ АНАЛІЗ"
+
+msgid "🔍 Statistical Analysis"
+msgstr "🔍 Статистичний аналіз"
+
+msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
+msgstr "🔢 ОСТАННІ РОЗІГРАШІ 10 eLOTTO:\\\\\\\\\\\\\\\\n"
+
+msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
+msgstr "🔥 ГАРЯЧІ ЧИСЛА (найбільше виграних):\\\\\\\\\\\\\\\\n"
+
+msgid "🔮 PREDICTIONS"
+msgstr "🔮 ПЕРЕДБАЧЕННЯ"
+
+msgid "🔮 Predictions"
+msgstr "🔮 Прогнози"
+
+msgid "😴 NEAPOLITAN SMORFIA"
+msgstr "😴 НЕАПОЛІТАНСЬКА ГРАЦІЯ"
+
+msgid "😴 Neapolitan Smorfia"
+msgstr "😴 Неаполітанська гримаса"

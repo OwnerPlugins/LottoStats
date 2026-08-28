@@ -1,0 +1,102 @@
+# LottoStatistiche translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: LottoStatistiche\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-08-28 09:01+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+msgid "✅ Lotto archive updated!"
+msgstr "✅ Archív Lotto bol aktualizovaný!"
+
+msgid "✅ Superenalotto updated!"
+msgstr "✅ Superenalotto aktualizované!"
+
+msgid "❌ Exit"
+msgstr "❌ Odísť"
+
+msgid "❌ Lotto update error"
+msgstr "❌ Chyba aktualizácie Lotto"
+
+msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
+msgstr "❌ Nie sú dostupné žiadne údaje. Stlačte 'Update Superenalotto' z hlavného menu."
+
+msgid "❌ No draws available. Press 'Update Archive' from main menu."
+msgstr "❌ Nie sú k dispozícii žiadne žrebovania. Stlačte 'Aktualizovať archív' z hlavnej ponuky."
+
+msgid "❌ Superenalotto update error"
+msgstr "❌ Chyba aktualizácie Superenalotto"
+
+msgid "⭐ SUPERENALOTTO - Historical Archive"
+msgstr "⭐ SUPERENALOTTO - Historický archív"
+
+msgid "⭐ Superenalotto"
+msgstr ""
+
+msgid "🎯 10 e LOTTO"
+msgstr "🎯 10 a LOT"
+
+msgid "🎯 10 e Lotto"
+msgstr "🎯 10 a Lotto"
+
+msgid "🎰 MAIN MENU - LOTTO STATISTICS"
+msgstr "🎰 HLAVNÉ MENU - ŠTATISTIKA LOTTO"
+
+msgid "💡 Tip: Play responsibly!"
+msgstr "💡 Tip: Hrajte zodpovedne!"
+
+msgid "📈 FREQUENCIES AND DELAYS"
+msgstr "📈 FREKVENCIE A ONESKORENIA"
+
+msgid "📈 Number Frequencies"
+msgstr "📈 Frekvencie čísel"
+
+msgid "📊 Draws Archive"
+msgstr "📊 Archív žrebov"
+
+msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
+msgstr "📊 VŠEOBECNÉ ŠTATISTIKY:\\\\\\\\\\\\\\\\n"
+
+msgid "📚 DRAWS ARCHIVE"
+msgstr "📚 ARCHÍV ŽREBOV"
+
+msgid "🔄 Update Lotto Archive"
+msgstr "🔄 Aktualizujte archív Lotto"
+
+msgid "🔄 Update Superenalotto"
+msgstr "🔄 Aktualizujte Superenalotto"
+
+msgid "🔍 COMPLETE ANALYSIS"
+msgstr "🔍 KOMPLETNÁ ANALÝZA"
+
+msgid "🔍 Statistical Analysis"
+msgstr "🔍 Štatistická analýza"
+
+msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
+msgstr "🔢 POSLEDNÝCH 10e ŽREBOVANIE:\\\\\\\\\\\\\\\\n"
+
+msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
+msgstr "🔥 HORÚCE ČÍSLA (najviac vyžrebované):\\\\\\\\\\\\\\\\n"
+
+msgid "🔮 PREDICTIONS"
+msgstr "🔮 PREDPOKLADY"
+
+msgid "🔮 Predictions"
+msgstr "🔮 Predpovede"
+
+msgid "😴 NEAPOLITAN SMORFIA"
+msgstr "😴 NEAPOLITAN GRACE"
+
+msgid "😴 Neapolitan Smorfia"
+msgstr "😴 Neapolská grimasa"

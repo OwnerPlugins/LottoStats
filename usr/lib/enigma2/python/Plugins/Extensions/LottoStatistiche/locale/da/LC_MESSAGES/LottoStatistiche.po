@@ -1,0 +1,102 @@
+# LottoStatistiche translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: LottoStatistiche\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-08-28 08:53+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "✅ Lotto archive updated!"
+msgstr "✅ Lotto-arkiv opdateret!"
+
+msgid "✅ Superenalotto updated!"
+msgstr "✅ Superenalotto opdateret!"
+
+msgid "❌ Exit"
+msgstr "❌ Afslut"
+
+msgid "❌ Lotto update error"
+msgstr "❌ Lotto-opdateringsfejl"
+
+msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
+msgstr "❌ Ingen tilgængelige data. Tryk på 'Opdater Superenalotto' fra hovedmenuen."
+
+msgid "❌ No draws available. Press 'Update Archive' from main menu."
+msgstr "❌ Ingen lodtrækninger tilgængelige. Tryk på 'Opdater arkiv' fra hovedmenuen."
+
+msgid "❌ Superenalotto update error"
+msgstr "❌ Superenalotto-opdateringsfejl"
+
+msgid "⭐ SUPERENALOTTO - Historical Archive"
+msgstr "⭐ SUPERENALOTTO - Historisk arkiv"
+
+msgid "⭐ Superenalotto"
+msgstr ""
+
+msgid "🎯 10 e LOTTO"
+msgstr "🎯 10 og MASSE"
+
+msgid "🎯 10 e Lotto"
+msgstr "🎯 10 og Lotto"
+
+msgid "🎰 MAIN MENU - LOTTO STATISTICS"
+msgstr "🎰 HOVEDMENU - LOTTO STATISTIK"
+
+msgid "💡 Tip: Play responsibly!"
+msgstr "💡 Tip: Spil ansvarligt!"
+
+msgid "📈 FREQUENCIES AND DELAYS"
+msgstr "📈 FREKVENS OG FORSINKELSER"
+
+msgid "📈 Number Frequencies"
+msgstr "📈 Antal frekvenser"
+
+msgid "📊 Draws Archive"
+msgstr "📊 Tegner arkiv"
+
+msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
+msgstr "📊 GENEREL STATISTIK:\\\\\\\\\\\\\\\\n"
+
+msgid "📚 DRAWS ARCHIVE"
+msgstr "📚 TEGNINGER ARKIV"
+
+msgid "🔄 Update Lotto Archive"
+msgstr "🔄 Opdater Lotto-arkivet"
+
+msgid "🔄 Update Superenalotto"
+msgstr "🔄 Opdater Superenalotto"
+
+msgid "🔍 COMPLETE ANALYSIS"
+msgstr "🔍 Fuldstændig ANALYSE"
+
+msgid "🔍 Statistical Analysis"
+msgstr "🔍 Statistisk analyse"
+
+msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
+msgstr "🔢 SIDSTE 10eLOTTO-LODNING:\\\\\\\\\\\\\\\\n"
+
+msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
+msgstr "🔥 HOTTE NUMRE (mest tegnede):\\\\\\\\\\\\\\\\n"
+
+msgid "🔮 PREDICTIONS"
+msgstr "🔮 FORUDSIGNINGER"
+
+msgid "🔮 Predictions"
+msgstr "🔮 Forudsigelser"
+
+msgid "😴 NEAPOLITAN SMORFIA"
+msgstr "😴 NEAPOLITANSK NÅDE"
+
+msgid "😴 Neapolitan Smorfia"
+msgstr "😴 Napolitansk grimace"
