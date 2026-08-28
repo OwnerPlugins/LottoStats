@@ -32,13 +32,13 @@ class LottoMainScreen(Screen):
             <widget name="menu" position="10,70" size="780,430" font="Regular;24" />
         </screen>
     """
-    
+
     def __init__(self, session):
         Screen.__init__(self, session)
         self.session = session
-        
+
         self["title"] = Label(_("🎰 MAIN MENU - LOTTO STATISTICS"))
-        
+
         self.menu_items = [
             _("📊 Draws Archive"),
             _("📈 Number Frequencies"),
@@ -51,7 +51,7 @@ class LottoMainScreen(Screen):
             _("🔄 Update Superenalotto"),
             _("❌ Exit")
         ]
-        
+
         self["menu"] = MenuList(self.menu_items)
         self["actions"] = ActionMap(["OkCancelActions", "DirectionActions"], {
             "ok": self.ok_pressed,
@@ -59,10 +59,10 @@ class LottoMainScreen(Screen):
             "up": self.menu_up,
             "down": self.menu_down
         }, -1)
-        
+
     def ok_pressed(self):
         index = self["menu"].getSelectedIndex()
-        
+
         if index == 0:
             self.session.open(ArchivioScreen)
         elif index == 1:
@@ -79,22 +79,34 @@ class LottoMainScreen(Screen):
             self.session.open(SuperenalottoScreen)
         elif index == 7:
             if update_archive():
-                self.session.open(MessageBox, _("✅ Lotto archive updated!"), MessageBox.TYPE_INFO)
+                self.session.open(
+                    MessageBox,
+                    _("✅ Lotto archive updated!"),
+                    MessageBox.TYPE_INFO)
             else:
-                self.session.open(MessageBox, _("❌ Lotto update error"), MessageBox.TYPE_ERROR)
+                self.session.open(
+                    MessageBox,
+                    _("❌ Lotto update error"),
+                    MessageBox.TYPE_ERROR)
         elif index == 8:
             if download_and_convert_se():
-                self.session.open(MessageBox, _("✅ Superenalotto updated!"), MessageBox.TYPE_INFO)
+                self.session.open(
+                    MessageBox,
+                    _("✅ Superenalotto updated!"),
+                    MessageBox.TYPE_INFO)
             else:
-                self.session.open(MessageBox, _("❌ Superenalotto update error"), MessageBox.TYPE_ERROR)
+                self.session.open(
+                    MessageBox,
+                    _("❌ Superenalotto update error"),
+                    MessageBox.TYPE_ERROR)
         elif index == 9:
             self.exit()
-            
+
     def menu_up(self):
         self["menu"].up()
-        
+
     def menu_down(self):
         self["menu"].down()
-        
+
     def exit(self):
         self.close()

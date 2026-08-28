@@ -14,11 +14,11 @@ class SmorfiaScreen(Screen):
             <widget name="smorfia" position="10,60" size="780,430" font="Regular;18" />
         </screen>
     """
-    
+
     def __init__(self, session):
         Screen.__init__(self, session)
         self.session = session
-        
+
         self["title"] = Label(_("😴 NEAPOLITAN SMORFIA"))
         self["smorfia"] = ScrollLabel(self._get_smorfia_text())
         self["actions"] = ActionMap(["OkCancelActions", "DirectionActions"], {
@@ -28,7 +28,7 @@ class SmorfiaScreen(Screen):
             "left": self.page_up,
             "right": self.page_down
         }, -1)
-        
+
     def _get_smorfia_text(self):
         text = _("📖 NUMBER MEANINGS (1-90):\n\n")
         counter = 0
@@ -40,12 +40,12 @@ class SmorfiaScreen(Screen):
             else:
                 text += "  |  "
         return text
-        
+
     def page_up(self):
         self["smorfia"].pageUp()
-        
+
     def page_down(self):
         self["smorfia"].pageDown()
-        
+
     def exit(self):
         self.close()

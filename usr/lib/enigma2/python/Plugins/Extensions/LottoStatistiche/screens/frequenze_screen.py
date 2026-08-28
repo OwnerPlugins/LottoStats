@@ -21,7 +21,7 @@ class FrequenzeScreen(Screen):
 
         self["title"] = Label(_("📈 FREQUENCIES AND DELAYS"))
         self["frequenze"] = ScrollLabel(self._get_frequencies_text())
-        
+
         self["actions"] = ActionMap(["OkCancelActions", "DirectionActions"], {
             "cancel": self.exit,
             "up": self.page_up,
@@ -34,7 +34,11 @@ class FrequenzeScreen(Screen):
         frequencies = calculate_frequencies()
         delays = calculate_delays()
 
-        hot_numbers = sorted(frequencies.items(), key=lambda x: x[1], reverse=True)[:10]
+        hot_numbers = sorted(
+            frequencies.items(),
+            key=lambda x: x[1],
+            reverse=True)[
+            :10]
         cold_numbers = sorted(frequencies.items(), key=lambda x: x[1])[:10]
 
         text = _("🔥 HOT NUMBERS (most drawn):\n")
@@ -46,7 +50,11 @@ class FrequenzeScreen(Screen):
             text += f"  {i:2}. {num:2} → {freq} {_('times')}\n"
 
         text += _("\n⏳ MAX DELAYS:\n")
-        top_delays = sorted(delays.items(), key=lambda x: x[1], reverse=True)[:10]
+        top_delays = sorted(
+            delays.items(),
+            key=lambda x: x[1],
+            reverse=True)[
+            :10]
         for i, (num, delay) in enumerate(top_delays, 1):
             text += f"  {i:2}. {num:2} → {delay} {_('draws')}\n"
 
@@ -54,7 +62,7 @@ class FrequenzeScreen(Screen):
 
     def page_up(self):
         self["frequenze"].pageUp()
-        
+
     def page_down(self):
         self["frequenze"].pageDown()
 

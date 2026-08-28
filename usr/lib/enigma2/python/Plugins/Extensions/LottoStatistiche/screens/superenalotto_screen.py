@@ -35,12 +35,17 @@ class SuperenalottoScreen(Screen):
         archive = get_superenalotto_archive()
 
         if not archive:
-            return _("❌ No data available. Press 'Update Superenalotto' from main menu.")
+            return _(
+                "❌ No data available. Press 'Update Superenalotto' from main menu.")
 
         # Last draw
         last = archive[-1]
 
-        text = f"🎰 {_('LAST DRAW')} ({_('contest')} {last['concorso']} - {last['data']}):\n"
+        text = f"🎰 {
+            _('LAST DRAW')} ({
+            _('contest')} {
+            last['concorso']} - {
+                last['data']}):\n"
         text += f"  {_('Numbers')}: {', '.join(map(str, last['numeri']))}\n"
         if last['jolly']:
             text += f"  Jolly: {last['jolly']}\n"
@@ -70,10 +75,9 @@ class SuperenalottoScreen(Screen):
 
     def page_up(self):
         self["info"].pageUp()
-        
+
     def page_down(self):
         self["info"].pageDown()
 
     def exit(self):
         self.close()
-
