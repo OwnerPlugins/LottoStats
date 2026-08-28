@@ -1,0 +1,54 @@
+#!/bin/sh
+# ============================================================
+# LottoStatistiche postinst - Install dependencies
+# ============================================================
+
+echo "============================================================"
+echo "  LottoStatistiche - Installing dependencies..."
+echo "============================================================"
+
+# # Detects OS type
+# if [ -f /var/lib/dpkg/status ]; then
+    # OSTYPE="DreamOs"
+    # INSTALL_CMD="apt-get install -y"
+    # UPDATE_CMD="apt-get update"
+# elif [ -f /etc/opkg/opkg.conf ] || [ -f /var/lib/opkg/status ]; then
+    # OSTYPE="OE"
+    # INSTALL_CMD="opkg install"
+    # UPDATE_CMD="opkg update"
+# else
+    # OSTYPE="Unknown"
+    # INSTALL_CMD=""
+    # UPDATE_CMD=""
+# fi
+
+# # Detects Python version
+# if python --version 2>&1 | grep -q '^Python 3\.'; then
+    # PYTHON="PY3"
+# else
+    # PYTHON="PY2"
+# fi
+
+# # Install package function
+# install_pkg() {
+    # local pkg=$1
+    # echo "[INSTALL] Installing $pkg..."
+    # case "$OSTYPE" in
+        # "DreamOs")
+            # $UPDATE_CMD && $INSTALL_CMD "$pkg" || echo "[WARN] Could not install $pkg"
+            # ;;
+        # "OE")
+            # $UPDATE_CMD && $INSTALL_CMD "$pkg" || echo "[WARN] Could not install $pkg"
+            # ;;
+        # *)
+            # echo "[WARN] Cannot install $pkg on $OSTYPE"
+            # ;;
+    # esac
+# }
+
+
+echo "============================================================"
+echo "  LottoStatistiche dependencies installed successfully"
+echo "============================================================"
+
+exit 0

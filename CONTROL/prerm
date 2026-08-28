@@ -1,0 +1,19 @@
+#!/bin/sh
+# ============================================================
+# LottoStatistiche prerm - Remove plugin files
+# ============================================================
+
+echo "============================================================"
+echo "  LottoStatistiche - Removing plugin..."
+echo "============================================================"
+
+EXTDIR="/usr/lib/enigma2/python/Plugins/Extensions/LottoStatistiche/"
+if [ -d "$EXTDIR" ]; then
+    rm -rf "$EXTDIR" > /dev/null 2>&1
+    echo "[OK] Plugin removed"
+else
+    echo "[INFO] Plugin not found"
+fi
+
+echo "============================================================"
+exit 0

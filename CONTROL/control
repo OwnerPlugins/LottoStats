@@ -1,0 +1,11 @@
+Package: enigma2-plugin-extensions-lottostatistiche
+Version: 1.0
+Section: enigma2
+Priority: optional
+Architecture: all
+Maintainer: Lululla
+Description: LottoStatistiche
+Source: enigma2-plugin-extensions-lottostatistiche
+Homepage: https://github.com/OwnerPlugins
+License: GPL-3.0
+OE: OE-Alliance
