@@ -14,7 +14,8 @@ from .previsioni_screen import PrevisioniScreen
 from .smorfia_screen import SmorfiaScreen
 from .dieci_lotto_screen import DieciLottoScreen
 from .superenalotto_screen import SuperenalottoScreen
-from ..core.update import aggiorna_archivio
+from ..core.update import update_archive
+from ..core.update_superenalotto import download_and_convert_se
 from . import _
 
 

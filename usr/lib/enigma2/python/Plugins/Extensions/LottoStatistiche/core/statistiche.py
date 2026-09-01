@@ -98,7 +98,6 @@ def generate_predictions():
 
 def get_dieci_lotto():
     """Get 10eLotto data"""
-    archive = get_archive()
     frequencies = calculate_frequencies()
 
     # Simulate last 10eLotto draw (10 numbers)

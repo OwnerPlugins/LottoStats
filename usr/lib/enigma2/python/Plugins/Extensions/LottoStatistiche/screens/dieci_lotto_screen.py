@@ -34,8 +34,7 @@ class DieciLottoScreen(Screen):
 
         text = _("🔢 LAST 10eLOTTO DRAW:\n")
         if data and 'ultima' in data:
-            text += f"  {_('Drawn numbers')}: {', '.join(map(str,
-                                                             data['ultima']))}\n"
+            text += f"  {_('Drawn numbers')}: {', '.join(map(str, data['ultima']))}\n"
 
         text += _("\n📊 10eLOTTO STATISTICS:\n")
         if data and 'frequenze' in data:

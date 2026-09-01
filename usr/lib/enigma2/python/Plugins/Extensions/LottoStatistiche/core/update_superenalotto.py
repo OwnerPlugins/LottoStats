@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 import os
-import json
 import urllib.request
 import csv
 from .dati import save_superenalotto_archive

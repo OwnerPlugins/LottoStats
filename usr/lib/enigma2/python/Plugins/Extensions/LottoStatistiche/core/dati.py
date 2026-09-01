@@ -94,4 +94,5 @@ def generate_fake_se_archive():
             'jolly': random.randint(1, 90),
             'superstar': random.randint(1, 90)
         })
+    save_superenalotto_archive(archive)
     return archive

@@ -34,21 +34,9 @@ class AnalisiScreen(Screen):
 
         text = _("📊 GENERAL STATISTICS:\n")
         text += f"  {_('Total draws')}: {analysis['total_draws']}\n"
-        text += f"  {
-            _('Most frequent number')}: {
-            analysis['most_frequent'][0]} ({
-            analysis['most_frequent'][1]} {
-                _('times')})\n"
-        text += f"  {
-            _('Least frequent number')}: {
-            analysis['least_frequent'][0]} ({
-            analysis['least_frequent'][1]} {
-                _('times')})\n"
-        text += f"  {
-            _('Number with max delay')}: {
-            analysis['max_delay'][0]} ({
-            analysis['max_delay'][1]} {
-                _('draws')})\n"
+        text += f"  {_('Most frequent number')}: {analysis['most_frequent'][0]} ({analysis['most_frequent'][1]} {_('times')})\n"
+        text += f"  {_('Least frequent number')}: {analysis['least_frequent'][0]} ({analysis['least_frequent'][1]} {_('times')})\n"
+        text += f"  {_('Number with max delay')}: {analysis['max_delay'][0]} ({analysis['max_delay'][1]} {_('draws')})\n"
 
         text += _("\n📌 MOST DRAWN NUMBERS PER WHEEL:\n")
         for wheel, numbers in analysis['numbers_per_wheel'].items():
