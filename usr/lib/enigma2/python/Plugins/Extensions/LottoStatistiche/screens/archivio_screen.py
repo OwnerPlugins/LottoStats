@@ -50,7 +50,8 @@ class ArchivioScreen(Screen):
             text += "\n"
 
         if len(archive) > 50:
-            text += f"\n... {_('and')} {len(archive) - 50} {_('more draws')} ({_('use up/down to scroll')})"
+            text += f"\n... {_('and')} {len(archive) -
+                                        50} {_('more draws')} ({_('use up/down to scroll')})"
 
         return text
 
