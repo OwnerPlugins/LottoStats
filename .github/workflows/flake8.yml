@@ -17,10 +17,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Pinned to the Python line Enigma2 boxes actually run (pre-3.12).
+      # Python 3.12 (PEP 701) relaxed f-string grammar to allow arbitrary
+      # expressions - including literal newlines - inside {}. autopep8's
+      # own aggressive line-wrapping considers that a valid rewrite for a
+      # long f-string line, and a compile-check running on 3.12+ agrees.
+      # But that same rewrite is a hard SyntaxError on the Enigma2
+      # runtime, so checking on a newer Python here would silently pass
+      # code that crashes on the actual target device.
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.13"
+          python-version: "3.9"
 
       - name: Install linters
         run: |
