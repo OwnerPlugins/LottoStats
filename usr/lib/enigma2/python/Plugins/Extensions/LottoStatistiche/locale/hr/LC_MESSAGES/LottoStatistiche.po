@@ -65,8 +65,9 @@ msgstr "📈 Brojne frekvencije"
 msgid "📊 Draws Archive"
 msgstr "📊 Arhiva crteža"
 
+#, fuzzy
 msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
-msgstr "📊 OPĆA STATISTIKA:\\\\\\\\\\\\\\\\n"
+msgstr "📊 OPĆA STATISTIKA:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "📚 DRAWS ARCHIVE"
 msgstr "📚 ARHIVA CRTEŽA"
@@ -83,11 +84,13 @@ msgstr "🔍 KOMPLETNA ANALIZA"
 msgid "🔍 Statistical Analysis"
 msgstr "🔍 Statistička analiza"
 
+#, fuzzy
 msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
-msgstr "🔢 POSLJEDNJIH 10 eLOTTO IZVLAČENJA:\\\\\\\\\\\\\\\\n"
+msgstr "🔢 POSLJEDNJIH 10 eLOTTO IZVLAČENJA:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
+#, fuzzy
 msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr "🔥 VRUĆI BROJEVI (najviše izvučeni):\\\\\\\\\\\\\\\\n"
+msgstr "🔥 VRUĆI BROJEVI (najviše izvučeni):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "🔮 PREDICTIONS"
 msgstr "🔮 PREDVIĐANJA"

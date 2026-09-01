@@ -64,8 +64,9 @@ msgstr "📈 Frekuencat e numrave"
 msgid "📊 Draws Archive"
 msgstr "📊 Arkivi i vizatimeve"
 
+#, fuzzy
 msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
-msgstr "📊 STATISTIKA TË PËRGJITHSHME:\\\\\\\\\\\\\\\\n"
+msgstr "📊 STATISTIKA TË PËRGJITHSHME:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "📚 DRAWS ARCHIVE"
 msgstr "📚 ARKIVI I VIZATIMIT"
@@ -82,11 +83,13 @@ msgstr "🔍 ANALIZA E PLOTE"
 msgid "🔍 Statistical Analysis"
 msgstr "🔍 Analiza Statistikore"
 
+#, fuzzy
 msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
-msgstr "🔢 SHORTA E FUNDIT 10 eLOTO:\\\\\\\\\\\\\\\\n"
+msgstr "🔢 SHORTA E FUNDIT 10 eLOTO:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
+#, fuzzy
 msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr "🔥 NUMRAT TË NXETË (më të tërhequr):\\\\\\\\\\\\\\\\n"
+msgstr "🔥 NUMRAT TË NXETË (më të tërhequr):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "🔮 PREDICTIONS"
 msgstr "🔮 PARASHIKIMET"

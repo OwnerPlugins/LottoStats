@@ -65,8 +65,9 @@ msgstr "📈 Sayı Frekansları"
 msgid "📊 Draws Archive"
 msgstr "📊 Çizimler Arşivi"
 
+#, fuzzy
 msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
-msgstr "📊 GENEL İSTATİSTİKLER:\\\\\\\\\\\\\\\\n"
+msgstr "📊 GENEL İSTATİSTİKLER:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "📚 DRAWS ARCHIVE"
 msgstr "📚 ÇİZİM ARŞİVİ"
@@ -83,11 +84,13 @@ msgstr "🔍 KOMPLE ANALİZ"
 msgid "🔍 Statistical Analysis"
 msgstr "🔍 İstatistiksel Analiz"
 
+#, fuzzy
 msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
-msgstr "🔢 SON 10eLOTO ÇEKİLİŞİ:\\\\\\\\\\\\\\\\n"
+msgstr "🔢 SON 10eLOTO ÇEKİLİŞİ:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
+#, fuzzy
 msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr "🔥 SICAK NUMARALAR (en çok çekilenler):\\\\\\\\\\\\\\\\n"
+msgstr "🔥 SICAK NUMARALAR (en çok çekilenler):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "🔮 PREDICTIONS"
 msgstr "🔮 TAHMİNLER"

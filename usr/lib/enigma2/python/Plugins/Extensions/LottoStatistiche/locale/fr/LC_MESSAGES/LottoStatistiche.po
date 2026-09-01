@@ -65,8 +65,9 @@ msgstr "📈 Fréquences numériques"
 msgid "📊 Draws Archive"
 msgstr "📊 Archives des tirages"
 
+#, fuzzy
 msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
-msgstr "📊 STATISTIQUES GÉNÉRALES :\\\\\\\\\\\\\\\\n"
+msgstr "📊 STATISTIQUES GÉNÉRALES :\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "📚 DRAWS ARCHIVE"
 msgstr "📚 ARCHIVES DES TIRAGES"
@@ -83,11 +84,13 @@ msgstr "🔍 ANALYSE COMPLÈTE"
 msgid "🔍 Statistical Analysis"
 msgstr "🔍 Analyse statistique"
 
+#, fuzzy
 msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
-msgstr "🔢 DERNIERS TIRAGE eLOTTO :\\\\\\\\\\\\\\\\n"
+msgstr "🔢 DERNIERS TIRAGE eLOTTO :\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
+#, fuzzy
 msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr "🔥 NUMÉROS CHAUDS (les plus tirés) :\\\\\\\\\\\\\\\\n"
+msgstr "🔥 NUMÉROS CHAUDS (les plus tirés) :\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "🔮 PREDICTIONS"
 msgstr "🔮 PRÉVISIONS"

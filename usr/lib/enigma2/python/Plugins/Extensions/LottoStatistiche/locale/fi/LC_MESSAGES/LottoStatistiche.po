@@ -65,8 +65,9 @@ msgstr "📈 Numeroiden taajuudet"
 msgid "📊 Draws Archive"
 msgstr "📊 Piirustusarkisto"
 
+#, fuzzy
 msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
-msgstr "📊 YLEISET TILASTOTIEDOT:\\\\\\\\\\\\\\\\n"
+msgstr "📊 YLEISET TILASTOTIEDOT:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "📚 DRAWS ARCHIVE"
 msgstr "📚 PIIRUSTUSARKISTO"
@@ -83,11 +84,13 @@ msgstr "🔍 TÄYDELLINEN ANALYYSI"
 msgid "🔍 Statistical Analysis"
 msgstr "🔍 Tilastollinen analyysi"
 
+#, fuzzy
 msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
-msgstr "🔢 VIIMEINEN 10eLOTTO ARVO:\\\\\\\\\\\\\\\\n"
+msgstr "🔢 VIIMEINEN 10eLOTTO ARVO:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
+#, fuzzy
 msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr "🔥 KUUMAT NUMEROT (arvostetuimmat):\\\\\\\\\\\\\\\\n"
+msgstr "🔥 KUUMAT NUMEROT (arvostetuimmat):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "🔮 PREDICTIONS"
 msgstr "🔮 ENNUSTUKSET"
