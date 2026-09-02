@@ -1,0 +1,29 @@
+<screen position="center,center" size="1280,720" title="Smorfia Napoletana">
+    <widget name="title"
+        position="10,10"
+        size="1260,60"
+        font="Regular;36"
+        foregroundColor="#ff8800" />
+
+    <widget name="list"
+        position="10,80"
+        size="600,600"
+        font="Regular;22"
+        itemHeight="60"
+        scrollbarMode="showOnDemand"
+        transparent="1" />
+
+    <widget name="cover"
+        position="796,245"
+        size="250,250"
+        scale="1"
+        alphatest="on"
+        zPosition="3" />
+
+    <widget name="info"
+        position="662,110"
+        size="500,80"
+        font="Regular;32"
+        foregroundColor="#ffffff"
+        halign="center" />
+</screen>

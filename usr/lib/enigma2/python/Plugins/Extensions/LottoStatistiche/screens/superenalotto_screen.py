@@ -6,16 +6,11 @@ from Components.ScrollLabel import ScrollLabel
 from collections import Counter
 
 from ..core.dati import get_superenalotto_archive
-from . import _
+from .. import _, get_skin_override
 
 
 class SuperenalottoScreen(Screen):
-    skin = """
-        <screen position="center,center" size="800,550" title="Superenalotto">
-            <widget name="title" position="10,10" size="780,40" font="Regular;26" foregroundColor="#ffdd00" />
-            <widget name="info" position="10,60" size="780,430" font="Regular;20" />
-        </screen>
-    """
+    skin = get_skin_override("superenalotto")
 
     def __init__(self, session):
         Screen.__init__(self, session)
@@ -38,7 +33,6 @@ class SuperenalottoScreen(Screen):
             return _(
                 "❌ No data available. Press 'Update Superenalotto' from main menu.")
 
-        # Last draw
         last = archive[-1]
 
         text = f"🎰 {_('LAST DRAW')} ({_('contest')} {last['concorso']} - {last['data']}):\n"
@@ -48,7 +42,6 @@ class SuperenalottoScreen(Screen):
         if last['superstar']:
             text += f"  SuperStar: {last['superstar']}\n"
 
-        # Frequencies
         text += _("\n📊 MOST FREQUENT NUMBERS (all contests):\n")
         frequencies = Counter()
         for draw in archive:
@@ -59,7 +52,6 @@ class SuperenalottoScreen(Screen):
         for num, freq in top:
             text += f"  {num:2} → {freq} {_('times')}\n"
 
-        # Least frequent numbers
         text += _("\n❄️ LEAST FREQUENT NUMBERS:\n")
         bottom = frequencies.most_common()[-10:]
         for num, freq in sorted(bottom):

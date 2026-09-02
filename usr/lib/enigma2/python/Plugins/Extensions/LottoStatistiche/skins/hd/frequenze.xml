@@ -1,0 +1,4 @@
+<screen position="center,center" size="800,480" title="Frequenze Numeri">
+    <widget name="title" position="10,10" size="780,40" font="Regular;24" foregroundColor="#ffcc00" />
+    <widget name="frequenze" position="10,60" size="780,380" font="Regular;18" transparent="1" />
+</screen>

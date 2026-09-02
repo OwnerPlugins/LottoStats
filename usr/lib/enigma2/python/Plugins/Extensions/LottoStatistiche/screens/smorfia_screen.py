@@ -2,50 +2,77 @@
 from Screens.Screen import Screen
 from Components.Label import Label
 from Components.ActionMap import ActionMap
-from Components.ScrollLabel import ScrollLabel
+from Components.Pixmap import Pixmap
+from Components.MenuList import MenuList
+from enigma import ePicLoad
 from ..core.smorfia import SMORFIA
-from . import _
+from .. import _, get_skin_override
+import os
 
 
 class SmorfiaScreen(Screen):
-    skin = """
-        <screen position="center,center" size="800,550" title="Smorfia Napoletana">
-            <widget name="title" position="10,10" size="780,40" font="Regular;26" foregroundColor="#ff8800" />
-            <widget name="smorfia" position="10,60" size="780,430" font="Regular;18" />
-        </screen>
-    """
+    skin = get_skin_override("smorfia")
 
     def __init__(self, session):
         Screen.__init__(self, session)
         self.session = session
+        self["title"] = Label(_("NEAPOLITAN SMORFIA"))
 
-        self["title"] = Label(_("😴 NEAPOLITAN SMORFIA"))
-        self["smorfia"] = ScrollLabel(self._get_smorfia_text())
-        self["actions"] = ActionMap(["OkCancelActions", "DirectionActions"], {
-            "cancel": self.exit,
-            "up": self.page_up,
-            "down": self.page_down,
-            "left": self.page_up,
-            "right": self.page_down
+        self.smorfia_entries = []
+        for num in range(1, 91):
+            entry = SMORFIA.get(num)
+            if entry:
+                self.smorfia_entries.append({
+                    "num": num,
+                    "name": entry["name"],
+                    "icon": entry["icon"]
+                })
+
+        menu_items = []
+        for item in self.smorfia_entries:
+            menu_items.append(f"{item['num']:2}. {item['name']}")
+
+        self["list"] = MenuList(menu_items)
+        self["list"].onSelectionChanged.append(self._show_icon)
+
+        self["cover"] = Pixmap()
+        self["info"] = Label("")
+
+        self["actions"] = ActionMap(["OkCancelActions"], {
+            "cancel": self.close,
         }, -1)
 
-    def _get_smorfia_text(self):
-        text = _("📖 NUMBER MEANINGS (1-90):\n\n")
-        counter = 0
-        for num, meaning in sorted(SMORFIA.items()):
-            text += f"{num:2} = {meaning}"
-            counter += 1
-            if counter % 3 == 0:
-                text += "\n"
-            else:
-                text += "  |  "
-        return text
+        self.picload = None
+        self.onLayoutFinish.append(self._show_icon)
 
-    def page_up(self):
-        self["smorfia"].pageUp()
+    def _show_icon(self):
+        try:
+            idx = self["list"].getSelectedIndex()
+            if idx < 0 or idx >= len(self.smorfia_entries):
+                self["cover"].hide()
+                return
 
-    def page_down(self):
-        self["smorfia"].pageDown()
+            item = self.smorfia_entries[idx]
+            plugin_path = os.path.dirname(os.path.dirname(__file__))
+            icon_path = os.path.join(plugin_path, "images", "smorfia", item["icon"])
 
-    def exit(self):
-        self.close()
+            self["info"].setText(f"[{item['num']:2}] -> {item['name']}")
+
+            if os.path.exists(icon_path):
+                if self.picload is None:
+                    self.picload = ePicLoad()
+
+                self.picload.setPara([80, 80, 1, 1, False, 1, "#00000000"])
+                decode_result = self.picload.startDecode(icon_path, 0, 0, False)
+
+                if decode_result == 0:
+                    ptr = self.picload.getData()
+                    if ptr:
+                        self["cover"].instance.setPixmap(ptr)
+                        self["cover"].show()
+                        return
+
+            self["cover"].hide()
+
+        except Exception:
+            self["cover"].hide()

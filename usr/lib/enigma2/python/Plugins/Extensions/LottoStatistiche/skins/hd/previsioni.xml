@@ -1,0 +1,4 @@
+<screen position="center,center" size="800,480" title="Previsioni">
+    <widget name="title" position="10,10" size="780,40" font="Regular;24" foregroundColor="#ff4444" />
+    <widget name="previsioni" position="10,60" size="780,380" font="Regular;18" transparent="1" />
+</screen>

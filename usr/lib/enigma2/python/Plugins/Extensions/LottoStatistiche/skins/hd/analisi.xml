@@ -1,0 +1,4 @@
+<screen position="center,center" size="800,480" title="Analisi Statistiche">
+    <widget name="title" position="10,10" size="780,40" font="Regular;24" foregroundColor="#ff66ff" />
+    <widget name="analisi" position="10,60" size="780,380" font="Regular;18" transparent="1" />
+</screen>

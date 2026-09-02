@@ -1,0 +1,6 @@
+<screen position="center,center" size="1920,1080" title="Smorfia Napoletana">
+    <widget name="title" position="10,10" size="1900,80" font="Regular;48" foregroundColor="#ff8800" />
+    <widget name="list" position="10,100" size="800,800" font="Regular;30" itemHeight="80" scrollbarMode="showOnDemand" transparent="1" />
+    <widget name="cover" position="850,100" size="120,120" scale="1" alphatest="on" />
+    <widget name="info" position="1000,100" size="900,120" font="Regular;40" foregroundColor="#ffffff" />
+</screen>

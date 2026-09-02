@@ -1,0 +1,4 @@
+<screen position="center,center" size="800,480" title="Lotto Statistiche">
+    <widget name="title" position="10,10" size="780,40" font="Regular;24" foregroundColor="#00ff00" />
+    <widget name="menu" position="10,60" size="780,380" font="Regular;20" itemHeight="35" scrollbarMode="showOnDemand" transparent="1" />
+</screen>

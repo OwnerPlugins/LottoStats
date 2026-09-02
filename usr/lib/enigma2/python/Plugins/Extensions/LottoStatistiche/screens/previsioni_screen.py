@@ -4,16 +4,11 @@ from Components.Label import Label
 from Components.ActionMap import ActionMap
 from Components.ScrollLabel import ScrollLabel
 from ..core.statistiche import generate_predictions
-from . import _
+from .. import _, get_skin_override
 
 
 class PrevisioniScreen(Screen):
-    skin = """
-        <screen position="center,center" size="800,550" title="Previsioni">
-            <widget name="title" position="10,10" size="780,40" font="Regular;26" foregroundColor="#ff4444" />
-            <widget name="previsioni" position="10,60" size="780,430" font="Regular;22" />
-        </screen>
-    """
+    skin = get_skin_override("previsioni")
 
     def __init__(self, session):
         Screen.__init__(self, session)
@@ -32,16 +27,12 @@ class PrevisioniScreen(Screen):
     def _get_predictions_text(self):
         predictions = generate_predictions()
 
-        text = _(
-            "⚠️ DISCLAIMER: Predictions are purely statistical and do not guarantee wins!\n\n")
+        text = _("⚠️ DISCLAIMER: Predictions are purely statistical and do not guarantee wins!\n\n")
 
         for wheel, numbers in predictions.items():
-            text += f"🎯 {wheel}:\n"
-            for num in numbers:
-                text += f"  • {num:2}\n"
-            text += "\n"
+            text += f"🎯 {wheel}: {', '.join(f'{num:2}' for num in numbers)}\n"
 
-        text += _("💡 Tip: Play responsibly!")
+        text += _("\n💡 Tip: Play responsibly!")
         return text
 
     def page_up(self):
