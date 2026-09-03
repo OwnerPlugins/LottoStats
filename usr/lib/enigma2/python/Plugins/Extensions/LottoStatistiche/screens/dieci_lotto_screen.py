@@ -4,16 +4,11 @@ from Components.Label import Label
 from Components.ActionMap import ActionMap
 from Components.ScrollLabel import ScrollLabel
 from ..core.statistiche import get_dieci_lotto
-from . import _
+from .. import _, get_skin_override
 
 
 class DieciLottoScreen(Screen):
-    skin = """
-        <screen position="center,center" size="800,550" title="10 e Lotto">
-            <widget name="title" position="10,10" size="780,40" font="Regular;26" foregroundColor="#00ffcc" />
-            <widget name="info" position="10,60" size="780,430" font="Regular;20" />
-        </screen>
-    """
+    skin = get_skin_override("dieci_lotto")
 
     def __init__(self, session):
         Screen.__init__(self, session)

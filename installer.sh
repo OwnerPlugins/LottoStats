@@ -1,8 +1,8 @@
 #!/bin/bash
 ## setup command=wget -q --no-check-certificate https://raw.githubusercontent.com/OwnerPlugins/LottoStats/main/installer.sh -O - | /bin/bash
 
-version='1.0'
-changelog='\nInitial release\nLotto statistics plugin for Enigma2'
+version='1.1'
+changelog='\nFix Crash on Smorfia\nmajor fixn\Add image'
 
 TMPPATH=/tmp/LottoStatistiche-install
 FILEPATH=/tmp/LottoStatistiche-main.tar.gz
