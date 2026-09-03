@@ -27,7 +27,8 @@ class PrevisioniScreen(Screen):
     def _get_predictions_text(self):
         predictions = generate_predictions()
 
-        text = _("⚠️ DISCLAIMER: Predictions are purely statistical and do not guarantee wins!\n\n")
+        text = _(
+            "⚠️ DISCLAIMER: Predictions are purely statistical and do not guarantee wins!\n\n")
 
         for wheel, numbers in predictions.items():
             text += f"🎯 {wheel}: {', '.join(f'{num:2}' for num in numbers)}\n"

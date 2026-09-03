@@ -111,4 +111,3 @@ class LottoMainScreen(Screen):
 
         elif index == 9:
             self.close()
-
