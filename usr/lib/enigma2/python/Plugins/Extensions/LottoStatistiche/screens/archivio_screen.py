@@ -4,16 +4,11 @@ from Components.Label import Label
 from Components.ActionMap import ActionMap
 from Components.ScrollLabel import ScrollLabel
 from ..core.dati import get_archive
-from . import _
+from .. import _, get_skin_override
 
 
 class ArchivioScreen(Screen):
-    skin = """
-        <screen position="center,center" size="800,550" title="Archivio Estrazioni">
-            <widget name="title" position="10,10" size="780,40" font="Regular;26" foregroundColor="#00ccff" />
-            <widget name="archivio" position="10,60" size="780,430" font="Regular;20" />
-        </screen>
-    """
+    skin = get_skin_override("archivio")
 
     def __init__(self, session):
         Screen.__init__(self, session)
@@ -34,7 +29,7 @@ class ArchivioScreen(Screen):
         archive = get_archive()
 
         if not archive:
-            return _("❌ No draws available. Press 'Update Archive' from main menu.")
+            return _("No draws available. Press 'Update Archive' from main menu.")
 
         reversed_archive = list(reversed(archive))
 

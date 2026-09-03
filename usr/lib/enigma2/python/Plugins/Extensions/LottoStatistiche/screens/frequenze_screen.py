@@ -4,16 +4,11 @@ from Components.Label import Label
 from Components.ActionMap import ActionMap
 from Components.ScrollLabel import ScrollLabel
 from ..core.statistiche import calculate_frequencies, calculate_delays
-from . import _
+from .. import _, get_skin_override
 
 
 class FrequenzeScreen(Screen):
-    skin = """
-        <screen position="center,center" size="800,550" title="Frequenze Numeri">
-            <widget name="title" position="10,10" size="780,40" font="Regular;26" foregroundColor="#ffcc00" />
-            <widget name="frequenze" position="10,60" size="780,430" font="Regular;20" />
-        </screen>
-    """
+    skin = get_skin_override("frequenze")
 
     def __init__(self, session):
         Screen.__init__(self, session)
