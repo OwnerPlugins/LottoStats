@@ -17,86 +17,376 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-msgid "✅ Lotto archive updated!"
-msgstr "✅ Оновлено архів Лото!"
+#, fuzzy
+msgid "10 e Lotto"
+msgstr "🎯 10 і Лото"
 
-msgid "✅ Superenalotto updated!"
-msgstr "✅ SuperEnalotto оновлено!"
+msgid "Annuncio"
+msgstr ""
 
-msgid "❌ Exit"
+msgid "Bacio"
+msgstr ""
+
+msgid "Bambina"
+msgstr ""
+
+msgid "Bambino"
+msgstr ""
+
+msgid "Bello"
+msgstr ""
+
+msgid "Bocca"
+msgstr ""
+
+msgid "Bocca di rosa"
+msgstr ""
+
+msgid "Brutto"
+msgstr ""
+
+msgid "Cacciatore"
+msgstr ""
+
+msgid "Caduta"
+msgstr ""
+
+msgid "Caffè"
+msgstr ""
+
+msgid "Camera"
+msgstr ""
+
+msgid "Cantante"
+msgstr ""
+
+msgid "Capo"
+msgstr ""
+
+msgid "Carne"
+msgstr ""
+
+msgid "Casa"
+msgstr ""
+
+msgid "Chi va per via"
+msgstr ""
+
+msgid "Chitarra"
+msgstr ""
+
+msgid "Colpi"
+msgstr ""
+
+msgid "Coltello"
+msgstr ""
+
+msgid "Corda"
+msgstr ""
+
+msgid "Cristo"
+msgstr ""
+
+msgid "Denaro"
+msgstr ""
+
+msgid "Deretano"
+msgstr ""
+
+msgid "Diavolo"
+msgstr ""
+
+msgid "Dito"
+msgstr ""
+
+msgid "Donna"
+msgstr ""
+
+msgid "Donna nuda"
+msgstr ""
+
+#, fuzzy
+msgid "Draws Archive"
+msgstr "📊 Архів розіграшів"
+
+msgid "Due gambe"
+msgstr ""
+
+#, fuzzy
+msgid "Exit"
 msgstr "вихід"
 
-msgid "❌ Lotto update error"
+msgid "Fave"
+msgstr ""
+
+msgid "Festa"
+msgstr ""
+
+msgid "Fiasco"
+msgstr ""
+
+msgid "Figli"
+msgstr ""
+
+msgid "Fortuna"
+msgstr ""
+
+msgid "Fratello"
+msgstr ""
+
+msgid "Fune"
+msgstr ""
+
+msgid "Gatta"
+msgstr ""
+
+msgid "Gobbo"
+msgstr ""
+
+msgid "Grande"
+msgstr ""
+
+msgid "Guardia"
+msgstr ""
+
+msgid "Italia"
+msgstr ""
+
+msgid "Ladro"
+msgstr ""
+
+msgid "Lamento"
+msgstr ""
+
+#, fuzzy
+msgid "Lotto archive updated!"
+msgstr "✅ Оновлено архів Лото!"
+
+#, fuzzy
+msgid "Lotto update error"
 msgstr "❌ Помилка оновлення Lotto"
+
+#, fuzzy
+msgid "MAIN MENU - LOTTO STATISTICS"
+msgstr "🎰 ГОЛОВНЕ МЕНЮ - СТАТИСТИКА ЛОТО"
+
+msgid "Madonna"
+msgstr ""
+
+msgid "Madre"
+msgstr ""
+
+msgid "Maiale"
+msgstr ""
+
+msgid "Mano"
+msgstr ""
+
+msgid "Monaco"
+msgstr ""
+
+msgid "Morto"
+msgstr ""
+
+msgid "Morto che parla"
+msgstr ""
+
+msgid "Musica"
+msgstr ""
+
+#, fuzzy
+msgid "NEAPOLITAN SMORFIA"
+msgstr "😴 НЕАПОЛІТАНСЬКА ГРАЦІЯ"
+
+msgid "Naso"
+msgstr ""
+
+msgid "Natale"
+msgstr ""
+
+#, fuzzy
+msgid "Neapolitan Smorfia"
+msgstr "😴 Неаполітанська гримаса"
+
+#, fuzzy
+msgid "No draws available. Press 'Update Archive' from main menu."
+msgstr "❌ Розіграшів немає. Натисніть «Оновити архів» у головному меню."
+
+#, fuzzy
+msgid "Number Frequencies"
+msgstr "📈 Частоти чисел"
+
+msgid "Occhio"
+msgstr ""
+
+msgid "Oste"
+msgstr ""
+
+msgid "Padre dei figli"
+msgstr ""
+
+msgid "Padrone"
+msgstr ""
+
+msgid "Palla"
+msgstr ""
+
+msgid "Pane"
+msgstr ""
+
+msgid "Pane e vino"
+msgstr ""
+
+msgid "Paura"
+msgstr ""
+
+msgid "Pazzo"
+msgstr ""
+
+msgid "Pianto"
+msgstr ""
+
+msgid "Piccolo"
+msgstr ""
+
+msgid "Piede"
+msgstr ""
+
+msgid "Porta"
+msgstr ""
+
+msgid "Pranzo"
+msgstr ""
+
+#, fuzzy
+msgid "Predictions"
+msgstr "🔮 Прогнози"
+
+msgid "Prete"
+msgstr ""
+
+msgid "Ragazzo"
+msgstr ""
+
+msgid "Risata"
+msgstr ""
+
+msgid "Sangue"
+msgstr ""
+
+msgid "Sant'Antonio"
+msgstr ""
+
+msgid "Scarpa"
+msgstr ""
+
+msgid "Scatola"
+msgstr ""
+
+msgid "Scemo"
+msgstr ""
+
+msgid "Sfortuna"
+msgstr ""
+
+msgid "Soldato"
+msgstr ""
+
+msgid "Sorella"
+msgstr ""
+
+msgid "Sposa"
+msgstr ""
+
+#, fuzzy
+msgid "Statistical Analysis"
+msgstr "🔍 Статистичний аналіз"
+
+#, fuzzy
+msgid "Superenalotto"
+msgstr "⭐ Супереналотто"
+
+#, fuzzy
+msgid "Superenalotto update error"
+msgstr "❌ Помилка оновлення SuperEnalotto"
+
+#, fuzzy
+msgid "Superenalotto updated!"
+msgstr "✅ SuperEnalotto оновлено!"
+
+msgid "Tavola"
+msgstr ""
+
+msgid "Tempio"
+msgstr ""
+
+msgid "Testa"
+msgstr ""
+
+msgid "Topi"
+msgstr ""
+
+msgid "Ubriaco"
+msgstr ""
+
+msgid "Uccello"
+msgstr ""
+
+msgid "Uomo"
+msgstr ""
+
+#, fuzzy
+msgid "Update Lotto Archive"
+msgstr "🔄 Оновіть архів Lotto"
+
+#, fuzzy
+msgid "Update Superenalotto"
+msgstr "🔄 Оновіть SuperEnalotto"
+
+msgid "Vaso"
+msgstr ""
+
+msgid "Vecchia"
+msgstr ""
+
+msgid "Vecchio"
+msgstr ""
+
+msgid "Vino"
+msgstr ""
 
 msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
 msgstr "❌ Немає даних. Натисніть «Оновити SuperEnalotto» в головному меню."
 
-msgid "❌ No draws available. Press 'Update Archive' from main menu."
-msgstr "❌ Розіграшів немає. Натисніть «Оновити архів» у головному меню."
-
-msgid "❌ Superenalotto update error"
-msgstr "❌ Помилка оновлення SuperEnalotto"
-
 msgid "⭐ SUPERENALOTTO - Historical Archive"
 msgstr "⭐ SUPERENALOTTO - Історичний архів"
-
-msgid "⭐ Superenalotto"
-msgstr "⭐ Супереналотто"
 
 msgid "🎯 10 e LOTTO"
 msgstr "🎯 10 і БАГАТО"
 
-msgid "🎯 10 e Lotto"
-msgstr "🎯 10 і Лото"
-
-msgid "🎰 MAIN MENU - LOTTO STATISTICS"
-msgstr "🎰 ГОЛОВНЕ МЕНЮ - СТАТИСТИКА ЛОТО"
-
-msgid "💡 Tip: Play responsibly!"
-msgstr "💡 Порада: грайте відповідально!"
-
 msgid "📈 FREQUENCIES AND DELAYS"
 msgstr "📈 ЧАСТОТИ ТА ЗАТРИМКИ"
 
-msgid "📈 Number Frequencies"
-msgstr "📈 Частоти чисел"
-
-msgid "📊 Draws Archive"
-msgstr "📊 Архів розіграшів"
-
+#, fuzzy
 msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
-msgstr "📊 ЗАГАЛЬНА СТАТИСТИКА:\\\\\\\\\\\\\\\\n"
+msgstr "📊 ЗАГАЛЬНА СТАТИСТИКА:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "📚 DRAWS ARCHIVE"
 msgstr "📚 АРХІВ РІЗНЕШІВ"
 
-msgid "🔄 Update Lotto Archive"
-msgstr "🔄 Оновіть архів Lotto"
-
-msgid "🔄 Update Superenalotto"
-msgstr "🔄 Оновіть SuperEnalotto"
-
 msgid "🔍 COMPLETE ANALYSIS"
 msgstr "🔍 ПОВНИЙ АНАЛІЗ"
 
-msgid "🔍 Statistical Analysis"
-msgstr "🔍 Статистичний аналіз"
-
+#, fuzzy
 msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
-msgstr "🔢 ОСТАННІ РОЗІГРАШІ 10 eLOTTO:\\\\\\\\\\\\\\\\n"
+msgstr "🔢 ОСТАННІ РОЗІГРАШІ 10 eLOTTO:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
+#, fuzzy
 msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr "🔥 ГАРЯЧІ ЧИСЛА (найбільше виграних):\\\\\\\\\\\\\\\\n"
+msgstr "🔥 ГАРЯЧІ ЧИСЛА (найбільше виграних):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "🔮 PREDICTIONS"
 msgstr "🔮 ПЕРЕДБАЧЕННЯ"
 
-msgid "🔮 Predictions"
-msgstr "🔮 Прогнози"
-
-msgid "😴 NEAPOLITAN SMORFIA"
-msgstr "😴 НЕАПОЛІТАНСЬКА ГРАЦІЯ"
-
-msgid "😴 Neapolitan Smorfia"
-msgstr "😴 Неаполітанська гримаса"
+#~ msgid "💡 Tip: Play responsibly!"
+#~ msgstr "💡 Порада: грайте відповідально!"

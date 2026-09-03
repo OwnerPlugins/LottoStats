@@ -16,86 +16,376 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "✅ Lotto archive updated!"
-msgstr "✅ تم تحديث أرشيف لوتو!"
+#, fuzzy
+msgid "10 e Lotto"
+msgstr "🎯 10 واللوتو"
 
-msgid "✅ Superenalotto updated!"
-msgstr "✅ تم تحديث Superenalotto!"
+msgid "Annuncio"
+msgstr ""
 
-msgid "❌ Exit"
+msgid "Bacio"
+msgstr ""
+
+msgid "Bambina"
+msgstr ""
+
+msgid "Bambino"
+msgstr ""
+
+msgid "Bello"
+msgstr ""
+
+msgid "Bocca"
+msgstr ""
+
+msgid "Bocca di rosa"
+msgstr ""
+
+msgid "Brutto"
+msgstr ""
+
+msgid "Cacciatore"
+msgstr ""
+
+msgid "Caduta"
+msgstr ""
+
+msgid "Caffè"
+msgstr ""
+
+msgid "Camera"
+msgstr ""
+
+msgid "Cantante"
+msgstr ""
+
+msgid "Capo"
+msgstr ""
+
+msgid "Carne"
+msgstr ""
+
+msgid "Casa"
+msgstr ""
+
+msgid "Chi va per via"
+msgstr ""
+
+msgid "Chitarra"
+msgstr ""
+
+msgid "Colpi"
+msgstr ""
+
+msgid "Coltello"
+msgstr ""
+
+msgid "Corda"
+msgstr ""
+
+msgid "Cristo"
+msgstr ""
+
+msgid "Denaro"
+msgstr ""
+
+msgid "Deretano"
+msgstr ""
+
+msgid "Diavolo"
+msgstr ""
+
+msgid "Dito"
+msgstr ""
+
+msgid "Donna"
+msgstr ""
+
+msgid "Donna nuda"
+msgstr ""
+
+#, fuzzy
+msgid "Draws Archive"
+msgstr "📊 أرشيف الرسومات"
+
+msgid "Due gambe"
+msgstr ""
+
+#, fuzzy
+msgid "Exit"
 msgstr "❌ خروج"
 
-msgid "❌ Lotto update error"
+msgid "Fave"
+msgstr ""
+
+msgid "Festa"
+msgstr ""
+
+msgid "Fiasco"
+msgstr ""
+
+msgid "Figli"
+msgstr ""
+
+msgid "Fortuna"
+msgstr ""
+
+msgid "Fratello"
+msgstr ""
+
+msgid "Fune"
+msgstr ""
+
+msgid "Gatta"
+msgstr ""
+
+msgid "Gobbo"
+msgstr ""
+
+msgid "Grande"
+msgstr ""
+
+msgid "Guardia"
+msgstr ""
+
+msgid "Italia"
+msgstr ""
+
+msgid "Ladro"
+msgstr ""
+
+msgid "Lamento"
+msgstr ""
+
+#, fuzzy
+msgid "Lotto archive updated!"
+msgstr "✅ تم تحديث أرشيف لوتو!"
+
+#, fuzzy
+msgid "Lotto update error"
 msgstr "❌ خطأ في تحديث اللوتو"
 
-msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
-msgstr "❌ لا توجد بيانات متاحة. اضغط على \\\"تحديث Superenalotto\\\" من القائمة الرئيسية."
+#, fuzzy
+msgid "MAIN MENU - LOTTO STATISTICS"
+msgstr "🎰 القائمة الرئيسية - إحصائيات اليانصيب"
 
-msgid "❌ No draws available. Press 'Update Archive' from main menu."
-msgstr "❌ لا توجد سحوبات متاحة. اضغط على \\\"تحديث الأرشيف\\\" من القائمة الرئيسية."
+msgid "Madonna"
+msgstr ""
 
-msgid "❌ Superenalotto update error"
+msgid "Madre"
+msgstr ""
+
+msgid "Maiale"
+msgstr ""
+
+msgid "Mano"
+msgstr ""
+
+msgid "Monaco"
+msgstr ""
+
+msgid "Morto"
+msgstr ""
+
+msgid "Morto che parla"
+msgstr ""
+
+msgid "Musica"
+msgstr ""
+
+#, fuzzy
+msgid "NEAPOLITAN SMORFIA"
+msgstr "😴 نعمة نابولية"
+
+msgid "Naso"
+msgstr ""
+
+msgid "Natale"
+msgstr ""
+
+#, fuzzy
+msgid "Neapolitan Smorfia"
+msgstr "😴 كشر نابولي"
+
+#, fuzzy
+msgid "No draws available. Press 'Update Archive' from main menu."
+msgstr "❌ لا توجد سحوبات متاحة. اضغط على \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"تحديث الأرشيف\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" من القائمة الرئيسية."
+
+#, fuzzy
+msgid "Number Frequencies"
+msgstr "📈 ترددات الأرقام"
+
+msgid "Occhio"
+msgstr ""
+
+msgid "Oste"
+msgstr ""
+
+msgid "Padre dei figli"
+msgstr ""
+
+msgid "Padrone"
+msgstr ""
+
+msgid "Palla"
+msgstr ""
+
+msgid "Pane"
+msgstr ""
+
+msgid "Pane e vino"
+msgstr ""
+
+msgid "Paura"
+msgstr ""
+
+msgid "Pazzo"
+msgstr ""
+
+msgid "Pianto"
+msgstr ""
+
+msgid "Piccolo"
+msgstr ""
+
+msgid "Piede"
+msgstr ""
+
+msgid "Porta"
+msgstr ""
+
+msgid "Pranzo"
+msgstr ""
+
+#, fuzzy
+msgid "Predictions"
+msgstr "🔮 التوقعات"
+
+msgid "Prete"
+msgstr ""
+
+msgid "Ragazzo"
+msgstr ""
+
+msgid "Risata"
+msgstr ""
+
+msgid "Sangue"
+msgstr ""
+
+msgid "Sant'Antonio"
+msgstr ""
+
+msgid "Scarpa"
+msgstr ""
+
+msgid "Scatola"
+msgstr ""
+
+msgid "Scemo"
+msgstr ""
+
+msgid "Sfortuna"
+msgstr ""
+
+msgid "Soldato"
+msgstr ""
+
+msgid "Sorella"
+msgstr ""
+
+msgid "Sposa"
+msgstr ""
+
+#, fuzzy
+msgid "Statistical Analysis"
+msgstr "🔍 التحليل الإحصائي"
+
+#, fuzzy
+msgid "Superenalotto"
+msgstr "⭐ سوبرينالوتو"
+
+#, fuzzy
+msgid "Superenalotto update error"
 msgstr "❌ خطأ في تحديث Superenalotto"
+
+#, fuzzy
+msgid "Superenalotto updated!"
+msgstr "✅ تم تحديث Superenalotto!"
+
+msgid "Tavola"
+msgstr ""
+
+msgid "Tempio"
+msgstr ""
+
+msgid "Testa"
+msgstr ""
+
+msgid "Topi"
+msgstr ""
+
+msgid "Ubriaco"
+msgstr ""
+
+msgid "Uccello"
+msgstr ""
+
+msgid "Uomo"
+msgstr ""
+
+#, fuzzy
+msgid "Update Lotto Archive"
+msgstr "🔄 تحديث أرشيف اللوتو"
+
+#, fuzzy
+msgid "Update Superenalotto"
+msgstr "🔄 تحديث سوبرينالوتو"
+
+msgid "Vaso"
+msgstr ""
+
+msgid "Vecchia"
+msgstr ""
+
+msgid "Vecchio"
+msgstr ""
+
+msgid "Vino"
+msgstr ""
+
+msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
+msgstr "❌ لا توجد بيانات متاحة. اضغط على \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"تحديث Superenalotto\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" من القائمة الرئيسية."
 
 msgid "⭐ SUPERENALOTTO - Historical Archive"
 msgstr "⭐ سوبرينالوتو - الأرشيف التاريخي"
 
-msgid "⭐ Superenalotto"
-msgstr "⭐ سوبرينالوتو"
-
 msgid "🎯 10 e LOTTO"
 msgstr "🎯 10 والكثير"
-
-msgid "🎯 10 e Lotto"
-msgstr "🎯 10 واللوتو"
-
-msgid "🎰 MAIN MENU - LOTTO STATISTICS"
-msgstr "🎰 القائمة الرئيسية - إحصائيات اليانصيب"
-
-msgid "💡 Tip: Play responsibly!"
-msgstr "💡 نصيحة: العب بمسؤولية!"
 
 msgid "📈 FREQUENCIES AND DELAYS"
 msgstr "📈 الترددات والتأخيرات"
 
-msgid "📈 Number Frequencies"
-msgstr "📈 ترددات الأرقام"
-
-msgid "📊 Draws Archive"
-msgstr "📊 أرشيف الرسومات"
-
+#, fuzzy
 msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
-msgstr "📊 إحصائيات عامة:\\\\\\\\\\\\\\\\n"
+msgstr "📊 إحصائيات عامة:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "📚 DRAWS ARCHIVE"
 msgstr "📚 أرشيف الرسومات"
 
-msgid "🔄 Update Lotto Archive"
-msgstr "🔄 تحديث أرشيف اللوتو"
-
-msgid "🔄 Update Superenalotto"
-msgstr "🔄 تحديث سوبرينالوتو"
-
 msgid "🔍 COMPLETE ANALYSIS"
 msgstr "🔍 تحليل كامل"
 
-msgid "🔍 Statistical Analysis"
-msgstr "🔍 التحليل الإحصائي"
-
+#, fuzzy
 msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
-msgstr "🔢 سحب الـ 10 اللوتو الأخير: \\\\\\\\\\\\\\\\n"
+msgstr "🔢 سحب الـ 10 اللوتو الأخير: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
+#, fuzzy
 msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr "🔥 الأرقام الساخنة (الأكثر جذبا):\\\\\\\\\\\\\\\\n"
+msgstr "🔥 الأرقام الساخنة (الأكثر جذبا):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "🔮 PREDICTIONS"
 msgstr "🔮 التنبؤات"
 
-msgid "🔮 Predictions"
-msgstr "🔮 التوقعات"
-
-msgid "😴 NEAPOLITAN SMORFIA"
-msgstr "😴 نعمة نابولية"
-
-msgid "😴 Neapolitan Smorfia"
-msgstr "😴 كشر نابولي"
+#~ msgid "💡 Tip: Play responsibly!"
+#~ msgstr "💡 نصيحة: العب بمسؤولية!"

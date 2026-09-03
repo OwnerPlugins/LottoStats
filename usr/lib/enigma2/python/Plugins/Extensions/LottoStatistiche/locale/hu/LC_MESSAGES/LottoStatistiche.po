@@ -17,86 +17,376 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "✅ Lotto archive updated!"
-msgstr "✅ Lotto archívum frissítve!"
+#, fuzzy
+msgid "10 e Lotto"
+msgstr "🎯 10 és Lotto"
 
-msgid "✅ Superenalotto updated!"
-msgstr "✅ Superenalotto frissítve!"
+msgid "Annuncio"
+msgstr ""
 
-msgid "❌ Exit"
+msgid "Bacio"
+msgstr ""
+
+msgid "Bambina"
+msgstr ""
+
+msgid "Bambino"
+msgstr ""
+
+msgid "Bello"
+msgstr ""
+
+msgid "Bocca"
+msgstr ""
+
+msgid "Bocca di rosa"
+msgstr ""
+
+msgid "Brutto"
+msgstr ""
+
+msgid "Cacciatore"
+msgstr ""
+
+msgid "Caduta"
+msgstr ""
+
+msgid "Caffè"
+msgstr ""
+
+msgid "Camera"
+msgstr ""
+
+msgid "Cantante"
+msgstr ""
+
+msgid "Capo"
+msgstr ""
+
+msgid "Carne"
+msgstr ""
+
+msgid "Casa"
+msgstr ""
+
+msgid "Chi va per via"
+msgstr ""
+
+msgid "Chitarra"
+msgstr ""
+
+msgid "Colpi"
+msgstr ""
+
+msgid "Coltello"
+msgstr ""
+
+msgid "Corda"
+msgstr ""
+
+msgid "Cristo"
+msgstr ""
+
+msgid "Denaro"
+msgstr ""
+
+msgid "Deretano"
+msgstr ""
+
+msgid "Diavolo"
+msgstr ""
+
+msgid "Dito"
+msgstr ""
+
+msgid "Donna"
+msgstr ""
+
+msgid "Donna nuda"
+msgstr ""
+
+#, fuzzy
+msgid "Draws Archive"
+msgstr "📊 Rajzarchívum"
+
+msgid "Due gambe"
+msgstr ""
+
+#, fuzzy
+msgid "Exit"
 msgstr "❌ Kilépés"
 
-msgid "❌ Lotto update error"
+msgid "Fave"
+msgstr ""
+
+msgid "Festa"
+msgstr ""
+
+msgid "Fiasco"
+msgstr ""
+
+msgid "Figli"
+msgstr ""
+
+msgid "Fortuna"
+msgstr ""
+
+msgid "Fratello"
+msgstr ""
+
+msgid "Fune"
+msgstr ""
+
+msgid "Gatta"
+msgstr ""
+
+msgid "Gobbo"
+msgstr ""
+
+msgid "Grande"
+msgstr ""
+
+msgid "Guardia"
+msgstr ""
+
+msgid "Italia"
+msgstr ""
+
+msgid "Ladro"
+msgstr ""
+
+msgid "Lamento"
+msgstr ""
+
+#, fuzzy
+msgid "Lotto archive updated!"
+msgstr "✅ Lotto archívum frissítve!"
+
+#, fuzzy
+msgid "Lotto update error"
 msgstr "❌ Lotto frissítési hiba"
+
+#, fuzzy
+msgid "MAIN MENU - LOTTO STATISTICS"
+msgstr "🎰 FŐMENÜ - LOTTÓSTATISZTIKA"
+
+msgid "Madonna"
+msgstr ""
+
+msgid "Madre"
+msgstr ""
+
+msgid "Maiale"
+msgstr ""
+
+msgid "Mano"
+msgstr ""
+
+msgid "Monaco"
+msgstr ""
+
+msgid "Morto"
+msgstr ""
+
+msgid "Morto che parla"
+msgstr ""
+
+msgid "Musica"
+msgstr ""
+
+#, fuzzy
+msgid "NEAPOLITAN SMORFIA"
+msgstr "😴 NEAPOLITAN GRACE"
+
+msgid "Naso"
+msgstr ""
+
+msgid "Natale"
+msgstr ""
+
+#, fuzzy
+msgid "Neapolitan Smorfia"
+msgstr "😴 Nápolyi Grimasz"
+
+#, fuzzy
+msgid "No draws available. Press 'Update Archive' from main menu."
+msgstr "❌ Nincs sorsolás. Nyomja meg az „Archívum frissítése” gombot a főmenüben."
+
+#, fuzzy
+msgid "Number Frequencies"
+msgstr "📈 Számfrekvenciák"
+
+msgid "Occhio"
+msgstr ""
+
+msgid "Oste"
+msgstr ""
+
+msgid "Padre dei figli"
+msgstr ""
+
+msgid "Padrone"
+msgstr ""
+
+msgid "Palla"
+msgstr ""
+
+msgid "Pane"
+msgstr ""
+
+msgid "Pane e vino"
+msgstr ""
+
+msgid "Paura"
+msgstr ""
+
+msgid "Pazzo"
+msgstr ""
+
+msgid "Pianto"
+msgstr ""
+
+msgid "Piccolo"
+msgstr ""
+
+msgid "Piede"
+msgstr ""
+
+msgid "Porta"
+msgstr ""
+
+msgid "Pranzo"
+msgstr ""
+
+#, fuzzy
+msgid "Predictions"
+msgstr "🔮 Előrejelzések"
+
+msgid "Prete"
+msgstr ""
+
+msgid "Ragazzo"
+msgstr ""
+
+msgid "Risata"
+msgstr ""
+
+msgid "Sangue"
+msgstr ""
+
+msgid "Sant'Antonio"
+msgstr ""
+
+msgid "Scarpa"
+msgstr ""
+
+msgid "Scatola"
+msgstr ""
+
+msgid "Scemo"
+msgstr ""
+
+msgid "Sfortuna"
+msgstr ""
+
+msgid "Soldato"
+msgstr ""
+
+msgid "Sorella"
+msgstr ""
+
+msgid "Sposa"
+msgstr ""
+
+#, fuzzy
+msgid "Statistical Analysis"
+msgstr "🔍 Statisztikai elemzés"
+
+#, fuzzy
+msgid "Superenalotto"
+msgstr "🔄 Frissítse Superenalotto-t"
+
+#, fuzzy
+msgid "Superenalotto update error"
+msgstr "❌ Superenalotto frissítési hiba"
+
+#, fuzzy
+msgid "Superenalotto updated!"
+msgstr "✅ Superenalotto frissítve!"
+
+msgid "Tavola"
+msgstr ""
+
+msgid "Tempio"
+msgstr ""
+
+msgid "Testa"
+msgstr ""
+
+msgid "Topi"
+msgstr ""
+
+msgid "Ubriaco"
+msgstr ""
+
+msgid "Uccello"
+msgstr ""
+
+msgid "Uomo"
+msgstr ""
+
+#, fuzzy
+msgid "Update Lotto Archive"
+msgstr "🔄 Frissítse Lotto archívumát"
+
+#, fuzzy
+msgid "Update Superenalotto"
+msgstr "🔄 Frissítse Superenalotto-t"
+
+msgid "Vaso"
+msgstr ""
+
+msgid "Vecchia"
+msgstr ""
+
+msgid "Vecchio"
+msgstr ""
+
+msgid "Vino"
+msgstr ""
 
 msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
 msgstr "❌ Nem állnak rendelkezésre adatok. Nyomja meg a „Superenalotto frissítése” gombot a főmenüben."
 
-msgid "❌ No draws available. Press 'Update Archive' from main menu."
-msgstr "❌ Nincs sorsolás. Nyomja meg az „Archívum frissítése” gombot a főmenüben."
-
-msgid "❌ Superenalotto update error"
-msgstr "❌ Superenalotto frissítési hiba"
-
 msgid "⭐ SUPERENALOTTO - Historical Archive"
 msgstr "⭐ SUPERENALOTO - Történelmi archívum"
-
-msgid "⭐ Superenalotto"
-msgstr ""
 
 msgid "🎯 10 e LOTTO"
 msgstr "🎯 10 és SOK"
 
-msgid "🎯 10 e Lotto"
-msgstr "🎯 10 és Lotto"
-
-msgid "🎰 MAIN MENU - LOTTO STATISTICS"
-msgstr "🎰 FŐMENÜ - LOTTÓSTATISZTIKA"
-
-msgid "💡 Tip: Play responsibly!"
-msgstr "💡 Tipp: játssz felelősségteljesen!"
-
 msgid "📈 FREQUENCIES AND DELAYS"
 msgstr "📈 FREKVENCIÁK ÉS KÉSÉSEK"
 
-msgid "📈 Number Frequencies"
-msgstr "📈 Számfrekvenciák"
-
-msgid "📊 Draws Archive"
-msgstr "📊 Rajzarchívum"
-
+#, fuzzy
 msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
-msgstr "📊 ÁLTALÁNOS STATISZTIKA:\\\\\\\\\\\\\\\\n"
+msgstr "📊 ÁLTALÁNOS STATISZTIKA:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "📚 DRAWS ARCHIVE"
 msgstr "📚 RAJZARCHÍVUM"
 
-msgid "🔄 Update Lotto Archive"
-msgstr "🔄 Frissítse Lotto archívumát"
-
-msgid "🔄 Update Superenalotto"
-msgstr "🔄 Frissítse Superenalotto-t"
-
 msgid "🔍 COMPLETE ANALYSIS"
 msgstr "🔍 TELJES ELEMZÉS"
 
-msgid "🔍 Statistical Analysis"
-msgstr "🔍 Statisztikai elemzés"
-
+#, fuzzy
 msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
-msgstr "🔢 UTOLSÓ 10eLOTÓ SORSOLÁSA:\\\\\\\\\\\\\\\\n"
+msgstr "🔢 UTOLSÓ 10eLOTÓ SORSOLÁSA:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
+#, fuzzy
 msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr "🔥 FORRÓ SZÁMOK (leggyakrabban húzott):\\\\\\\\\\\\\\\\n"
+msgstr "🔥 FORRÓ SZÁMOK (leggyakrabban húzott):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "🔮 PREDICTIONS"
 msgstr "🔮 JÓSLÁSOK"
 
-msgid "🔮 Predictions"
-msgstr "🔮 Előrejelzések"
-
-msgid "😴 NEAPOLITAN SMORFIA"
-msgstr "😴 NEAPOLITAN GRACE"
-
-msgid "😴 Neapolitan Smorfia"
-msgstr "😴 Nápolyi Grimasz"
+#~ msgid "💡 Tip: Play responsibly!"
+#~ msgstr "💡 Tipp: játssz felelősségteljesen!"

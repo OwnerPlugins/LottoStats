@@ -17,86 +17,376 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "✅ Lotto archive updated!"
-msgstr "✅ Το αρχείο Lotto ενημερώθηκε!"
+#, fuzzy
+msgid "10 e Lotto"
+msgstr "🎯 10 και Λόττο"
 
-msgid "✅ Superenalotto updated!"
-msgstr "✅ Το Superenalotto ενημερώθηκε!"
+msgid "Annuncio"
+msgstr ""
 
-msgid "❌ Exit"
+msgid "Bacio"
+msgstr ""
+
+msgid "Bambina"
+msgstr ""
+
+msgid "Bambino"
+msgstr ""
+
+msgid "Bello"
+msgstr ""
+
+msgid "Bocca"
+msgstr ""
+
+msgid "Bocca di rosa"
+msgstr ""
+
+msgid "Brutto"
+msgstr ""
+
+msgid "Cacciatore"
+msgstr ""
+
+msgid "Caduta"
+msgstr ""
+
+msgid "Caffè"
+msgstr ""
+
+msgid "Camera"
+msgstr ""
+
+msgid "Cantante"
+msgstr ""
+
+msgid "Capo"
+msgstr ""
+
+msgid "Carne"
+msgstr ""
+
+msgid "Casa"
+msgstr ""
+
+msgid "Chi va per via"
+msgstr ""
+
+msgid "Chitarra"
+msgstr ""
+
+msgid "Colpi"
+msgstr ""
+
+msgid "Coltello"
+msgstr ""
+
+msgid "Corda"
+msgstr ""
+
+msgid "Cristo"
+msgstr ""
+
+msgid "Denaro"
+msgstr ""
+
+msgid "Deretano"
+msgstr ""
+
+msgid "Diavolo"
+msgstr ""
+
+msgid "Dito"
+msgstr ""
+
+msgid "Donna"
+msgstr ""
+
+msgid "Donna nuda"
+msgstr ""
+
+#, fuzzy
+msgid "Draws Archive"
+msgstr "📊 Αρχείο κληρώσεων"
+
+msgid "Due gambe"
+msgstr ""
+
+#, fuzzy
+msgid "Exit"
 msgstr "❌ Έξοδος"
 
-msgid "❌ Lotto update error"
+msgid "Fave"
+msgstr ""
+
+msgid "Festa"
+msgstr ""
+
+msgid "Fiasco"
+msgstr ""
+
+msgid "Figli"
+msgstr ""
+
+msgid "Fortuna"
+msgstr ""
+
+msgid "Fratello"
+msgstr ""
+
+msgid "Fune"
+msgstr ""
+
+msgid "Gatta"
+msgstr ""
+
+msgid "Gobbo"
+msgstr ""
+
+msgid "Grande"
+msgstr ""
+
+msgid "Guardia"
+msgstr ""
+
+msgid "Italia"
+msgstr ""
+
+msgid "Ladro"
+msgstr ""
+
+msgid "Lamento"
+msgstr ""
+
+#, fuzzy
+msgid "Lotto archive updated!"
+msgstr "✅ Το αρχείο Lotto ενημερώθηκε!"
+
+#, fuzzy
+msgid "Lotto update error"
 msgstr "❌ Σφάλμα ενημέρωσης Lotto"
+
+#, fuzzy
+msgid "MAIN MENU - LOTTO STATISTICS"
+msgstr "🎰 ΚΥΡΙΟ ΜΕΝΟΥ - ΣΤΑΤΙΣΤΙΚΑ ΛΟΤΤΟ"
+
+msgid "Madonna"
+msgstr ""
+
+msgid "Madre"
+msgstr ""
+
+msgid "Maiale"
+msgstr ""
+
+msgid "Mano"
+msgstr ""
+
+msgid "Monaco"
+msgstr ""
+
+msgid "Morto"
+msgstr ""
+
+msgid "Morto che parla"
+msgstr ""
+
+msgid "Musica"
+msgstr ""
+
+#, fuzzy
+msgid "NEAPOLITAN SMORFIA"
+msgstr "😴 ΝΕΑΠΟΛΙΤΙΚΗ ΧΑΡΗ"
+
+msgid "Naso"
+msgstr ""
+
+msgid "Natale"
+msgstr ""
+
+#, fuzzy
+msgid "Neapolitan Smorfia"
+msgstr "😴 Ναπολιτάνικος μορφασμός"
+
+#, fuzzy
+msgid "No draws available. Press 'Update Archive' from main menu."
+msgstr "❌ Δεν υπάρχουν διαθέσιμες κληρώσεις. Πατήστε «Ενημέρωση αρχείου» από το κύριο μενού."
+
+#, fuzzy
+msgid "Number Frequencies"
+msgstr "📈 Αριθμητικές συχνότητες"
+
+msgid "Occhio"
+msgstr ""
+
+msgid "Oste"
+msgstr ""
+
+msgid "Padre dei figli"
+msgstr ""
+
+msgid "Padrone"
+msgstr ""
+
+msgid "Palla"
+msgstr ""
+
+msgid "Pane"
+msgstr ""
+
+msgid "Pane e vino"
+msgstr ""
+
+msgid "Paura"
+msgstr ""
+
+msgid "Pazzo"
+msgstr ""
+
+msgid "Pianto"
+msgstr ""
+
+msgid "Piccolo"
+msgstr ""
+
+msgid "Piede"
+msgstr ""
+
+msgid "Porta"
+msgstr ""
+
+msgid "Pranzo"
+msgstr ""
+
+#, fuzzy
+msgid "Predictions"
+msgstr "🔮 Προβλέψεις"
+
+msgid "Prete"
+msgstr ""
+
+msgid "Ragazzo"
+msgstr ""
+
+msgid "Risata"
+msgstr ""
+
+msgid "Sangue"
+msgstr ""
+
+msgid "Sant'Antonio"
+msgstr ""
+
+msgid "Scarpa"
+msgstr ""
+
+msgid "Scatola"
+msgstr ""
+
+msgid "Scemo"
+msgstr ""
+
+msgid "Sfortuna"
+msgstr ""
+
+msgid "Soldato"
+msgstr ""
+
+msgid "Sorella"
+msgstr ""
+
+msgid "Sposa"
+msgstr ""
+
+#, fuzzy
+msgid "Statistical Analysis"
+msgstr "🔍 Στατιστική Ανάλυση"
+
+#, fuzzy
+msgid "Superenalotto"
+msgstr "🔄 Ενημερώστε το Superenalotto"
+
+#, fuzzy
+msgid "Superenalotto update error"
+msgstr "❌ Σφάλμα ενημέρωσης Superenalotto"
+
+#, fuzzy
+msgid "Superenalotto updated!"
+msgstr "✅ Το Superenalotto ενημερώθηκε!"
+
+msgid "Tavola"
+msgstr ""
+
+msgid "Tempio"
+msgstr ""
+
+msgid "Testa"
+msgstr ""
+
+msgid "Topi"
+msgstr ""
+
+msgid "Ubriaco"
+msgstr ""
+
+msgid "Uccello"
+msgstr ""
+
+msgid "Uomo"
+msgstr ""
+
+#, fuzzy
+msgid "Update Lotto Archive"
+msgstr "🔄 Ενημερώστε το αρχείο Lotto"
+
+#, fuzzy
+msgid "Update Superenalotto"
+msgstr "🔄 Ενημερώστε το Superenalotto"
+
+msgid "Vaso"
+msgstr ""
+
+msgid "Vecchia"
+msgstr ""
+
+msgid "Vecchio"
+msgstr ""
+
+msgid "Vino"
+msgstr ""
 
 msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
 msgstr "❌ Δεν υπάρχουν διαθέσιμα δεδομένα. Πατήστε «Ενημέρωση Superenalotto» από το κύριο μενού."
 
-msgid "❌ No draws available. Press 'Update Archive' from main menu."
-msgstr "❌ Δεν υπάρχουν διαθέσιμες κληρώσεις. Πατήστε «Ενημέρωση αρχείου» από το κύριο μενού."
-
-msgid "❌ Superenalotto update error"
-msgstr "❌ Σφάλμα ενημέρωσης Superenalotto"
-
 msgid "⭐ SUPERENALOTTO - Historical Archive"
 msgstr "⭐ SUPERENALOTTO - Ιστορικό Αρχείο"
-
-msgid "⭐ Superenalotto"
-msgstr ""
 
 msgid "🎯 10 e LOTTO"
 msgstr "🎯 10 και ΠΟΛΛΑ"
 
-msgid "🎯 10 e Lotto"
-msgstr "🎯 10 και Λόττο"
-
-msgid "🎰 MAIN MENU - LOTTO STATISTICS"
-msgstr "🎰 ΚΥΡΙΟ ΜΕΝΟΥ - ΣΤΑΤΙΣΤΙΚΑ ΛΟΤΤΟ"
-
-msgid "💡 Tip: Play responsibly!"
-msgstr "💡 Συμβουλή: Παίξτε υπεύθυνα!"
-
 msgid "📈 FREQUENCIES AND DELAYS"
 msgstr "📈 ΣΥΧΝΟΤΗΤΕΣ ΚΑΙ ΚΑΘΥΣΤΕΡΗΣΕΙΣ"
 
-msgid "📈 Number Frequencies"
-msgstr "📈 Αριθμητικές συχνότητες"
-
-msgid "📊 Draws Archive"
-msgstr "📊 Αρχείο κληρώσεων"
-
+#, fuzzy
 msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
-msgstr "📊 ΓΕΝΙΚΑ ΣΤΑΤΙΣΤΙΚΑ:\\\\\\\\\\\\\\\\n"
+msgstr "📊 ΓΕΝΙΚΑ ΣΤΑΤΙΣΤΙΚΑ:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "📚 DRAWS ARCHIVE"
 msgstr "📚 ΑΡΧΕΙΟ ΚΛΗΡΩΣΕΩΝ"
 
-msgid "🔄 Update Lotto Archive"
-msgstr "🔄 Ενημερώστε το αρχείο Lotto"
-
-msgid "🔄 Update Superenalotto"
-msgstr "🔄 Ενημερώστε το Superenalotto"
-
 msgid "🔍 COMPLETE ANALYSIS"
 msgstr "🔍 ΠΛΗΡΗΣ ΑΝΑΛΥΣΗ"
 
-msgid "🔍 Statistical Analysis"
-msgstr "🔍 Στατιστική Ανάλυση"
-
+#, fuzzy
 msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
-msgstr "🔢 ΤΕΛΕΥΤΑΙΑ 10 eLOTTO ΚΛΗΡΩΣΗ:\\\\\\\\\\\\\\\\n"
+msgstr "🔢 ΤΕΛΕΥΤΑΙΑ 10 eLOTTO ΚΛΗΡΩΣΗ:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
+#, fuzzy
 msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr "🔥 ΚΑΥΤΟΙ ΑΡΙΘΜΟΙ (οι περισσότεροι κληρωμένοι):\\\\\\\\\\\\\\\\n"
+msgstr "🔥 ΚΑΥΤΟΙ ΑΡΙΘΜΟΙ (οι περισσότεροι κληρωμένοι):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "🔮 PREDICTIONS"
 msgstr "🔮 ΠΡΟΒΛΕΨΕΙΣ"
 
-msgid "🔮 Predictions"
-msgstr "🔮 Προβλέψεις"
-
-msgid "😴 NEAPOLITAN SMORFIA"
-msgstr "😴 ΝΕΑΠΟΛΙΤΙΚΗ ΧΑΡΗ"
-
-msgid "😴 Neapolitan Smorfia"
-msgstr "😴 Ναπολιτάνικος μορφασμός"
+#~ msgid "💡 Tip: Play responsibly!"
+#~ msgstr "💡 Συμβουλή: Παίξτε υπεύθυνα!"
