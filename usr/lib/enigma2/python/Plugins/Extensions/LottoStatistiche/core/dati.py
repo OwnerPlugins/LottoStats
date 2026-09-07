@@ -18,8 +18,12 @@ DATA_FILE_SE = os.path.join(
 FIXED_WHEELS = ['BA', 'CA', 'FI', 'GE', 'MI', 'NA', 'PA', 'RM', 'TO', 'VE']
 
 
+# ===============================
+# LOTTO FUNCTIONS
+# ===============================
+
 def get_archive():
-    """Return the complete draws archive"""
+    """Return the complete Lotto draws archive"""
     if not os.path.exists(DATA_FILE):
         from .update import update_archive
         if not update_archive():
@@ -35,10 +39,15 @@ def get_archivio():
 
 
 def save_archive(archive):
+    """Save Lotto archive to file"""
     os.makedirs(os.path.dirname(DATA_FILE), exist_ok=True)
     with open(DATA_FILE, 'w', encoding='utf-8') as f:
         json.dump(archive, f, indent=2, ensure_ascii=False)
 
+
+# ===============================
+# SUPERENALOTTO FUNCTIONS
+# ===============================
 
 def get_superenalotto_archive():
     """Return the Superenalotto archive"""
@@ -57,13 +66,18 @@ def get_archivio_se():
 
 
 def save_superenalotto_archive(archive):
+    """Save Superenalotto archive to file"""
     os.makedirs(os.path.dirname(DATA_FILE_SE), exist_ok=True)
     with open(DATA_FILE_SE, 'w', encoding='utf-8') as f:
         json.dump(archive, f, indent=2, ensure_ascii=False)
 
 
+# ===============================
+# FAKE FUNCTIONS FOR TESTING
+# ===============================
+
 def generate_fake_archive():
-    """Generate fake archive for testing"""
+    """Generate fake Lotto archive for testing"""
     archive = []
     base_date = datetime.now() - timedelta(days=365 * 2)
 

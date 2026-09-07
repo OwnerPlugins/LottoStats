@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import random
-from collections import defaultdict
-from .dati import get_archive, FIXED_WHEELS
+from collections import defaultdict, Counter
+from .dati import get_archive, FIXED_WHEELS, get_superenalotto_archive
 
 
 def calculate_frequencies():
@@ -14,6 +14,16 @@ def calculate_frequencies():
             for num in numbers:
                 frequencies[num] += 1
 
+    return dict(frequencies)
+
+
+def calculate_frequencies_se():
+    """Calculate frequencies of all numbers for Superenalotto"""
+    archive = get_superenalotto_archive()
+    frequencies = Counter()
+    for draw in archive:
+        for num in draw['numeri']:
+            frequencies[num] += 1
     return dict(frequencies)
 
 
@@ -33,6 +43,24 @@ def calculate_delays():
                 break
             delays[num] += 1
 
+    return delays
+
+
+def calculate_delays_se():
+    """Calculate delays of all numbers for Superenalotto"""
+    archive = get_superenalotto_archive()
+    delays = {num: 0 for num in range(1, 91)}
+    total_draws = len(archive)
+
+    for num in range(1, 91):
+        last_seen = -1
+        for idx, draw in enumerate(archive):
+            if num in draw['numeri']:
+                last_seen = idx
+        if last_seen == -1:
+            delays[num] = total_draws
+        else:
+            delays[num] = total_draws - last_seen - 1
     return delays
 
 
@@ -72,6 +100,26 @@ def get_full_analysis():
     }
 
 
+def get_full_analysis_se():
+    """Complete statistical analysis for Superenalotto"""
+    archive = get_superenalotto_archive()
+    frequencies = calculate_frequencies_se()
+    delays = calculate_delays_se()
+
+    most_frequent = max(frequencies.items(), key=lambda x: x[1])
+    least_frequent = min(frequencies.items(), key=lambda x: x[1])
+    max_delay = max(delays.items(), key=lambda x: x[1])
+
+    return {
+        'total_draws': len(archive),
+        'most_frequent': most_frequent,
+        'least_frequent': least_frequent,
+        'max_delay': max_delay,
+        'frequencies': frequencies,
+        'delays': delays
+    }
+
+
 def generate_predictions():
     """Generate statistical predictions"""
     frequencies = calculate_frequencies()
@@ -94,6 +142,23 @@ def generate_predictions():
         predictions[wheel] = sorted([num for num, _ in chosen])
 
     return predictions
+
+
+def generate_predictions_se():
+    """Generate statistical predictions for Superenalotto (6 numbers)"""
+    frequencies = calculate_frequencies_se()
+    delays = calculate_delays_se()
+
+    scores = {}
+    for num in range(1, 91):
+        freq = frequencies.get(num, 0)
+        delay = delays.get(num, 0)
+        scores[num] = freq + (delay * 0.3)
+
+    best = sorted(scores.items(), key=lambda x: x[1], reverse=True)
+    candidates = best[:20]
+    chosen = sorted([num for num, _ in random.sample(candidates, 6)])
+    return chosen
 
 
 def get_dieci_lotto():

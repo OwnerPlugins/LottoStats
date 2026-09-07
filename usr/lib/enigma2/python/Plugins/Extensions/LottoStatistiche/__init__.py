@@ -13,7 +13,7 @@ __author__ = "Lululla"
 __email__ = "ekekaz@gmail.com"
 __copyright__ = "Copyright (c) 2026 Lululla"
 __license__ = "GPL-v2"
-__version__ = "1.1"
+__version__ = "1.2"
 DEBUG = True
 
 PluginLanguageDomain = 'LottoStatistiche'

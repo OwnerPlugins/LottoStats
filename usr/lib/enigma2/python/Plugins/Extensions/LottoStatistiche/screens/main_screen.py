@@ -28,6 +28,8 @@ class LottoMainScreen(Screen):
         self["title"] = Label(_("MAIN MENU - LOTTO STATISTICS"))
 
         self.menu_items = [
+            _("Update Lotto Archive"),
+            _("Update Superenalotto"),
             _("Draws Archive"),
             _("Number Frequencies"),
             _("Statistical Analysis"),
@@ -35,8 +37,7 @@ class LottoMainScreen(Screen):
             _("Neapolitan Smorfia"),
             _("10 e Lotto"),
             _("Superenalotto"),
-            _("Update Lotto Archive"),
-            _("Update Superenalotto"),
+
             _("Exit")
         ]
 
@@ -111,3 +112,4 @@ class LottoMainScreen(Screen):
 
         elif index == 9:
             self.close()
+

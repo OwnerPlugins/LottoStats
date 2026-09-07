@@ -1,8 +1,8 @@
 #!/bin/bash
 ## setup command=wget -q --no-check-certificate https://raw.githubusercontent.com/OwnerPlugins/LottoStats/main/installer.sh -O - | /bin/bash
 
-version='1.1'
-changelog='\nFix Crash on Smorfia\nmajor fixn\Add image'
+version='1.2'
+changelog='\nBump package to v1.2 and switch Lotto/Superenalotto data sources to GitHub JSON feeds.\nParse and convert remote JSON into plugin archive format\nadd Superenalotto downloader/converter, and improve error handling/logging.\nAdd Superenalotto-specific statistics: frequencies, delays\nfull analysis and 6-number prediction generator.\nUpdate core.dati with separate save/get helpers and docstrings.\nRefresh UI: add Update Lotto/Superenalotto menu items and overhaul\nSuperenalotto screen to show last draw, hot/cold lists\ndelays and predictions.\nMinor formatting/refactor fixes across screens and installer changelog.'
 
 TMPPATH=/tmp/LottoStatistiche-install
 FILEPATH=/tmp/LottoStatistiche-main.tar.gz
