@@ -45,7 +45,8 @@ def update_archive():
             })
 
         save_archive(archive)
-        print(f"✅ Lotto archive saved! {len(archive)} draws from {archive[0]['data']} to {archive[-1]['data']}")
+        print(
+            f"✅ Lotto archive saved! {len(archive)} draws from {archive[0]['data']} to {archive[-1]['data']}")
         return True
 
     except Exception as e:

@@ -34,11 +34,13 @@ class SuperenalottoScreen(Screen):
         archive = get_superenalotto_archive()
 
         if not archive:
-            return _("No data available. Press 'Update Superenalotto' from main menu.")
+            return _(
+                "No data available. Press 'Update Superenalotto' from main menu.")
         try:
             # Last draw
             last = archive[-1]
-            text = _("LAST DRAW") + f" ({_('contest')} {last['concorso']} - {last['data']}):\n"
+            text = _("LAST DRAW") + \
+                f" ({_('contest')} {last['concorso']} - {last['data']}):\n"
             text += f"  {_('Numbers')}: {', '.join(map(str, last['numeri']))}\n"
             if last['jolly']:
                 text += f"  Jolly: {last['jolly']}\n"
@@ -57,7 +59,11 @@ class SuperenalottoScreen(Screen):
 
             # Hot/Cold Frequencies
             frequencies = calculate_frequencies_se()
-            hot = sorted(frequencies.items(), key=lambda x: x[1], reverse=True)[:10]
+            hot = sorted(
+                frequencies.items(),
+                key=lambda x: x[1],
+                reverse=True)[
+                :10]
             cold = sorted(frequencies.items(), key=lambda x: x[1])[:10]
 
             text += _("HOT NUMBERS (most drawn):\n")
@@ -72,7 +78,11 @@ class SuperenalottoScreen(Screen):
 
             # Delays
             delays = calculate_delays_se()
-            max_delays = sorted(delays.items(), key=lambda x: x[1], reverse=True)[:10]
+            max_delays = sorted(
+                delays.items(),
+                key=lambda x: x[1],
+                reverse=True)[
+                :10]
             text += _("MAX DELAYS:\n")
             for i, (num, delay) in enumerate(max_delays, 1):
                 text += f"  {i:2}. {num:2} -> {delay} {_('draws')}\n"

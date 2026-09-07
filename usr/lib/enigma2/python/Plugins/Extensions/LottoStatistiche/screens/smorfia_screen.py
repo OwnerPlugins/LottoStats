@@ -54,7 +54,8 @@ class SmorfiaScreen(Screen):
 
             item = self.smorfia_entries[idx]
             plugin_path = os.path.dirname(os.path.dirname(__file__))
-            icon_path = os.path.join(plugin_path, "images", "smorfia", item["icon"])
+            icon_path = os.path.join(
+                plugin_path, "images", "smorfia", item["icon"])
 
             self["info"].setText(f"[{item['num']:2}] -> {item['name']}")
 
@@ -63,7 +64,8 @@ class SmorfiaScreen(Screen):
                     self.picload = ePicLoad()
 
                 self.picload.setPara([80, 80, 1, 1, False, 1, "#00000000"])
-                decode_result = self.picload.startDecode(icon_path, 0, 0, False)
+                decode_result = self.picload.startDecode(
+                    icon_path, 0, 0, False)
 
                 if decode_result == 0:
                     ptr = self.picload.getData()

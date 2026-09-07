@@ -59,7 +59,7 @@ def isHD():
 def get_skin_override(screen_name="main"):
     """Return the skin XML for a specific screen"""
     plugin_path = os.path.dirname(__file__)
-    
+
     if isUHD():
         skin_dir = "uhd"
     elif isWQHD():
@@ -68,18 +68,23 @@ def get_skin_override(screen_name="main"):
         skin_dir = "fhd"
     else:
         skin_dir = "hd"
-    
-    skin_path = os.path.join(plugin_path, "skins", skin_dir, f"{screen_name}.xml")
-    
+
+    skin_path = os.path.join(
+        plugin_path,
+        "skins",
+        skin_dir,
+        f"{screen_name}.xml")
+
     if os.path.exists(skin_path):
         with open(skin_path, 'r', encoding='utf-8') as f:
             return f.read()
-    
-    fallback_path = os.path.join(plugin_path, "skins", "hd", f"{screen_name}.xml")
+
+    fallback_path = os.path.join(
+        plugin_path, "skins", "hd", f"{screen_name}.xml")
     if os.path.exists(fallback_path):
         with open(fallback_path, 'r', encoding='utf-8') as f:
             return f.read()
-    
+
     return '<screen position="center,center" size="800,480" title="Default"/>'
 
 
