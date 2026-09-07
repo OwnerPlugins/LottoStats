@@ -22,13 +22,13 @@ msgid "10 e Lotto"
 msgstr "🎯 10 i Loto"
 
 msgid "Annuncio"
-msgstr ""
+msgstr "Najava"
 
 msgid "Bacio"
-msgstr ""
+msgstr "Poljubac"
 
 msgid "Bambina"
-msgstr ""
+msgstr "Djevojka"
 
 msgid "Bambino"
 msgstr ""
@@ -37,28 +37,32 @@ msgid "Bello"
 msgstr ""
 
 msgid "Bocca"
-msgstr ""
+msgstr "Usta"
 
 msgid "Bocca di rosa"
-msgstr ""
+msgstr "Ruža usta"
 
 msgid "Brutto"
-msgstr ""
+msgstr "Loš"
+
+#, fuzzy
+msgid "COLD NUMBERS (least drawn):\\\\\\\\n"
+msgstr "🔥 VRUĆI BROJEVI (najviše izvučeni):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Cacciatore"
-msgstr ""
+msgstr "Nogometaš"
 
 msgid "Caduta"
-msgstr ""
+msgstr "Pad"
 
 msgid "Caffè"
-msgstr ""
+msgstr "Kava"
 
 msgid "Camera"
-msgstr ""
+msgstr "Fotoaparat"
 
 msgid "Cantante"
-msgstr ""
+msgstr "Pjevač"
 
 msgid "Capo"
 msgstr ""
@@ -70,16 +74,16 @@ msgid "Casa"
 msgstr ""
 
 msgid "Chi va per via"
-msgstr ""
+msgstr "Tko ide na put"
 
 msgid "Chitarra"
-msgstr ""
+msgstr "Gitara"
 
 msgid "Colpi"
-msgstr ""
+msgstr "Snimci"
 
 msgid "Coltello"
-msgstr ""
+msgstr "Nož"
 
 msgid "Corda"
 msgstr ""
@@ -88,60 +92,67 @@ msgid "Cristo"
 msgstr ""
 
 msgid "Denaro"
-msgstr ""
+msgstr "Novac"
 
 msgid "Deretano"
-msgstr ""
+msgstr "Stražnja strana"
 
 msgid "Diavolo"
-msgstr ""
+msgstr "Vrag"
 
 msgid "Dito"
-msgstr ""
+msgstr "Ovdje"
 
 msgid "Donna"
 msgstr ""
 
 msgid "Donna nuda"
-msgstr ""
+msgstr "Gola žena"
 
 #, fuzzy
 msgid "Draws Archive"
 msgstr "📊 Arhiva crteža"
 
 msgid "Due gambe"
-msgstr ""
+msgstr "Dvije noge"
+
+msgid "Error loading Superenalotto data. Check log for details."
+msgstr "Pogreška pri učitavanju podataka SuperEnalotto. Provjerite zapisnik za detalje."
 
 #, fuzzy
 msgid "Exit"
 msgstr "❌ Izlaz"
 
 msgid "Fave"
-msgstr ""
+msgstr "Omiljeni"
 
 msgid "Festa"
-msgstr ""
+msgstr "Stranka"
 
 msgid "Fiasco"
-msgstr ""
+msgstr "Fijasko"
 
 msgid "Figli"
-msgstr ""
+msgstr "djeca"
 
 msgid "Fortuna"
 msgstr ""
 
 msgid "Fratello"
-msgstr ""
+msgstr "Brat"
 
 msgid "Fune"
-msgstr ""
+msgstr "Uže"
+
+#, fuzzy
+msgid "GENERAL STATISTICS:\\\\\\\\n"
+msgstr "📊 OPĆA STATISTIKA:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Gatta"
-msgstr ""
+msgstr "Mačka"
 
 msgid "Gobbo"
-msgstr ""
+msgstr "Grbavac"
 
 msgid "Grande"
 msgstr ""
@@ -149,14 +160,21 @@ msgstr ""
 msgid "Guardia"
 msgstr ""
 
+#, fuzzy
+msgid "HOT NUMBERS (most drawn):\\\\\\\\n"
+msgstr "🔥 VRUĆI BROJEVI (najviše izvučeni):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+
 msgid "Italia"
 msgstr ""
 
+msgid "LAST DRAW"
+msgstr "POSLJEDNJE IZVLAČENJE"
+
 msgid "Ladro"
-msgstr ""
+msgstr "Lopov"
 
 msgid "Lamento"
-msgstr ""
+msgstr "žao mi je"
 
 #, fuzzy
 msgid "Lotto archive updated!"
@@ -170,26 +188,29 @@ msgstr "❌ Pogreška ažuriranja lota"
 msgid "MAIN MENU - LOTTO STATISTICS"
 msgstr "🎰 GLAVNI IZBORNIK - LOTO STATISTIKA"
 
+msgid "MAX DELAYS:\\\\\\\\n"
+msgstr "MAKSIMALNA KAŠNJENJA:\\\\\\\\\\\\\\\\n"
+
 msgid "Madonna"
-msgstr ""
+msgstr "Madona"
 
 msgid "Madre"
 msgstr ""
 
 msgid "Maiale"
-msgstr ""
+msgstr "Svinja"
 
 msgid "Mano"
-msgstr ""
+msgstr "tisuću"
 
 msgid "Monaco"
-msgstr ""
+msgstr "Monako"
 
 msgid "Morto"
-msgstr ""
+msgstr "umro"
 
 msgid "Morto che parla"
-msgstr ""
+msgstr "Mrtvac govori"
 
 msgid "Musica"
 msgstr ""
@@ -209,6 +230,10 @@ msgid "Neapolitan Smorfia"
 msgstr "😴 Napuljska grimasa"
 
 #, fuzzy
+msgid "No data available. Press 'Update Superenalotto' from main menu."
+msgstr "❌ Nema dostupnih podataka. Pritisnite 'Ažuriraj SuperEnalotto' na glavnom izborniku."
+
+#, fuzzy
 msgid "No draws available. Press 'Update Archive' from main menu."
 msgstr "❌ Nema dostupnih izvlačenja. Pritisnite 'Ažuriraj arhivu' na glavnom izborniku."
 
@@ -217,86 +242,93 @@ msgid "Number Frequencies"
 msgstr "📈 Brojne frekvencije"
 
 msgid "Occhio"
-msgstr ""
+msgstr "Oko"
 
 msgid "Oste"
-msgstr ""
+msgstr "Sir"
+
+msgid "PREDICTIONS (6 numbers):\\\\\\\\n"
+msgstr "PREDVIĐANJA (6 brojeva):\\\\\\\\\\\\\\\\n"
 
 msgid "Padre dei figli"
-msgstr ""
+msgstr "Otac djece"
 
 msgid "Padrone"
-msgstr ""
+msgstr "Majstorski"
 
 msgid "Palla"
-msgstr ""
+msgstr "Lopta"
 
 msgid "Pane"
-msgstr ""
+msgstr "Okno"
 
 msgid "Pane e vino"
-msgstr ""
+msgstr "Kruh i vino"
 
 msgid "Paura"
-msgstr ""
+msgstr "Strah"
 
 msgid "Pazzo"
-msgstr ""
+msgstr "Lud"
 
 msgid "Pianto"
-msgstr ""
+msgstr "Plač"
 
 msgid "Piccolo"
 msgstr ""
 
 msgid "Piede"
-msgstr ""
+msgstr "Noga"
 
 msgid "Porta"
 msgstr ""
 
 msgid "Pranzo"
-msgstr ""
+msgstr "Ručak"
 
 #, fuzzy
 msgid "Predictions"
 msgstr "🔮 Predviđanja"
 
 msgid "Prete"
-msgstr ""
+msgstr "Svećenik"
 
 msgid "Ragazzo"
-msgstr ""
+msgstr "momak"
 
 msgid "Risata"
-msgstr ""
+msgstr "Smijeh"
+
+#, fuzzy
+msgid "SUPERENALOTTO - Statistics"
+msgstr "⭐ SUPERENALOTTO - Povijesni arhiv"
 
 msgid "Sangue"
-msgstr ""
+msgstr "Krv"
 
 msgid "Sant'Antonio"
-msgstr ""
+msgstr "Sveti Ante"
 
 msgid "Scarpa"
 msgstr ""
 
 msgid "Scatola"
-msgstr ""
+msgstr "Kutija"
 
 msgid "Scemo"
-msgstr ""
+msgstr "Glupo"
 
 msgid "Sfortuna"
-msgstr ""
+msgstr "Loša sreća"
 
 msgid "Soldato"
-msgstr ""
+msgstr "Vojnik"
 
 msgid "Sorella"
-msgstr ""
+msgstr "Sestra"
 
 msgid "Sposa"
-msgstr ""
+msgstr "Žena"
 
 #, fuzzy
 msgid "Statistical Analysis"
@@ -315,25 +347,29 @@ msgid "Superenalotto updated!"
 msgstr "✅ Superenalotto ažuriran!"
 
 msgid "Tavola"
-msgstr ""
+msgstr "Stol"
 
 msgid "Tempio"
-msgstr ""
+msgstr "Hram"
 
 msgid "Testa"
 msgstr ""
+
+#, fuzzy
+msgid "Tip: Play responsibly!"
+msgstr "💡 Savjet: Igrajte odgovorno!"
 
 msgid "Topi"
 msgstr ""
 
 msgid "Ubriaco"
-msgstr ""
+msgstr "Pijan"
 
 msgid "Uccello"
-msgstr ""
+msgstr "Ptica"
 
 msgid "Uomo"
-msgstr ""
+msgstr "Čovjek"
 
 #, fuzzy
 msgid "Update Lotto Archive"
@@ -347,19 +383,13 @@ msgid "Vaso"
 msgstr ""
 
 msgid "Vecchia"
-msgstr ""
+msgstr "Star"
 
 msgid "Vecchio"
 msgstr ""
 
 msgid "Vino"
 msgstr ""
-
-msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
-msgstr "❌ Nema dostupnih podataka. Pritisnite 'Ažuriraj SuperEnalotto' na glavnom izborniku."
-
-msgid "⭐ SUPERENALOTTO - Historical Archive"
-msgstr "⭐ SUPERENALOTTO - Povijesni arhiv"
 
 msgid "🎯 10 e LOTTO"
 msgstr "🎯 10 i PUNO"
@@ -369,7 +399,7 @@ msgstr "📈 UČESTALOSTI I KAŠNJENJA"
 
 #, fuzzy
 msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
-msgstr "📊 OPĆA STATISTIKA:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "📊 OPĆA STATISTIKA:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "📚 DRAWS ARCHIVE"
 msgstr "📚 ARHIVA CRTEŽA"
@@ -379,14 +409,11 @@ msgstr "🔍 KOMPLETNA ANALIZA"
 
 #, fuzzy
 msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
-msgstr "🔢 POSLJEDNJIH 10 eLOTTO IZVLAČENJA:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "🔢 POSLJEDNJIH 10 eLOTTO IZVLAČENJA:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 #, fuzzy
 msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr "🔥 VRUĆI BROJEVI (najviše izvučeni):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "🔥 VRUĆI BROJEVI (najviše izvučeni):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "🔮 PREDICTIONS"
 msgstr "🔮 PREDVIĐANJA"
-
-#~ msgid "💡 Tip: Play responsibly!"
-#~ msgstr "💡 Savjet: Igrajte odgovorno!"

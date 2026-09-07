@@ -31,6 +31,9 @@ msgstr ""
 msgid "Brutto"
 msgstr ""
 
+msgid "COLD NUMBERS (least drawn):\\n"
+msgstr ""
+
 msgid "Cacciatore"
 msgstr ""
 
@@ -97,6 +100,9 @@ msgstr ""
 msgid "Due gambe"
 msgstr ""
 
+msgid "Error loading Superenalotto data. Check log for details."
+msgstr ""
+
 msgid "Exit"
 msgstr ""
 
@@ -121,6 +127,9 @@ msgstr ""
 msgid "Fune"
 msgstr ""
 
+msgid "GENERAL STATISTICS:\\n"
+msgstr ""
+
 msgid "Gatta"
 msgstr ""
 
@@ -133,7 +142,13 @@ msgstr ""
 msgid "Guardia"
 msgstr ""
 
+msgid "HOT NUMBERS (most drawn):\\n"
+msgstr ""
+
 msgid "Italia"
+msgstr ""
+
+msgid "LAST DRAW"
 msgstr ""
 
 msgid "Ladro"
@@ -149,6 +164,9 @@ msgid "Lotto update error"
 msgstr ""
 
 msgid "MAIN MENU - LOTTO STATISTICS"
+msgstr ""
+
+msgid "MAX DELAYS:\\n"
 msgstr ""
 
 msgid "Madonna"
@@ -187,6 +205,9 @@ msgstr ""
 msgid "Neapolitan Smorfia"
 msgstr ""
 
+msgid "No data available. Press 'Update Superenalotto' from main menu."
+msgstr ""
+
 msgid "No draws available. Press 'Update Archive' from main menu."
 msgstr ""
 
@@ -197,6 +218,9 @@ msgid "Occhio"
 msgstr ""
 
 msgid "Oste"
+msgstr ""
+
+msgid "PREDICTIONS (6 numbers):\\n"
 msgstr ""
 
 msgid "Padre dei figli"
@@ -247,6 +271,9 @@ msgstr ""
 msgid "Risata"
 msgstr ""
 
+msgid "SUPERENALOTTO - Statistics"
+msgstr ""
+
 msgid "Sangue"
 msgstr ""
 
@@ -295,6 +322,9 @@ msgstr ""
 msgid "Testa"
 msgstr ""
 
+msgid "Tip: Play responsibly!"
+msgstr ""
+
 msgid "Topi"
 msgstr ""
 
@@ -323,12 +353,6 @@ msgid "Vecchio"
 msgstr ""
 
 msgid "Vino"
-msgstr ""
-
-msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
-msgstr ""
-
-msgid "⭐ SUPERENALOTTO - Historical Archive"
 msgstr ""
 
 msgid "🎯 10 e LOTTO"

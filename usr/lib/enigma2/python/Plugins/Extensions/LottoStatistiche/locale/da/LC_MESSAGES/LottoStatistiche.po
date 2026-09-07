@@ -22,13 +22,13 @@ msgid "10 e Lotto"
 msgstr "🎯 10 og Lotto"
 
 msgid "Annuncio"
-msgstr ""
+msgstr "Bekendtgørelse"
 
 msgid "Bacio"
-msgstr ""
+msgstr "Kys"
 
 msgid "Bambina"
-msgstr ""
+msgstr "Pige"
 
 msgid "Bambino"
 msgstr ""
@@ -37,28 +37,32 @@ msgid "Bello"
 msgstr ""
 
 msgid "Bocca"
-msgstr ""
+msgstr "Mund"
 
 msgid "Bocca di rosa"
-msgstr ""
+msgstr "Rose mund"
 
 msgid "Brutto"
-msgstr ""
+msgstr "Dårligt"
+
+#, fuzzy
+msgid "COLD NUMBERS (least drawn):\\\\\\\\n"
+msgstr "🔥 HOTTE NUMRE (mest tegnede):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Cacciatore"
-msgstr ""
+msgstr "Fodboldspiller"
 
 msgid "Caduta"
-msgstr ""
+msgstr "Falde"
 
 msgid "Caffè"
-msgstr ""
+msgstr "Kaffe"
 
 msgid "Camera"
-msgstr ""
+msgstr "Kamera"
 
 msgid "Cantante"
-msgstr ""
+msgstr "Sanger"
 
 msgid "Capo"
 msgstr ""
@@ -70,16 +74,16 @@ msgid "Casa"
 msgstr ""
 
 msgid "Chi va per via"
-msgstr ""
+msgstr "Hvem går på vejen"
 
 msgid "Chitarra"
-msgstr ""
+msgstr "Guitar"
 
 msgid "Colpi"
-msgstr ""
+msgstr "Skud"
 
 msgid "Coltello"
-msgstr ""
+msgstr "Kniv"
 
 msgid "Corda"
 msgstr ""
@@ -88,60 +92,67 @@ msgid "Cristo"
 msgstr ""
 
 msgid "Denaro"
-msgstr ""
+msgstr "Penge"
 
 msgid "Deretano"
-msgstr ""
+msgstr "Bagsiden"
 
 msgid "Diavolo"
-msgstr ""
+msgstr "Djævel"
 
 msgid "Dito"
-msgstr ""
+msgstr "Her"
 
 msgid "Donna"
 msgstr ""
 
 msgid "Donna nuda"
-msgstr ""
+msgstr "Nøgen kvinde"
 
 #, fuzzy
 msgid "Draws Archive"
 msgstr "📊 Tegner arkiv"
 
 msgid "Due gambe"
-msgstr ""
+msgstr "To ben"
+
+msgid "Error loading Superenalotto data. Check log for details."
+msgstr "Fejl ved indlæsning af Superenalotto-data. Tjek log for detaljer."
 
 #, fuzzy
 msgid "Exit"
 msgstr "❌ Afslut"
 
 msgid "Fave"
-msgstr ""
+msgstr "Favorit"
 
 msgid "Festa"
-msgstr ""
+msgstr "Parti"
 
 msgid "Fiasco"
-msgstr ""
+msgstr "Fiasko"
 
 msgid "Figli"
-msgstr ""
+msgstr "Børn"
 
 msgid "Fortuna"
 msgstr ""
 
 msgid "Fratello"
-msgstr ""
+msgstr "Bror"
 
 msgid "Fune"
-msgstr ""
+msgstr "Reb"
+
+#, fuzzy
+msgid "GENERAL STATISTICS:\\\\\\\\n"
+msgstr "📊 GENEREL STATISTIK:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Gatta"
-msgstr ""
+msgstr "Kat"
 
 msgid "Gobbo"
-msgstr ""
+msgstr "Hunchback"
 
 msgid "Grande"
 msgstr ""
@@ -149,14 +160,21 @@ msgstr ""
 msgid "Guardia"
 msgstr ""
 
+#, fuzzy
+msgid "HOT NUMBERS (most drawn):\\\\\\\\n"
+msgstr "🔥 HOTTE NUMRE (mest tegnede):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+
 msgid "Italia"
-msgstr ""
+msgstr "Italien"
+
+msgid "LAST DRAW"
+msgstr "SIDSTE TREKKNING"
 
 msgid "Ladro"
-msgstr ""
+msgstr "Tyv"
 
 msgid "Lamento"
-msgstr ""
+msgstr "Jeg er ked af det"
 
 #, fuzzy
 msgid "Lotto archive updated!"
@@ -170,6 +188,9 @@ msgstr "❌ Lotto-opdateringsfejl"
 msgid "MAIN MENU - LOTTO STATISTICS"
 msgstr "🎰 HOVEDMENU - LOTTO STATISTIK"
 
+msgid "MAX DELAYS:\\\\\\\\n"
+msgstr "MAKS. FORSINKELSER:\\\\\\\\\\\\\\\\n"
+
 msgid "Madonna"
 msgstr ""
 
@@ -177,19 +198,19 @@ msgid "Madre"
 msgstr ""
 
 msgid "Maiale"
-msgstr ""
+msgstr "Svin"
 
 msgid "Mano"
-msgstr ""
+msgstr "Tusind"
 
 msgid "Monaco"
 msgstr ""
 
 msgid "Morto"
-msgstr ""
+msgstr "Døde"
 
 msgid "Morto che parla"
-msgstr ""
+msgstr "Død mand taler"
 
 msgid "Musica"
 msgstr ""
@@ -209,6 +230,10 @@ msgid "Neapolitan Smorfia"
 msgstr "😴 Napolitansk grimace"
 
 #, fuzzy
+msgid "No data available. Press 'Update Superenalotto' from main menu."
+msgstr "❌ Ingen tilgængelige data. Tryk på 'Opdater Superenalotto' fra hovedmenuen."
+
+#, fuzzy
 msgid "No draws available. Press 'Update Archive' from main menu."
 msgstr "❌ Ingen lodtrækninger tilgængelige. Tryk på 'Opdater arkiv' fra hovedmenuen."
 
@@ -217,86 +242,93 @@ msgid "Number Frequencies"
 msgstr "📈 Antal frekvenser"
 
 msgid "Occhio"
-msgstr ""
+msgstr "Øje"
 
 msgid "Oste"
 msgstr ""
 
+msgid "PREDICTIONS (6 numbers):\\\\\\\\n"
+msgstr "FORUDSIGNINGER (6 tal):\\\\\\\\\\\\\\\\n"
+
 msgid "Padre dei figli"
-msgstr ""
+msgstr "Far til børn"
 
 msgid "Padrone"
-msgstr ""
+msgstr "Mestre"
 
 msgid "Palla"
-msgstr ""
+msgstr "Bold"
 
 msgid "Pane"
-msgstr ""
+msgstr "Rude"
 
 msgid "Pane e vino"
-msgstr ""
+msgstr "Brød og vin"
 
 msgid "Paura"
-msgstr ""
+msgstr "Frygt"
 
 msgid "Pazzo"
-msgstr ""
+msgstr "Skør"
 
 msgid "Pianto"
-msgstr ""
+msgstr "Græder"
 
 msgid "Piccolo"
 msgstr ""
 
 msgid "Piede"
-msgstr ""
+msgstr "Fod"
 
 msgid "Porta"
 msgstr ""
 
 msgid "Pranzo"
-msgstr ""
+msgstr "Frokost"
 
 #, fuzzy
 msgid "Predictions"
 msgstr "🔮 Forudsigelser"
 
 msgid "Prete"
-msgstr ""
+msgstr "Præst"
 
 msgid "Ragazzo"
-msgstr ""
+msgstr "Drenge"
 
 msgid "Risata"
-msgstr ""
+msgstr "Grine"
+
+#, fuzzy
+msgid "SUPERENALOTTO - Statistics"
+msgstr "⭐ SUPERENALOTTO - Historisk arkiv"
 
 msgid "Sangue"
-msgstr ""
+msgstr "Blod"
 
 msgid "Sant'Antonio"
-msgstr ""
+msgstr "Sankt Antonius"
 
 msgid "Scarpa"
 msgstr ""
 
 msgid "Scatola"
-msgstr ""
+msgstr "Boks"
 
 msgid "Scemo"
-msgstr ""
+msgstr "Dum"
 
 msgid "Sfortuna"
-msgstr ""
+msgstr "Ulykke"
 
 msgid "Soldato"
-msgstr ""
+msgstr "Soldat"
 
 msgid "Sorella"
-msgstr ""
+msgstr "Søster"
 
 msgid "Sposa"
-msgstr ""
+msgstr "Kone"
 
 #, fuzzy
 msgid "Statistical Analysis"
@@ -315,25 +347,29 @@ msgid "Superenalotto updated!"
 msgstr "✅ Superenalotto opdateret!"
 
 msgid "Tavola"
-msgstr ""
+msgstr "Tabel"
 
 msgid "Tempio"
-msgstr ""
+msgstr "Tempel"
 
 msgid "Testa"
 msgstr ""
+
+#, fuzzy
+msgid "Tip: Play responsibly!"
+msgstr "💡 Tip: Spil ansvarligt!"
 
 msgid "Topi"
 msgstr ""
 
 msgid "Ubriaco"
-msgstr ""
+msgstr "Beruset"
 
 msgid "Uccello"
-msgstr ""
+msgstr "Fugl"
 
 msgid "Uomo"
-msgstr ""
+msgstr "Mand"
 
 #, fuzzy
 msgid "Update Lotto Archive"
@@ -347,19 +383,13 @@ msgid "Vaso"
 msgstr ""
 
 msgid "Vecchia"
-msgstr ""
+msgstr "Gammel"
 
 msgid "Vecchio"
 msgstr ""
 
 msgid "Vino"
 msgstr ""
-
-msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
-msgstr "❌ Ingen tilgængelige data. Tryk på 'Opdater Superenalotto' fra hovedmenuen."
-
-msgid "⭐ SUPERENALOTTO - Historical Archive"
-msgstr "⭐ SUPERENALOTTO - Historisk arkiv"
 
 msgid "🎯 10 e LOTTO"
 msgstr "🎯 10 og MASSE"
@@ -369,7 +399,7 @@ msgstr "📈 FREKVENS OG FORSINKELSER"
 
 #, fuzzy
 msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
-msgstr "📊 GENEREL STATISTIK:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "📊 GENEREL STATISTIK:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "📚 DRAWS ARCHIVE"
 msgstr "📚 TEGNINGER ARKIV"
@@ -379,14 +409,11 @@ msgstr "🔍 Fuldstændig ANALYSE"
 
 #, fuzzy
 msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
-msgstr "🔢 SIDSTE 10eLOTTO-LODNING:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "🔢 SIDSTE 10eLOTTO-LODNING:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 #, fuzzy
 msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr "🔥 HOTTE NUMRE (mest tegnede):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "🔥 HOTTE NUMRE (mest tegnede):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "🔮 PREDICTIONS"
 msgstr "🔮 FORUDSIGNINGER"
-
-#~ msgid "💡 Tip: Play responsibly!"
-#~ msgstr "💡 Tip: Spil ansvarligt!"
