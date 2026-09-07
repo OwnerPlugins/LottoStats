@@ -16,86 +16,376 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "✅ Lotto archive updated!"
-msgstr "✅ 乐透档案已更新！"
+#, fuzzy
+msgid "10 e Lotto"
+msgstr "🎯 10 和乐透"
 
-msgid "✅ Superenalotto updated!"
-msgstr "✅ 超级乐透已更新！"
+msgid "Annuncio"
+msgstr ""
 
-msgid "❌ Exit"
+msgid "Bacio"
+msgstr ""
+
+msgid "Bambina"
+msgstr ""
+
+msgid "Bambino"
+msgstr ""
+
+msgid "Bello"
+msgstr ""
+
+msgid "Bocca"
+msgstr ""
+
+msgid "Bocca di rosa"
+msgstr ""
+
+msgid "Brutto"
+msgstr ""
+
+msgid "Cacciatore"
+msgstr ""
+
+msgid "Caduta"
+msgstr ""
+
+msgid "Caffè"
+msgstr ""
+
+msgid "Camera"
+msgstr ""
+
+msgid "Cantante"
+msgstr ""
+
+msgid "Capo"
+msgstr ""
+
+msgid "Carne"
+msgstr ""
+
+msgid "Casa"
+msgstr ""
+
+msgid "Chi va per via"
+msgstr ""
+
+msgid "Chitarra"
+msgstr ""
+
+msgid "Colpi"
+msgstr ""
+
+msgid "Coltello"
+msgstr ""
+
+msgid "Corda"
+msgstr ""
+
+msgid "Cristo"
+msgstr ""
+
+msgid "Denaro"
+msgstr ""
+
+msgid "Deretano"
+msgstr ""
+
+msgid "Diavolo"
+msgstr ""
+
+msgid "Dito"
+msgstr ""
+
+msgid "Donna"
+msgstr ""
+
+msgid "Donna nuda"
+msgstr ""
+
+#, fuzzy
+msgid "Draws Archive"
+msgstr "📊 绘制档案"
+
+msgid "Due gambe"
+msgstr ""
+
+#, fuzzy
+msgid "Exit"
 msgstr "❌ 退出"
 
-msgid "❌ Lotto update error"
+msgid "Fave"
+msgstr ""
+
+msgid "Festa"
+msgstr ""
+
+msgid "Fiasco"
+msgstr ""
+
+msgid "Figli"
+msgstr ""
+
+msgid "Fortuna"
+msgstr ""
+
+msgid "Fratello"
+msgstr ""
+
+msgid "Fune"
+msgstr ""
+
+msgid "Gatta"
+msgstr ""
+
+msgid "Gobbo"
+msgstr ""
+
+msgid "Grande"
+msgstr ""
+
+msgid "Guardia"
+msgstr ""
+
+msgid "Italia"
+msgstr ""
+
+msgid "Ladro"
+msgstr ""
+
+msgid "Lamento"
+msgstr ""
+
+#, fuzzy
+msgid "Lotto archive updated!"
+msgstr "✅ 乐透档案已更新！"
+
+#, fuzzy
+msgid "Lotto update error"
 msgstr "❌ 乐透更新错误"
+
+#, fuzzy
+msgid "MAIN MENU - LOTTO STATISTICS"
+msgstr "🎰 主菜单 - 乐透统计"
+
+msgid "Madonna"
+msgstr ""
+
+msgid "Madre"
+msgstr ""
+
+msgid "Maiale"
+msgstr ""
+
+msgid "Mano"
+msgstr ""
+
+msgid "Monaco"
+msgstr ""
+
+msgid "Morto"
+msgstr ""
+
+msgid "Morto che parla"
+msgstr ""
+
+msgid "Musica"
+msgstr ""
+
+#, fuzzy
+msgid "NEAPOLITAN SMORFIA"
+msgstr "😴那不勒斯恩典"
+
+msgid "Naso"
+msgstr ""
+
+msgid "Natale"
+msgstr ""
+
+#, fuzzy
+msgid "Neapolitan Smorfia"
+msgstr "😴 那不勒斯鬼脸"
+
+#, fuzzy
+msgid "No draws available. Press 'Update Archive' from main menu."
+msgstr "❌ 不提供抽奖。按主菜单中的“更新存档”。"
+
+#, fuzzy
+msgid "Number Frequencies"
+msgstr "📈 数字频率"
+
+msgid "Occhio"
+msgstr ""
+
+msgid "Oste"
+msgstr ""
+
+msgid "Padre dei figli"
+msgstr ""
+
+msgid "Padrone"
+msgstr ""
+
+msgid "Palla"
+msgstr ""
+
+msgid "Pane"
+msgstr ""
+
+msgid "Pane e vino"
+msgstr ""
+
+msgid "Paura"
+msgstr ""
+
+msgid "Pazzo"
+msgstr ""
+
+msgid "Pianto"
+msgstr ""
+
+msgid "Piccolo"
+msgstr ""
+
+msgid "Piede"
+msgstr ""
+
+msgid "Porta"
+msgstr ""
+
+msgid "Pranzo"
+msgstr ""
+
+#, fuzzy
+msgid "Predictions"
+msgstr "🔮 预测"
+
+msgid "Prete"
+msgstr ""
+
+msgid "Ragazzo"
+msgstr ""
+
+msgid "Risata"
+msgstr ""
+
+msgid "Sangue"
+msgstr ""
+
+msgid "Sant'Antonio"
+msgstr ""
+
+msgid "Scarpa"
+msgstr ""
+
+msgid "Scatola"
+msgstr ""
+
+msgid "Scemo"
+msgstr ""
+
+msgid "Sfortuna"
+msgstr ""
+
+msgid "Soldato"
+msgstr ""
+
+msgid "Sorella"
+msgstr ""
+
+msgid "Sposa"
+msgstr ""
+
+#, fuzzy
+msgid "Statistical Analysis"
+msgstr "🔍统计分析"
+
+#, fuzzy
+msgid "Superenalotto"
+msgstr "⭐ 超级乐透"
+
+#, fuzzy
+msgid "Superenalotto update error"
+msgstr "❌ Superenalotto 更新错误"
+
+#, fuzzy
+msgid "Superenalotto updated!"
+msgstr "✅ 超级乐透已更新！"
+
+msgid "Tavola"
+msgstr ""
+
+msgid "Tempio"
+msgstr ""
+
+msgid "Testa"
+msgstr ""
+
+msgid "Topi"
+msgstr ""
+
+msgid "Ubriaco"
+msgstr ""
+
+msgid "Uccello"
+msgstr ""
+
+msgid "Uomo"
+msgstr ""
+
+#, fuzzy
+msgid "Update Lotto Archive"
+msgstr "🔄 更新乐透档案"
+
+#, fuzzy
+msgid "Update Superenalotto"
+msgstr "🔄 更新超级乐透"
+
+msgid "Vaso"
+msgstr ""
+
+msgid "Vecchia"
+msgstr ""
+
+msgid "Vecchio"
+msgstr ""
+
+msgid "Vino"
+msgstr ""
 
 msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
 msgstr "❌ 无可用数据。按主菜单中的“更新 Superenalotto”。"
 
-msgid "❌ No draws available. Press 'Update Archive' from main menu."
-msgstr "❌ 不提供抽奖。按主菜单中的“更新存档”。"
-
-msgid "❌ Superenalotto update error"
-msgstr "❌ Superenalotto 更新错误"
-
 msgid "⭐ SUPERENALOTTO - Historical Archive"
 msgstr "⭐ SUPERENALOTTO - 历史档案"
-
-msgid "⭐ Superenalotto"
-msgstr "⭐ 超级乐透"
 
 msgid "🎯 10 e LOTTO"
 msgstr "🎯 10 和很多"
 
-msgid "🎯 10 e Lotto"
-msgstr "🎯 10 和乐透"
-
-msgid "🎰 MAIN MENU - LOTTO STATISTICS"
-msgstr "🎰 主菜单 - 乐透统计"
-
-msgid "💡 Tip: Play responsibly!"
-msgstr "💡提示：负责任地玩！"
-
 msgid "📈 FREQUENCIES AND DELAYS"
 msgstr "📈 频率和延迟"
 
-msgid "📈 Number Frequencies"
-msgstr "📈 数字频率"
-
-msgid "📊 Draws Archive"
-msgstr "📊 绘制档案"
-
+#, fuzzy
 msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
-msgstr "📊 一般统计数据：\\\\\\\\\\\\\\\\n"
+msgstr "📊 一般统计数据：\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "📚 DRAWS ARCHIVE"
 msgstr "📚 绘制档案"
 
-msgid "🔄 Update Lotto Archive"
-msgstr "🔄 更新乐透档案"
-
-msgid "🔄 Update Superenalotto"
-msgstr "🔄 更新超级乐透"
-
 msgid "🔍 COMPLETE ANALYSIS"
 msgstr "🔍 完整分析"
 
-msgid "🔍 Statistical Analysis"
-msgstr "🔍统计分析"
-
+#, fuzzy
 msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
-msgstr "🔢 最后 10eLOTTO 抽奖：\\\\\\\\\\\\\\\\n"
+msgstr "🔢 最后 10eLOTTO 抽奖：\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
+#, fuzzy
 msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr "🔥 热门号码（抽中最多）：\\\\\\\\\\\\\\\\n"
+msgstr "🔥 热门号码（抽中最多）：\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "🔮 PREDICTIONS"
 msgstr "🔮 预测"
 
-msgid "🔮 Predictions"
-msgstr "🔮 预测"
-
-msgid "😴 NEAPOLITAN SMORFIA"
-msgstr "😴那不勒斯恩典"
-
-msgid "😴 Neapolitan Smorfia"
-msgstr "😴 那不勒斯鬼脸"
+#~ msgid "💡 Tip: Play responsibly!"
+#~ msgstr "💡提示：负责任地玩！"

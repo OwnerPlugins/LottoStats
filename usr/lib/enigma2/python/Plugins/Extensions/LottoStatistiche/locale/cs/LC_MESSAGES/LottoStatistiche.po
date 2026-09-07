@@ -17,86 +17,376 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
-msgid "✅ Lotto archive updated!"
-msgstr "✅ Archiv Lotto aktualizován!"
+#, fuzzy
+msgid "10 e Lotto"
+msgstr "🎯 10 a Lotto"
 
-msgid "✅ Superenalotto updated!"
-msgstr "✅ Superenalotto aktualizováno!"
+msgid "Annuncio"
+msgstr ""
 
-msgid "❌ Exit"
+msgid "Bacio"
+msgstr ""
+
+msgid "Bambina"
+msgstr ""
+
+msgid "Bambino"
+msgstr ""
+
+msgid "Bello"
+msgstr ""
+
+msgid "Bocca"
+msgstr ""
+
+msgid "Bocca di rosa"
+msgstr ""
+
+msgid "Brutto"
+msgstr ""
+
+msgid "Cacciatore"
+msgstr ""
+
+msgid "Caduta"
+msgstr ""
+
+msgid "Caffè"
+msgstr ""
+
+msgid "Camera"
+msgstr ""
+
+msgid "Cantante"
+msgstr ""
+
+msgid "Capo"
+msgstr ""
+
+msgid "Carne"
+msgstr ""
+
+msgid "Casa"
+msgstr ""
+
+msgid "Chi va per via"
+msgstr ""
+
+msgid "Chitarra"
+msgstr ""
+
+msgid "Colpi"
+msgstr ""
+
+msgid "Coltello"
+msgstr ""
+
+msgid "Corda"
+msgstr ""
+
+msgid "Cristo"
+msgstr ""
+
+msgid "Denaro"
+msgstr ""
+
+msgid "Deretano"
+msgstr ""
+
+msgid "Diavolo"
+msgstr ""
+
+msgid "Dito"
+msgstr ""
+
+msgid "Donna"
+msgstr ""
+
+msgid "Donna nuda"
+msgstr ""
+
+#, fuzzy
+msgid "Draws Archive"
+msgstr "📊 Archiv losování"
+
+msgid "Due gambe"
+msgstr ""
+
+#, fuzzy
+msgid "Exit"
 msgstr "❌ Konec"
 
-msgid "❌ Lotto update error"
+msgid "Fave"
+msgstr ""
+
+msgid "Festa"
+msgstr ""
+
+msgid "Fiasco"
+msgstr ""
+
+msgid "Figli"
+msgstr ""
+
+msgid "Fortuna"
+msgstr ""
+
+msgid "Fratello"
+msgstr ""
+
+msgid "Fune"
+msgstr ""
+
+msgid "Gatta"
+msgstr ""
+
+msgid "Gobbo"
+msgstr ""
+
+msgid "Grande"
+msgstr ""
+
+msgid "Guardia"
+msgstr ""
+
+msgid "Italia"
+msgstr ""
+
+msgid "Ladro"
+msgstr ""
+
+msgid "Lamento"
+msgstr ""
+
+#, fuzzy
+msgid "Lotto archive updated!"
+msgstr "✅ Archiv Lotto aktualizován!"
+
+#, fuzzy
+msgid "Lotto update error"
 msgstr "❌ Chyba aktualizace Lotto"
+
+#, fuzzy
+msgid "MAIN MENU - LOTTO STATISTICS"
+msgstr "🎰 HLAVNÍ MENU - STATISTIKA LOTTA"
+
+msgid "Madonna"
+msgstr ""
+
+msgid "Madre"
+msgstr ""
+
+msgid "Maiale"
+msgstr ""
+
+msgid "Mano"
+msgstr ""
+
+msgid "Monaco"
+msgstr ""
+
+msgid "Morto"
+msgstr ""
+
+msgid "Morto che parla"
+msgstr ""
+
+msgid "Musica"
+msgstr ""
+
+#, fuzzy
+msgid "NEAPOLITAN SMORFIA"
+msgstr "😴 NEAPOLITAN GRACE"
+
+msgid "Naso"
+msgstr ""
+
+msgid "Natale"
+msgstr ""
+
+#, fuzzy
+msgid "Neapolitan Smorfia"
+msgstr "😴 Neapolská grimasa"
+
+#, fuzzy
+msgid "No draws available. Press 'Update Archive' from main menu."
+msgstr "❌ Nejsou dostupná žádná slosování. Stiskněte 'Aktualizovat archiv' z hlavní nabídky."
+
+#, fuzzy
+msgid "Number Frequencies"
+msgstr "📈 Číselné frekvence"
+
+msgid "Occhio"
+msgstr ""
+
+msgid "Oste"
+msgstr ""
+
+msgid "Padre dei figli"
+msgstr ""
+
+msgid "Padrone"
+msgstr ""
+
+msgid "Palla"
+msgstr ""
+
+msgid "Pane"
+msgstr ""
+
+msgid "Pane e vino"
+msgstr ""
+
+msgid "Paura"
+msgstr ""
+
+msgid "Pazzo"
+msgstr ""
+
+msgid "Pianto"
+msgstr ""
+
+msgid "Piccolo"
+msgstr ""
+
+msgid "Piede"
+msgstr ""
+
+msgid "Porta"
+msgstr ""
+
+msgid "Pranzo"
+msgstr ""
+
+#, fuzzy
+msgid "Predictions"
+msgstr "🔮 Předpovědi"
+
+msgid "Prete"
+msgstr ""
+
+msgid "Ragazzo"
+msgstr ""
+
+msgid "Risata"
+msgstr ""
+
+msgid "Sangue"
+msgstr ""
+
+msgid "Sant'Antonio"
+msgstr ""
+
+msgid "Scarpa"
+msgstr ""
+
+msgid "Scatola"
+msgstr ""
+
+msgid "Scemo"
+msgstr ""
+
+msgid "Sfortuna"
+msgstr ""
+
+msgid "Soldato"
+msgstr ""
+
+msgid "Sorella"
+msgstr ""
+
+msgid "Sposa"
+msgstr ""
+
+#, fuzzy
+msgid "Statistical Analysis"
+msgstr "🔍 Statistická analýza"
+
+#, fuzzy
+msgid "Superenalotto"
+msgstr "🔄 Aktualizujte Superenalotto"
+
+#, fuzzy
+msgid "Superenalotto update error"
+msgstr "❌ Chyba aktualizace Superenalotto"
+
+#, fuzzy
+msgid "Superenalotto updated!"
+msgstr "✅ Superenalotto aktualizováno!"
+
+msgid "Tavola"
+msgstr ""
+
+msgid "Tempio"
+msgstr ""
+
+msgid "Testa"
+msgstr ""
+
+msgid "Topi"
+msgstr ""
+
+msgid "Ubriaco"
+msgstr ""
+
+msgid "Uccello"
+msgstr ""
+
+msgid "Uomo"
+msgstr ""
+
+#, fuzzy
+msgid "Update Lotto Archive"
+msgstr "🔄 Aktualizujte archiv Lotto"
+
+#, fuzzy
+msgid "Update Superenalotto"
+msgstr "🔄 Aktualizujte Superenalotto"
+
+msgid "Vaso"
+msgstr ""
+
+msgid "Vecchia"
+msgstr ""
+
+msgid "Vecchio"
+msgstr ""
+
+msgid "Vino"
+msgstr ""
 
 msgid "❌ No data available. Press 'Update Superenalotto' from main menu."
 msgstr "❌ Nejsou k dispozici žádná data. Stiskněte 'Update Superenalotto' z hlavní nabídky."
 
-msgid "❌ No draws available. Press 'Update Archive' from main menu."
-msgstr "❌ Nejsou dostupná žádná slosování. Stiskněte 'Aktualizovat archiv' z hlavní nabídky."
-
-msgid "❌ Superenalotto update error"
-msgstr "❌ Chyba aktualizace Superenalotto"
-
 msgid "⭐ SUPERENALOTTO - Historical Archive"
 msgstr "⭐ SUPERENALOTTO - Historický archiv"
-
-msgid "⭐ Superenalotto"
-msgstr ""
 
 msgid "🎯 10 e LOTTO"
 msgstr "🎯 10 a LOT"
 
-msgid "🎯 10 e Lotto"
-msgstr "🎯 10 a Lotto"
-
-msgid "🎰 MAIN MENU - LOTTO STATISTICS"
-msgstr "🎰 HLAVNÍ MENU - STATISTIKA LOTTA"
-
-msgid "💡 Tip: Play responsibly!"
-msgstr "💡 Tip: Hrajte zodpovědně!"
-
 msgid "📈 FREQUENCIES AND DELAYS"
 msgstr "📈 FREKVENCE A ZPOŽDĚNÍ"
 
-msgid "📈 Number Frequencies"
-msgstr "📈 Číselné frekvence"
-
-msgid "📊 Draws Archive"
-msgstr "📊 Archiv losování"
-
+#, fuzzy
 msgid "📊 GENERAL STATISTICS:\\\\\\\\n"
-msgstr "📊 VŠEOBECNÉ STATISTIKY:\\\\\\\\\\\\\\\\n"
+msgstr "📊 VŠEOBECNÉ STATISTIKY:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "📚 DRAWS ARCHIVE"
 msgstr "📚 ARCHIV VÝKRESŮ"
 
-msgid "🔄 Update Lotto Archive"
-msgstr "🔄 Aktualizujte archiv Lotto"
-
-msgid "🔄 Update Superenalotto"
-msgstr "🔄 Aktualizujte Superenalotto"
-
 msgid "🔍 COMPLETE ANALYSIS"
 msgstr "🔍 KOMPLETNÍ ANALÝZA"
 
-msgid "🔍 Statistical Analysis"
-msgstr "🔍 Statistická analýza"
-
+#, fuzzy
 msgid "🔢 LAST 10eLOTTO DRAW:\\\\\\\\n"
-msgstr "🔢 POSLEDNÍ LOSOVÁNÍ 10eLOTTO:\\\\\\\\\\\\\\\\n"
+msgstr "🔢 POSLEDNÍ LOSOVÁNÍ 10eLOTTO:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
+#, fuzzy
 msgid "🔥 HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr "🔥 ŽHAVÁ ČÍSLA (nejvíce vylosovaná):\\\\\\\\\\\\\\\\n"
+msgstr "🔥 ŽHAVÁ ČÍSLA (nejvíce vylosovaná):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "🔮 PREDICTIONS"
 msgstr "🔮 PŘEDPOVĚDI"
 
-msgid "🔮 Predictions"
-msgstr "🔮 Předpovědi"
-
-msgid "😴 NEAPOLITAN SMORFIA"
-msgstr "😴 NEAPOLITAN GRACE"
-
-msgid "😴 Neapolitan Smorfia"
-msgstr "😴 Neapolská grimasa"
+#~ msgid "💡 Tip: Play responsibly!"
+#~ msgstr "💡 Tip: Hrajte zodpovědně!"
