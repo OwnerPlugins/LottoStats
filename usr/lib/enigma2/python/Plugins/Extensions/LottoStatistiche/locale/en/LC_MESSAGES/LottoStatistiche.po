@@ -1,0 +1,391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-10-14 13:44+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# LottoStatistiche translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid "10 e Lotto"
+msgstr "10 e Lotto"
+
+msgid "Annuncio"
+msgstr "Annuncio"
+
+msgid "Bacio"
+msgstr "Bacio"
+
+msgid "Bambina"
+msgstr "Bambina"
+
+msgid "Bambino"
+msgstr "Bambino"
+
+msgid "Bello"
+msgstr "Bello"
+
+msgid "Bocca"
+msgstr "Bocca"
+
+msgid "Bocca di rosa"
+msgstr "Bocca di rosa"
+
+msgid "Brutto"
+msgstr "Brutto"
+
+msgid "COLD NUMBERS (least drawn):\\\\\\\\n"
+msgstr "COLD NUMBERS (least drawn):\\\\\\\\n"
+
+msgid "Cacciatore"
+msgstr "Cacciatore"
+
+msgid "Caduta"
+msgstr "Caduta"
+
+msgid "Caff"
+msgstr "Caff"
+
+msgid "Camera"
+msgstr "Camera"
+
+msgid "Cantante"
+msgstr "Cantante"
+
+msgid "Capo"
+msgstr "Capo"
+
+msgid "Carne"
+msgstr "Carne"
+
+msgid "Casa"
+msgstr "Casa"
+
+msgid "Chi va per via"
+msgstr "Chi va per via"
+
+msgid "Chitarra"
+msgstr "Chitarra"
+
+msgid "Colpi"
+msgstr "Colpi"
+
+msgid "Coltello"
+msgstr "Coltello"
+
+msgid "Corda"
+msgstr "Corda"
+
+msgid "Cristo"
+msgstr "Cristo"
+
+msgid "Denaro"
+msgstr "Denaro"
+
+msgid "Deretano"
+msgstr "Deretano"
+
+msgid "Diavolo"
+msgstr "Diavolo"
+
+msgid "Dito"
+msgstr "Dito"
+
+msgid "Donna"
+msgstr "Donna"
+
+msgid "Donna nuda"
+msgstr "Donna nuda"
+
+msgid "Draws Archive"
+msgstr "Draws Archive"
+
+msgid "Due gambe"
+msgstr "Due gambe"
+
+msgid "Error loading Superenalotto data. Check log for details."
+msgstr "Error loading Superenalotto data. Check log for details."
+
+msgid "Exit"
+msgstr "Exit"
+
+msgid "Fave"
+msgstr "Fave"
+
+msgid "Festa"
+msgstr "Festa"
+
+msgid "Fiasco"
+msgstr "Fiasco"
+
+msgid "Figli"
+msgstr "Figli"
+
+msgid "Fortuna"
+msgstr "Fortuna"
+
+msgid "Fratello"
+msgstr "Fratello"
+
+msgid "Fune"
+msgstr "Fune"
+
+msgid "GENERAL STATISTICS:\\\\\\\\n"
+msgstr "GENERAL STATISTICS:\\\\\\\\n"
+
+msgid "Gatta"
+msgstr "Gatta"
+
+msgid "Gobbo"
+msgstr "Gobbo"
+
+msgid "Grande"
+msgstr "Grande"
+
+msgid "Guardia"
+msgstr "Guardia"
+
+msgid "HOT NUMBERS (most drawn):\\\\\\\\n"
+msgstr "HOT NUMBERS (most drawn):\\\\\\\\n"
+
+msgid "Italia"
+msgstr "Italia"
+
+msgid "LAST DRAW"
+msgstr "LAST DRAW"
+
+msgid "Ladro"
+msgstr "Ladro"
+
+msgid "Lamento"
+msgstr "Lamento"
+
+msgid "Lotto archive updated!"
+msgstr "Lotto archive updated!"
+
+msgid "Lotto update error"
+msgstr "Lotto update error"
+
+msgid "MAIN MENU - LOTTO STATISTICS"
+msgstr "MAIN MENU - LOTTO STATISTICS"
+
+msgid "MAX DELAYS:\\\\\\\\n"
+msgstr "MAX DELAYS:\\\\\\\\n"
+
+msgid "Madonna"
+msgstr "Madonna"
+
+msgid "Madre"
+msgstr "Madre"
+
+msgid "Maiale"
+msgstr "Maiale"
+
+msgid "Mano"
+msgstr "Mano"
+
+msgid "Monaco"
+msgstr "Monaco"
+
+msgid "Morto"
+msgstr "Morto"
+
+msgid "Morto che parla"
+msgstr "Morto che parla"
+
+msgid "Musica"
+msgstr "Musica"
+
+msgid "NEAPOLITAN SMORFIA"
+msgstr "NEAPOLITAN SMORFIA"
+
+msgid "Naso"
+msgstr "Naso"
+
+msgid "Natale"
+msgstr "Natale"
+
+msgid "Neapolitan Smorfia"
+msgstr "Neapolitan Smorfia"
+
+msgid "No data available. Press 'Update Superenalotto' from main menu."
+msgstr "No data available. Press 'Update Superenalotto' from main menu."
+
+msgid "No draws available. Press 'Update Archive' from main menu."
+msgstr "No draws available. Press 'Update Archive' from main menu."
+
+msgid "Number Frequencies"
+msgstr "Number Frequencies"
+
+msgid "Occhio"
+msgstr "Occhio"
+
+msgid "Oste"
+msgstr "Oste"
+
+msgid "PREDICTIONS (6 numbers):\\\\\\\\n"
+msgstr "PREDICTIONS (6 numbers):\\\\\\\\n"
+
+msgid "Padre dei figli"
+msgstr "Padre dei figli"
+
+msgid "Padrone"
+msgstr "Padrone"
+
+msgid "Palla"
+msgstr "Palla"
+
+msgid "Pane"
+msgstr "Pane"
+
+msgid "Pane e vino"
+msgstr "Pane e vino"
+
+msgid "Paura"
+msgstr "Paura"
+
+msgid "Pazzo"
+msgstr "Pazzo"
+
+msgid "Pianto"
+msgstr "Pianto"
+
+msgid "Piccolo"
+msgstr "Piccolo"
+
+msgid "Piede"
+msgstr "Piede"
+
+msgid "Porta"
+msgstr "Porta"
+
+msgid "Pranzo"
+msgstr "Pranzo"
+
+msgid "Predictions"
+msgstr "Predictions"
+
+msgid "Prete"
+msgstr "Prete"
+
+msgid "Ragazzo"
+msgstr "Ragazzo"
+
+msgid "Risata"
+msgstr "Risata"
+
+msgid "SUPERENALOTTO - Statistics"
+msgstr "SUPERENALOTTO - Statistics"
+
+msgid "Sangue"
+msgstr "Sangue"
+
+msgid "Sant'Antonio"
+msgstr "Sant'Antonio"
+
+msgid "Scarpa"
+msgstr "Scarpa"
+
+msgid "Scatola"
+msgstr "Scatola"
+
+msgid "Scemo"
+msgstr "Scemo"
+
+msgid "Sfortuna"
+msgstr "Sfortuna"
+
+msgid "Soldato"
+msgstr "Soldato"
+
+msgid "Sorella"
+msgstr "Sorella"
+
+msgid "Sposa"
+msgstr "Sposa"
+
+msgid "Statistical Analysis"
+msgstr "Statistical Analysis"
+
+msgid "Superenalotto"
+msgstr "Superenalotto"
+
+msgid "Superenalotto update error"
+msgstr "Superenalotto update error"
+
+msgid "Superenalotto updated!"
+msgstr "Superenalotto updated!"
+
+msgid "Tavola"
+msgstr "Tavola"
+
+msgid "Tempio"
+msgstr "Tempio"
+
+msgid "Testa"
+msgstr "Testa"
+
+msgid "Tip: Play responsibly!"
+msgstr "Tip: Play responsibly!"
+
+msgid "Topi"
+msgstr "Topi"
+
+msgid "Ubriaco"
+msgstr "Ubriaco"
+
+msgid "Uccello"
+msgstr "Uccello"
+
+msgid "Uomo"
+msgstr "Uomo"
+
+msgid "Update Lotto Archive"
+msgstr "Update Lotto Archive"
+
+msgid "Update Superenalotto"
+msgstr "Update Superenalotto"
+
+msgid "Vaso"
+msgstr "Vaso"
+
+msgid "Vecchia"
+msgstr "Vecchia"
+
+msgid "Vecchio"
+msgstr "Vecchio"
+
+msgid "Vino"
+msgstr "Vino"
+
+msgid " 10 e LOTTO"
+msgstr " 10 e LOTTO"
+
+msgid " FREQUENCIES AND DELAYS"
+msgstr " FREQUENCIES AND DELAYS"
+
+msgid " GENERAL STATISTICS:\\\\\\\\n"
+msgstr " GENERAL STATISTICS:\\\\\\\\n"
+
+msgid " DRAWS ARCHIVE"
+msgstr " DRAWS ARCHIVE"
+
+msgid " COMPLETE ANALYSIS"
+msgstr " COMPLETE ANALYSIS"
+
+msgid " LAST 10eLOTTO DRAW:\\\\\\\\n"
+msgstr " LAST 10eLOTTO DRAW:\\\\\\\\n"
+
+msgid " HOT NUMBERS (most drawn):\\\\\\\\n"
+msgstr " HOT NUMBERS (most drawn):\\\\\\\\n"
+
+msgid " PREDICTIONS"
+msgstr " PREDICTIONS"
