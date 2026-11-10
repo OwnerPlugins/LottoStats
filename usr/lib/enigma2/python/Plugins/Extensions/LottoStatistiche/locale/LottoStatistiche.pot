@@ -94,6 +94,9 @@ msgstr ""
 msgid "Donna nuda"
 msgstr ""
 
+msgid "Drawn numbers"
+msgstr ""
+
 msgid "Draws Archive"
 msgstr ""
 
@@ -157,6 +160,9 @@ msgstr ""
 msgid "Lamento"
 msgstr ""
 
+msgid "Least frequent number"
+msgstr ""
+
 msgid "Lotto archive updated!"
 msgstr ""
 
@@ -190,6 +196,9 @@ msgstr ""
 msgid "Morto che parla"
 msgstr ""
 
+msgid "Most frequent number"
+msgstr ""
+
 msgid "Musica"
 msgstr ""
 
@@ -212,6 +221,12 @@ msgid "No draws available. Press 'Update Archive' from main menu."
 msgstr ""
 
 msgid "Number Frequencies"
+msgstr ""
+
+msgid "Number with max delay"
+msgstr ""
+
+msgid "Numbers"
 msgstr ""
 
 msgid "Occhio"
@@ -313,6 +328,9 @@ msgstr ""
 msgid "Superenalotto updated!"
 msgstr ""
 
+msgid "TOTAL DRAWS"
+msgstr ""
+
 msgid "Tavola"
 msgstr ""
 
@@ -326,6 +344,9 @@ msgid "Tip: Play responsibly!"
 msgstr ""
 
 msgid "Topi"
+msgstr ""
+
+msgid "Total draws"
 msgstr ""
 
 msgid "Ubriaco"
@@ -353,6 +374,24 @@ msgid "Vecchio"
 msgstr ""
 
 msgid "Vino"
+msgstr ""
+
+msgid "and"
+msgstr ""
+
+msgid "contest"
+msgstr ""
+
+msgid "draws"
+msgstr ""
+
+msgid "more draws"
+msgstr ""
+
+msgid "times"
+msgstr ""
+
+msgid "use up/down to scroll"
 msgstr ""
 
 msgid "🎯 10 e LOTTO"

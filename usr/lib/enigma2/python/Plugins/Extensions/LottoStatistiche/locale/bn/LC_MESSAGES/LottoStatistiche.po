@@ -15,376 +15,415 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "10 e Lotto"
-msgstr ""
+msgstr "10 এবং লট"
 
 msgid "Annuncio"
-msgstr ""
+msgstr "ঘোষণা"
 
 msgid "Bacio"
-msgstr ""
+msgstr "চুম্বন"
 
 msgid "Bambina"
-msgstr ""
+msgstr "মেয়ে"
 
 msgid "Bambino"
-msgstr ""
+msgstr "ব্যাম্বিনো"
 
 msgid "Bello"
-msgstr ""
+msgstr "বেলো"
 
 msgid "Bocca"
-msgstr ""
+msgstr "মুখ"
 
 msgid "Bocca di rosa"
-msgstr ""
+msgstr "গোলাপের মুখ"
 
 msgid "Brutto"
-msgstr ""
+msgstr "খারাপ"
 
 msgid "COLD NUMBERS (least drawn):\\\\\\\\n"
-msgstr ""
+msgstr "কোল্ড নম্বর (সর্বনিম্ন আঁকা):\\\\\\\\\\\\\\\\n"
 
 msgid "Cacciatore"
-msgstr ""
+msgstr "সকার খেলোয়াড়"
 
 msgid "Caduta"
-msgstr ""
+msgstr "পতন"
 
 msgid "Caff"
-msgstr ""
+msgstr "কফি"
 
 msgid "Camera"
-msgstr ""
+msgstr "ক্যামেরা"
 
 msgid "Cantante"
-msgstr ""
+msgstr "গায়ক"
 
 msgid "Capo"
-msgstr ""
+msgstr "কাপো"
 
 msgid "Carne"
-msgstr ""
+msgstr "কার্নে"
 
 msgid "Casa"
-msgstr ""
+msgstr "কাসা"
 
 msgid "Chi va per via"
-msgstr ""
+msgstr "যে পথে যায়"
 
 msgid "Chitarra"
-msgstr ""
+msgstr "গিটার"
 
 msgid "Colpi"
-msgstr ""
+msgstr "শট"
 
 msgid "Coltello"
-msgstr ""
+msgstr "ছুরি"
 
 msgid "Corda"
-msgstr ""
+msgstr "কর্ডা"
 
 msgid "Cristo"
-msgstr ""
+msgstr "ক্রিস্টো"
 
 msgid "Denaro"
-msgstr ""
+msgstr "টাকা"
 
 msgid "Deretano"
-msgstr ""
+msgstr "ব্যাকসাইড"
 
 msgid "Diavolo"
-msgstr ""
+msgstr "শয়তান"
 
 msgid "Dito"
-msgstr ""
+msgstr "এখানে"
 
 msgid "Donna"
-msgstr ""
+msgstr "ডোনা"
 
 msgid "Donna nuda"
-msgstr ""
+msgstr "নগ্ন নারী"
+
+msgid "Drawn numbers"
+msgstr "অঙ্কিত সংখ্যা"
 
 msgid "Draws Archive"
-msgstr ""
+msgstr "আর্কাইভ আঁকা"
 
 msgid "Due gambe"
-msgstr ""
+msgstr "দুই পা"
 
 msgid "Error loading Superenalotto data. Check log for details."
-msgstr ""
+msgstr "Superenalotto ডেটা লোড করার সময় ত্রুটি৷ বিস্তারিত জানার জন্য লগ চেক করুন."
 
 msgid "Exit"
-msgstr ""
+msgstr "প্রস্থান করুন"
 
 msgid "Fave"
-msgstr ""
+msgstr "ফেভ"
 
 msgid "Festa"
-msgstr ""
+msgstr "পার্টি"
 
 msgid "Fiasco"
-msgstr ""
+msgstr "ফিয়াস্কো"
 
 msgid "Figli"
-msgstr ""
+msgstr "শিশুরা"
 
 msgid "Fortuna"
-msgstr ""
+msgstr "ফরচুনা"
 
 msgid "Fratello"
-msgstr ""
+msgstr "ভাই"
 
 msgid "Fune"
-msgstr ""
+msgstr "দড়ি"
 
 msgid "GENERAL STATISTICS:\\\\\\\\n"
-msgstr ""
+msgstr "সাধারণ পরিসংখ্যান:\\\\\\\\\\\\\\\\n"
 
 msgid "Gatta"
-msgstr ""
+msgstr "বিড়াল"
 
 msgid "Gobbo"
-msgstr ""
+msgstr "কুঁজো"
 
 msgid "Grande"
-msgstr ""
+msgstr "গ্র্যান্ডে"
 
 msgid "Guardia"
-msgstr ""
+msgstr "গার্ডিয়া"
 
 msgid "HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr ""
+msgstr "হট নম্বর (সবচেয়ে টানা):\\\\\\\\\\\\\\\\n"
 
 msgid "Italia"
-msgstr ""
+msgstr "ইতালিয়া"
 
 msgid "LAST DRAW"
-msgstr ""
+msgstr "শেষ ড্র"
 
 msgid "Ladro"
-msgstr ""
+msgstr "চোর"
 
 msgid "Lamento"
-msgstr ""
+msgstr "আমি দুঃখিত"
+
+msgid "Least frequent number"
+msgstr "সর্বনিম্ন ঘন ঘন সংখ্যা"
 
 msgid "Lotto archive updated!"
-msgstr ""
+msgstr "লোটো সংরক্ষণাগার আপডেট করা হয়েছে!"
 
 msgid "Lotto update error"
-msgstr ""
+msgstr "লোটো আপডেট ত্রুটি"
 
 msgid "MAIN MENU - LOTTO STATISTICS"
-msgstr ""
+msgstr "প্রধান মেনু - লোটো পরিসংখ্যান"
 
 msgid "MAX DELAYS:\\\\\\\\n"
-msgstr ""
+msgstr "সর্বোচ্চ বিলম্ব:\\\\\\\\\\\\\\\\n"
 
 msgid "Madonna"
-msgstr ""
+msgstr "ম্যাডোনা"
 
 msgid "Madre"
-msgstr ""
+msgstr "মাদ্রে"
 
 msgid "Maiale"
-msgstr ""
+msgstr "শূকর"
 
 msgid "Mano"
-msgstr ""
+msgstr "হাজার"
 
 msgid "Monaco"
-msgstr ""
+msgstr "মোনাকো"
 
 msgid "Morto"
-msgstr ""
+msgstr "মারা গেছে"
 
 msgid "Morto che parla"
-msgstr ""
+msgstr "মৃত মানুষ কথা বলছে"
+
+msgid "Most frequent number"
+msgstr "সবচেয়ে ঘন ঘন সংখ্যা"
 
 msgid "Musica"
-msgstr ""
+msgstr "মিউজিকা"
 
 msgid "NEAPOLITAN SMORFIA"
-msgstr ""
+msgstr "নেপোলিটান গ্রেস"
 
 msgid "Naso"
-msgstr ""
+msgstr "নাসো"
 
 msgid "Natale"
-msgstr ""
+msgstr "নাটালে"
 
 msgid "Neapolitan Smorfia"
-msgstr ""
+msgstr "নেপোলিটান গ্রিমেস"
 
 msgid "No data available. Press 'Update Superenalotto' from main menu."
-msgstr ""
+msgstr "কোন তথ্য উপলব্ধ নেই. প্রধান মেনু থেকে 'Update Superenalotto' টিপুন।"
 
 msgid "No draws available. Press 'Update Archive' from main menu."
-msgstr ""
+msgstr "কোন ড্র উপলব্ধ. প্রধান মেনু থেকে 'আপডেট আর্কাইভ' টিপুন।"
 
 msgid "Number Frequencies"
-msgstr ""
+msgstr "সংখ্যা ফ্রিকোয়েন্সি"
+
+msgid "Number with max delay"
+msgstr "সর্বোচ্চ বিলম্ব সহ সংখ্যা"
+
+msgid "Numbers"
+msgstr "সংখ্যা"
 
 msgid "Occhio"
-msgstr ""
+msgstr "আই"
 
 msgid "Oste"
-msgstr ""
+msgstr "পনির"
 
 msgid "PREDICTIONS (6 numbers):\\\\\\\\n"
-msgstr ""
+msgstr "ভবিষ্যদ্বাণী (৬টি সংখ্যা):\\\\\\\\\\\\\\\\n"
 
 msgid "Padre dei figli"
-msgstr ""
+msgstr "সন্তানদের পিতা"
 
 msgid "Padrone"
-msgstr ""
+msgstr "ওস্তাদ"
 
 msgid "Palla"
-msgstr ""
+msgstr "বল"
 
 msgid "Pane"
-msgstr ""
+msgstr "ফলক"
 
 msgid "Pane e vino"
-msgstr ""
+msgstr "রুটি এবং ওয়াইন"
 
 msgid "Paura"
-msgstr ""
+msgstr "ভয়"
 
 msgid "Pazzo"
-msgstr ""
+msgstr "পাগল"
 
 msgid "Pianto"
-msgstr ""
+msgstr "কাঁদছে"
 
 msgid "Piccolo"
-msgstr ""
+msgstr "পিকোলো"
 
 msgid "Piede"
-msgstr ""
+msgstr "পা"
 
 msgid "Porta"
-msgstr ""
+msgstr "পোর্টা"
 
 msgid "Pranzo"
-msgstr ""
+msgstr "দুপুরের খাবার"
 
 msgid "Predictions"
-msgstr ""
+msgstr "ভবিষ্যদ্বাণী"
 
 msgid "Prete"
-msgstr ""
+msgstr "পুরোহিত"
 
 msgid "Ragazzo"
-msgstr ""
+msgstr "ছেলে"
 
 msgid "Risata"
-msgstr ""
+msgstr "হাসে"
 
 msgid "SUPERENALOTTO - Statistics"
-msgstr ""
+msgstr "SUPERENALOTTO - পরিসংখ্যান"
 
 msgid "Sangue"
-msgstr ""
+msgstr "রক্ত"
 
 msgid "Sant'Antonio"
-msgstr ""
+msgstr "সেন্ট অ্যান্টনি"
 
 msgid "Scarpa"
-msgstr ""
+msgstr "স্কার্পা"
 
 msgid "Scatola"
-msgstr ""
+msgstr "বক্স"
 
 msgid "Scemo"
-msgstr ""
+msgstr "বোকা"
 
 msgid "Sfortuna"
-msgstr ""
+msgstr "দুর্ভাগ্য"
 
 msgid "Soldato"
-msgstr ""
+msgstr "সৈনিক"
 
 msgid "Sorella"
-msgstr ""
+msgstr "বোন"
 
 msgid "Sposa"
-msgstr ""
+msgstr "স্ত্রী"
 
 msgid "Statistical Analysis"
-msgstr ""
+msgstr "পরিসংখ্যান বিশ্লেষণ"
 
 msgid "Superenalotto"
-msgstr ""
+msgstr "সুপারেনালোটো"
 
 msgid "Superenalotto update error"
-msgstr ""
+msgstr "Superenalotto আপডেট ত্রুটি"
 
 msgid "Superenalotto updated!"
-msgstr ""
+msgstr "Superenalotto আপডেট!"
+
+msgid "TOTAL DRAWS"
+msgstr "মোট ড্র"
 
 msgid "Tavola"
-msgstr ""
+msgstr "টেবিল"
 
 msgid "Tempio"
-msgstr ""
+msgstr "মন্দির"
 
 msgid "Testa"
-msgstr ""
+msgstr "টেস্টা"
 
 msgid "Tip: Play responsibly!"
-msgstr ""
+msgstr "টিপ: দায়িত্বের সাথে খেলুন!"
 
 msgid "Topi"
-msgstr ""
+msgstr "টপি"
+
+msgid "Total draws"
+msgstr "মোট ড্র"
 
 msgid "Ubriaco"
-msgstr ""
+msgstr "মাতাল"
 
 msgid "Uccello"
-msgstr ""
+msgstr "পাখি"
 
 msgid "Uomo"
-msgstr ""
+msgstr "মানুষ"
 
 msgid "Update Lotto Archive"
-msgstr ""
+msgstr "লোটো আর্কাইভ আপডেট করুন"
 
 msgid "Update Superenalotto"
-msgstr ""
+msgstr "Superenalotto আপডেট করুন"
 
 msgid "Vaso"
-msgstr ""
+msgstr "ভাসো"
 
 msgid "Vecchia"
-msgstr ""
+msgstr "পুরাতন"
 
 msgid "Vecchio"
-msgstr ""
+msgstr "ভেচিও"
 
 msgid "Vino"
-msgstr ""
+msgstr "ভিনো"
+
+msgid "and"
+msgstr "এবং"
+
+msgid "contest"
+msgstr "প্রতিযোগিতা"
+
+msgid "draws"
+msgstr "আঁকা"
+
+msgid "more draws"
+msgstr "আরো ড্র"
+
+msgid "times"
+msgstr "বার"
+
+msgid "use up/down to scroll"
+msgstr "স্ক্রোল করতে আপ/ডাউন ব্যবহার করুন"
 
 msgid " 10 e LOTTO"
-msgstr ""
+msgstr "10 এবং অনেক"
 
 msgid " FREQUENCIES AND DELAYS"
-msgstr ""
+msgstr "ফ্রিকোয়েন্সি এবং বিলম্ব"
 
 msgid " GENERAL STATISTICS:\\\\\\\\n"
-msgstr ""
+msgstr "সাধারণ পরিসংখ্যান:\\\\\\\\\\\\\\\\n"
 
 msgid " DRAWS ARCHIVE"
-msgstr ""
+msgstr "আর্কাইভ আঁকা"
 
 msgid " COMPLETE ANALYSIS"
-msgstr ""
+msgstr "সম্পূর্ণ বিশ্লেষণ"
 
 msgid " LAST 10eLOTTO DRAW:\\\\\\\\n"
-msgstr ""
+msgstr "শেষ 10eLOTTO ড্র:\\\\\\\\\\\\\\\\n"
 
 msgid " HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr ""
+msgstr "হট নম্বর (সবচেয়ে টানা):\\\\\\\\\\\\\\\\n"
 
 msgid " PREDICTIONS"
-msgstr ""
+msgstr "ভবিষ্যদ্বাণী"

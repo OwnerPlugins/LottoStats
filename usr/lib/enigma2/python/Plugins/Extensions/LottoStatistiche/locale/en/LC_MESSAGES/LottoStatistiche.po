@@ -42,8 +42,9 @@ msgstr "Bocca di rosa"
 msgid "Brutto"
 msgstr "Brutto"
 
+#, fuzzy
 msgid "COLD NUMBERS (least drawn):\\\\\\\\n"
-msgstr "COLD NUMBERS (least drawn):\\\\\\\\n"
+msgstr "COLD NUMBERS (least drawn):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Cacciatore"
 msgstr "Cacciatore"
@@ -51,6 +52,7 @@ msgstr "Cacciatore"
 msgid "Caduta"
 msgstr "Caduta"
 
+#, fuzzy
 msgid "Caff"
 msgstr "Caff"
 
@@ -105,6 +107,9 @@ msgstr "Donna"
 msgid "Donna nuda"
 msgstr "Donna nuda"
 
+msgid "Drawn numbers"
+msgstr ""
+
 msgid "Draws Archive"
 msgstr "Draws Archive"
 
@@ -138,8 +143,9 @@ msgstr "Fratello"
 msgid "Fune"
 msgstr "Fune"
 
+#, fuzzy
 msgid "GENERAL STATISTICS:\\\\\\\\n"
-msgstr "GENERAL STATISTICS:\\\\\\\\n"
+msgstr "GENERAL STATISTICS:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Gatta"
 msgstr "Gatta"
@@ -153,8 +159,9 @@ msgstr "Grande"
 msgid "Guardia"
 msgstr "Guardia"
 
+#, fuzzy
 msgid "HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr "HOT NUMBERS (most drawn):\\\\\\\\n"
+msgstr "HOT NUMBERS (most drawn):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Italia"
 msgstr "Italia"
@@ -168,6 +175,9 @@ msgstr "Ladro"
 msgid "Lamento"
 msgstr "Lamento"
 
+msgid "Least frequent number"
+msgstr ""
+
 msgid "Lotto archive updated!"
 msgstr "Lotto archive updated!"
 
@@ -177,8 +187,9 @@ msgstr "Lotto update error"
 msgid "MAIN MENU - LOTTO STATISTICS"
 msgstr "MAIN MENU - LOTTO STATISTICS"
 
+#, fuzzy
 msgid "MAX DELAYS:\\\\\\\\n"
-msgstr "MAX DELAYS:\\\\\\\\n"
+msgstr "MAX DELAYS:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Madonna"
 msgstr "Madonna"
@@ -200,6 +211,9 @@ msgstr "Morto"
 
 msgid "Morto che parla"
 msgstr "Morto che parla"
+
+msgid "Most frequent number"
+msgstr ""
 
 msgid "Musica"
 msgstr "Musica"
@@ -225,14 +239,21 @@ msgstr "No draws available. Press 'Update Archive' from main menu."
 msgid "Number Frequencies"
 msgstr "Number Frequencies"
 
+msgid "Number with max delay"
+msgstr ""
+
+msgid "Numbers"
+msgstr ""
+
 msgid "Occhio"
 msgstr "Occhio"
 
 msgid "Oste"
 msgstr "Oste"
 
+#, fuzzy
 msgid "PREDICTIONS (6 numbers):\\\\\\\\n"
-msgstr "PREDICTIONS (6 numbers):\\\\\\\\n"
+msgstr "PREDICTIONS (6 numbers):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Padre dei figli"
 msgstr "Padre dei figli"
@@ -324,6 +345,10 @@ msgstr "Superenalotto update error"
 msgid "Superenalotto updated!"
 msgstr "Superenalotto updated!"
 
+#, fuzzy
+msgid "TOTAL DRAWS"
+msgstr "LAST DRAW"
+
 msgid "Tavola"
 msgstr "Tavola"
 
@@ -338,6 +363,9 @@ msgstr "Tip: Play responsibly!"
 
 msgid "Topi"
 msgstr "Topi"
+
+msgid "Total draws"
+msgstr ""
 
 msgid "Ubriaco"
 msgstr "Ubriaco"
@@ -366,26 +394,53 @@ msgstr "Vecchio"
 msgid "Vino"
 msgstr "Vino"
 
+#, fuzzy
+msgid "and"
+msgstr "Grande"
+
+msgid "contest"
+msgstr ""
+
+msgid "draws"
+msgstr ""
+
+msgid "more draws"
+msgstr ""
+
+msgid "times"
+msgstr ""
+
+msgid "use up/down to scroll"
+msgstr ""
+
+#, fuzzy
 msgid " 10 e LOTTO"
 msgstr " 10 e LOTTO"
 
+#, fuzzy
 msgid " FREQUENCIES AND DELAYS"
 msgstr " FREQUENCIES AND DELAYS"
 
+#, fuzzy
 msgid " GENERAL STATISTICS:\\\\\\\\n"
-msgstr " GENERAL STATISTICS:\\\\\\\\n"
+msgstr " GENERAL STATISTICS:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
+#, fuzzy
 msgid " DRAWS ARCHIVE"
 msgstr " DRAWS ARCHIVE"
 
+#, fuzzy
 msgid " COMPLETE ANALYSIS"
 msgstr " COMPLETE ANALYSIS"
 
+#, fuzzy
 msgid " LAST 10eLOTTO DRAW:\\\\\\\\n"
-msgstr " LAST 10eLOTTO DRAW:\\\\\\\\n"
+msgstr " LAST 10eLOTTO DRAW:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
+#, fuzzy
 msgid " HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr " HOT NUMBERS (most drawn):\\\\\\\\n"
+msgstr " HOT NUMBERS (most drawn):\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
+#, fuzzy
 msgid " PREDICTIONS"
 msgstr " PREDICTIONS"

@@ -16,376 +16,415 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "10 e Lotto"
-msgstr ""
+msgstr "10とロット"
 
 msgid "Annuncio"
-msgstr ""
+msgstr "発表"
 
 msgid "Bacio"
-msgstr ""
+msgstr "キス"
 
 msgid "Bambina"
-msgstr ""
+msgstr "女の子"
 
 msgid "Bambino"
-msgstr ""
+msgstr "バンビーノ"
 
 msgid "Bello"
-msgstr ""
+msgstr "ベロ"
 
 msgid "Bocca"
-msgstr ""
+msgstr "口"
 
 msgid "Bocca di rosa"
-msgstr ""
+msgstr "バラの口"
 
 msgid "Brutto"
-msgstr ""
+msgstr "悪い"
 
 msgid "COLD NUMBERS (least drawn):\\\\\\\\n"
-msgstr ""
+msgstr "コールド ナンバー (最も少ない数字):\\\\\\\\\\\\\\\\n"
 
 msgid "Cacciatore"
-msgstr ""
+msgstr "サッカー選手"
 
 msgid "Caduta"
-msgstr ""
+msgstr "秋"
 
 msgid "Caff"
-msgstr ""
+msgstr "コーヒー"
 
 msgid "Camera"
-msgstr ""
+msgstr "カメラ"
 
 msgid "Cantante"
-msgstr ""
+msgstr "歌手"
 
 msgid "Capo"
-msgstr ""
+msgstr "カポ"
 
 msgid "Carne"
-msgstr ""
+msgstr "カルネ"
 
 msgid "Casa"
-msgstr ""
+msgstr "カーサ"
 
 msgid "Chi va per via"
-msgstr ""
+msgstr "誰が途中に行くのか"
 
 msgid "Chitarra"
-msgstr ""
+msgstr "ギター"
 
 msgid "Colpi"
-msgstr ""
+msgstr "ショット"
 
 msgid "Coltello"
-msgstr ""
+msgstr "ナイフ"
 
 msgid "Corda"
-msgstr ""
+msgstr "コルダ"
 
 msgid "Cristo"
-msgstr ""
+msgstr "クリスト"
 
 msgid "Denaro"
-msgstr ""
+msgstr "お金"
 
 msgid "Deretano"
-msgstr ""
+msgstr "裏側"
 
 msgid "Diavolo"
-msgstr ""
+msgstr "悪魔"
 
 msgid "Dito"
-msgstr ""
+msgstr "ここ"
 
 msgid "Donna"
-msgstr ""
+msgstr "ドナ"
 
 msgid "Donna nuda"
-msgstr ""
+msgstr "裸の女性"
+
+msgid "Drawn numbers"
+msgstr "抽選された数字"
 
 msgid "Draws Archive"
-msgstr ""
+msgstr "ドローアーカイブ"
 
 msgid "Due gambe"
-msgstr ""
+msgstr "二本足"
 
 msgid "Error loading Superenalotto data. Check log for details."
-msgstr ""
+msgstr "スーパーエナロット データのロード中にエラーが発生しました。詳細についてはログを確認してください。"
 
 msgid "Exit"
-msgstr ""
+msgstr "出口"
 
 msgid "Fave"
-msgstr ""
+msgstr "お気に入り"
 
 msgid "Festa"
-msgstr ""
+msgstr "パーティー"
 
 msgid "Fiasco"
-msgstr ""
+msgstr "大失敗"
 
 msgid "Figli"
-msgstr ""
+msgstr "子供たち"
 
 msgid "Fortuna"
-msgstr ""
+msgstr "フォルトゥナ"
 
 msgid "Fratello"
-msgstr ""
+msgstr "兄弟"
 
 msgid "Fune"
-msgstr ""
+msgstr "ロープ"
 
 msgid "GENERAL STATISTICS:\\\\\\\\n"
-msgstr ""
+msgstr "一般的な統計:\\\\\\\\\\\\\\\\n"
 
 msgid "Gatta"
-msgstr ""
+msgstr "猫"
 
 msgid "Gobbo"
-msgstr ""
+msgstr "せむし"
 
 msgid "Grande"
-msgstr ""
+msgstr "グランデ"
 
 msgid "Guardia"
-msgstr ""
+msgstr "ガーディア"
 
 msgid "HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr ""
+msgstr "ホットナンバー (最も多く描かれた):\\\\\\\\\\\\\\\\n"
 
 msgid "Italia"
-msgstr ""
+msgstr "イタリア"
 
 msgid "LAST DRAW"
-msgstr ""
+msgstr "最後の抽選"
 
 msgid "Ladro"
-msgstr ""
+msgstr "泥棒"
 
 msgid "Lamento"
-msgstr ""
+msgstr "ごめんなさい"
+
+msgid "Least frequent number"
+msgstr "最小頻度の番号"
 
 msgid "Lotto archive updated!"
-msgstr ""
+msgstr "ロトのアーカイブが更新されました！"
 
 msgid "Lotto update error"
-msgstr ""
+msgstr "ロト更新エラー"
 
 msgid "MAIN MENU - LOTTO STATISTICS"
-msgstr ""
+msgstr "メインメニュー - ロト統計"
 
 msgid "MAX DELAYS:\\\\\\\\n"
-msgstr ""
+msgstr "最大遅延:\\\\\\\\\\\\\\\\n"
 
 msgid "Madonna"
-msgstr ""
+msgstr "マドンナ"
 
 msgid "Madre"
-msgstr ""
+msgstr "マドレ"
 
 msgid "Maiale"
-msgstr ""
+msgstr "豚"
 
 msgid "Mano"
-msgstr ""
+msgstr "千"
 
 msgid "Monaco"
-msgstr ""
+msgstr "モナコ"
 
 msgid "Morto"
-msgstr ""
+msgstr "死亡"
 
 msgid "Morto che parla"
-msgstr ""
+msgstr "死んだ男が話している"
+
+msgid "Most frequent number"
+msgstr "最も頻繁に使用される番号"
 
 msgid "Musica"
-msgstr ""
+msgstr "ムジカ"
 
 msgid "NEAPOLITAN SMORFIA"
-msgstr ""
+msgstr "ナポリタングレース"
 
 msgid "Naso"
-msgstr ""
+msgstr "ナソ"
 
 msgid "Natale"
-msgstr ""
+msgstr "ナターレ"
 
 msgid "Neapolitan Smorfia"
-msgstr ""
+msgstr "ナポリ風しかめっ面"
 
 msgid "No data available. Press 'Update Superenalotto' from main menu."
-msgstr ""
+msgstr "利用可能なデータはありません。メインメニューから「スーパーエナロットを更新」を押します。"
 
 msgid "No draws available. Press 'Update Archive' from main menu."
-msgstr ""
+msgstr "抽選はありません。メインメニューから「アーカイブを更新」を押します。"
 
 msgid "Number Frequencies"
-msgstr ""
+msgstr "数値の頻度"
+
+msgid "Number with max delay"
+msgstr "最大遅延の数"
+
+msgid "Numbers"
+msgstr "数字"
 
 msgid "Occhio"
-msgstr ""
+msgstr "目"
 
 msgid "Oste"
-msgstr ""
+msgstr "チーズ"
 
 msgid "PREDICTIONS (6 numbers):\\\\\\\\n"
-msgstr ""
+msgstr "予測 (6 つの数字):\\\\\\\\\\\\\\\\n"
 
 msgid "Padre dei figli"
-msgstr ""
+msgstr "子供の父親"
 
 msgid "Padrone"
-msgstr ""
+msgstr "マスター"
 
 msgid "Palla"
-msgstr ""
+msgstr "ボール"
 
 msgid "Pane"
-msgstr ""
+msgstr "ペイン"
 
 msgid "Pane e vino"
-msgstr ""
+msgstr "パンとワイン"
 
 msgid "Paura"
-msgstr ""
+msgstr "恐れ"
 
 msgid "Pazzo"
-msgstr ""
+msgstr "クレイジー"
 
 msgid "Pianto"
-msgstr ""
+msgstr "泣いている"
 
 msgid "Piccolo"
-msgstr ""
+msgstr "ピッコロ"
 
 msgid "Piede"
-msgstr ""
+msgstr "足"
 
 msgid "Porta"
-msgstr ""
+msgstr "ポルタ"
 
 msgid "Pranzo"
-msgstr ""
+msgstr "ランチ"
 
 msgid "Predictions"
-msgstr ""
+msgstr "予測"
 
 msgid "Prete"
-msgstr ""
+msgstr "祭司"
 
 msgid "Ragazzo"
-msgstr ""
+msgstr "若者"
 
 msgid "Risata"
-msgstr ""
+msgstr "笑う"
 
 msgid "SUPERENALOTTO - Statistics"
-msgstr ""
+msgstr "スーパーエナロット - 統計"
 
 msgid "Sangue"
-msgstr ""
+msgstr "血"
 
 msgid "Sant'Antonio"
-msgstr ""
+msgstr "聖アントニオ"
 
 msgid "Scarpa"
-msgstr ""
+msgstr "スカルパ"
 
 msgid "Scatola"
-msgstr ""
+msgstr "箱"
 
 msgid "Scemo"
-msgstr ""
+msgstr "バカ"
 
 msgid "Sfortuna"
-msgstr ""
+msgstr "不運"
 
 msgid "Soldato"
-msgstr ""
+msgstr "兵士"
 
 msgid "Sorella"
-msgstr ""
+msgstr "妹"
 
 msgid "Sposa"
-msgstr ""
+msgstr "妻"
 
 msgid "Statistical Analysis"
-msgstr ""
+msgstr "統計分析"
 
 msgid "Superenalotto"
-msgstr ""
+msgstr "スーパーエナロット"
 
 msgid "Superenalotto update error"
-msgstr ""
+msgstr "スーパーエナロット更新エラー"
 
 msgid "Superenalotto updated!"
-msgstr ""
+msgstr "スーパーエナロットが更新されました！"
+
+msgid "TOTAL DRAWS"
+msgstr "総抽選数"
 
 msgid "Tavola"
-msgstr ""
+msgstr "テーブル"
 
 msgid "Tempio"
-msgstr ""
+msgstr "寺"
 
 msgid "Testa"
-msgstr ""
+msgstr "テスタ"
 
 msgid "Tip: Play responsibly!"
-msgstr ""
+msgstr "ヒント: 責任を持ってプレイしてください。"
 
 msgid "Topi"
-msgstr ""
+msgstr "トピ"
+
+msgid "Total draws"
+msgstr "合計ドロー"
 
 msgid "Ubriaco"
-msgstr ""
+msgstr "酔っ払い"
 
 msgid "Uccello"
-msgstr ""
+msgstr "鳥"
 
 msgid "Uomo"
-msgstr ""
+msgstr "男"
 
 msgid "Update Lotto Archive"
-msgstr ""
+msgstr "ロトアーカイブを更新"
 
 msgid "Update Superenalotto"
-msgstr ""
+msgstr "スーパーエナロットを更新する"
 
 msgid "Vaso"
-msgstr ""
+msgstr "バソ"
 
 msgid "Vecchia"
-msgstr ""
+msgstr "古い"
 
 msgid "Vecchio"
-msgstr ""
+msgstr "ヴェッキオ"
 
 msgid "Vino"
-msgstr ""
+msgstr "ヴィーノ"
+
+msgid "and"
+msgstr "そして"
+
+msgid "contest"
+msgstr "コンテスト"
+
+msgid "draws"
+msgstr "描く"
+
+msgid "more draws"
+msgstr "さらにドロー"
+
+msgid "times"
+msgstr "回"
+
+msgid "use up/down to scroll"
+msgstr "上下を使用してスクロールします"
 
 msgid " 10 e LOTTO"
-msgstr ""
+msgstr "10とロット"
 
 msgid " FREQUENCIES AND DELAYS"
-msgstr ""
+msgstr "周波数と遅延"
 
 msgid " GENERAL STATISTICS:\\\\\\\\n"
-msgstr ""
+msgstr "一般的な統計:\\\\\\\\\\\\\\\\n"
 
 msgid " DRAWS ARCHIVE"
-msgstr ""
+msgstr "ドローアーカイブ"
 
 msgid " COMPLETE ANALYSIS"
-msgstr ""
+msgstr "完全な分析"
 
 msgid " LAST 10eLOTTO DRAW:\\\\\\\\n"
-msgstr ""
+msgstr "最後の 10 回のロトの抽選:\\\\\\\\\\\\\\\\n"
 
 msgid " HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr ""
+msgstr "ホットナンバー (最も多く描かれた):\\\\\\\\\\\\\\\\n"
 
 msgid " PREDICTIONS"
-msgstr ""
+msgstr "予測"

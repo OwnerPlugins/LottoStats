@@ -15,376 +15,415 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "10 e Lotto"
-msgstr ""
+msgstr "10 و لات"
 
 msgid "Annuncio"
-msgstr ""
+msgstr "اعلامیه"
 
 msgid "Bacio"
-msgstr ""
+msgstr "ببوس"
 
 msgid "Bambina"
-msgstr ""
+msgstr "دختر"
 
 msgid "Bambino"
-msgstr ""
+msgstr "بامبینو"
 
 msgid "Bello"
-msgstr ""
+msgstr "بلو"
 
 msgid "Bocca"
-msgstr ""
+msgstr "دهان"
 
 msgid "Bocca di rosa"
-msgstr ""
+msgstr "دهان گل سرخ"
 
 msgid "Brutto"
-msgstr ""
+msgstr "بد"
 
 msgid "COLD NUMBERS (least drawn):\\\\\\\\n"
-msgstr ""
+msgstr "اعداد سرد (کمترین ترسیم شده):\\\\\\\\\\\\\\\\n"
 
 msgid "Cacciatore"
-msgstr ""
+msgstr "بازیکن فوتبال"
 
 msgid "Caduta"
-msgstr ""
+msgstr "پاییز"
 
 msgid "Caff"
-msgstr ""
+msgstr "قهوه"
 
 msgid "Camera"
-msgstr ""
+msgstr "دوربین"
 
 msgid "Cantante"
-msgstr ""
+msgstr "خواننده"
 
 msgid "Capo"
-msgstr ""
+msgstr "کاپو"
 
 msgid "Carne"
-msgstr ""
+msgstr "کارنه"
 
 msgid "Casa"
-msgstr ""
+msgstr "کاسا"
 
 msgid "Chi va per via"
-msgstr ""
+msgstr "چه کسی در راه است"
 
 msgid "Chitarra"
-msgstr ""
+msgstr "گیتار"
 
 msgid "Colpi"
-msgstr ""
+msgstr "شوت ها"
 
 msgid "Coltello"
-msgstr ""
+msgstr "چاقو"
 
 msgid "Corda"
-msgstr ""
+msgstr "کوردا"
 
 msgid "Cristo"
-msgstr ""
+msgstr "کریستو"
 
 msgid "Denaro"
-msgstr ""
+msgstr "پول"
 
 msgid "Deretano"
-msgstr ""
+msgstr "پشت"
 
 msgid "Diavolo"
-msgstr ""
+msgstr "شیطان"
 
 msgid "Dito"
-msgstr ""
+msgstr "اینجا"
 
 msgid "Donna"
-msgstr ""
+msgstr "دونا"
 
 msgid "Donna nuda"
-msgstr ""
+msgstr "زن برهنه"
+
+msgid "Drawn numbers"
+msgstr "اعداد ترسیم شده"
 
 msgid "Draws Archive"
-msgstr ""
+msgstr "آرشیو رسم"
 
 msgid "Due gambe"
-msgstr ""
+msgstr "دو پا"
 
 msgid "Error loading Superenalotto data. Check log for details."
-msgstr ""
+msgstr "خطا در بارگیری داده های Superenalotto. برای جزئیات، لاگ را بررسی کنید."
 
 msgid "Exit"
-msgstr ""
+msgstr "خارج شوید"
 
 msgid "Fave"
-msgstr ""
+msgstr "مورد علاقه"
 
 msgid "Festa"
-msgstr ""
+msgstr "مهمانی"
 
 msgid "Fiasco"
-msgstr ""
+msgstr "فیاسکو"
 
 msgid "Figli"
-msgstr ""
+msgstr "بچه ها"
 
 msgid "Fortuna"
-msgstr ""
+msgstr "فورتونا"
 
 msgid "Fratello"
-msgstr ""
+msgstr "برادر"
 
 msgid "Fune"
-msgstr ""
+msgstr "طناب"
 
 msgid "GENERAL STATISTICS:\\\\\\\\n"
-msgstr ""
+msgstr "آمار عمومی:\\\\\\\\\\\\\\\\n"
 
 msgid "Gatta"
-msgstr ""
+msgstr "گربه"
 
 msgid "Gobbo"
-msgstr ""
+msgstr "گوژپشت"
 
 msgid "Grande"
-msgstr ""
+msgstr "گرانده"
 
 msgid "Guardia"
-msgstr ""
+msgstr "گاردیا"
 
 msgid "HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr ""
+msgstr "اعداد داغ (بیشترین ترسیم شده):\\\\\\\\\\\\\\\\n"
 
 msgid "Italia"
-msgstr ""
+msgstr "ایتالیا"
 
 msgid "LAST DRAW"
-msgstr ""
+msgstr "آخرین قرعه کشی"
 
 msgid "Ladro"
-msgstr ""
+msgstr "دزد"
 
 msgid "Lamento"
-msgstr ""
+msgstr "متاسفم"
+
+msgid "Least frequent number"
+msgstr "کمترین تعداد دفعات"
 
 msgid "Lotto archive updated!"
-msgstr ""
+msgstr "آرشیو لوتو به روز شد!"
 
 msgid "Lotto update error"
-msgstr ""
+msgstr "خطای آپدیت لوتو"
 
 msgid "MAIN MENU - LOTTO STATISTICS"
-msgstr ""
+msgstr "منوی اصلی - آمار لوتو"
 
 msgid "MAX DELAYS:\\\\\\\\n"
-msgstr ""
+msgstr "حداکثر تاخیر:\\\\\\\\\\\\\\\\n"
 
 msgid "Madonna"
-msgstr ""
+msgstr "مدونا"
 
 msgid "Madre"
-msgstr ""
+msgstr "مادره"
 
 msgid "Maiale"
-msgstr ""
+msgstr "خوک"
 
 msgid "Mano"
-msgstr ""
+msgstr "هزار"
 
 msgid "Monaco"
-msgstr ""
+msgstr "موناکو"
 
 msgid "Morto"
-msgstr ""
+msgstr "درگذشت"
 
 msgid "Morto che parla"
-msgstr ""
+msgstr "مرد مرده در حال صحبت کردن"
+
+msgid "Most frequent number"
+msgstr "پرتکرارترین شماره"
 
 msgid "Musica"
-msgstr ""
+msgstr "موسیقی"
 
 msgid "NEAPOLITAN SMORFIA"
-msgstr ""
+msgstr "گریس نئاپولیتی"
 
 msgid "Naso"
-msgstr ""
+msgstr "ناسو"
 
 msgid "Natale"
-msgstr ""
+msgstr "ناتال"
 
 msgid "Neapolitan Smorfia"
-msgstr ""
+msgstr "گریمس ناپل"
 
 msgid "No data available. Press 'Update Superenalotto' from main menu."
-msgstr ""
+msgstr "هیچ داده ای در دسترس نیست. 'Update Superenalotto' را از منوی اصلی فشار دهید."
 
 msgid "No draws available. Press 'Update Archive' from main menu."
-msgstr ""
+msgstr "قرعه کشی در دسترس نیست. \\\"به روز رسانی آرشیو\\\" را از منوی اصلی فشار دهید."
 
 msgid "Number Frequencies"
-msgstr ""
+msgstr "فرکانس های اعداد"
+
+msgid "Number with max delay"
+msgstr "عدد با حداکثر تاخیر"
+
+msgid "Numbers"
+msgstr "اعداد"
 
 msgid "Occhio"
-msgstr ""
+msgstr "چشم"
 
 msgid "Oste"
-msgstr ""
+msgstr "پنیر"
 
 msgid "PREDICTIONS (6 numbers):\\\\\\\\n"
-msgstr ""
+msgstr "پیش بینی ها (6 شماره):\\\\\\\\\\\\\\\\n"
 
 msgid "Padre dei figli"
-msgstr ""
+msgstr "پدر بچه ها"
 
 msgid "Padrone"
-msgstr ""
+msgstr "استاد"
 
 msgid "Palla"
-msgstr ""
+msgstr "توپ"
 
 msgid "Pane"
-msgstr ""
+msgstr "صفحه"
 
 msgid "Pane e vino"
-msgstr ""
+msgstr "نان و شراب"
 
 msgid "Paura"
-msgstr ""
+msgstr "ترس"
 
 msgid "Pazzo"
-msgstr ""
+msgstr "دیوانه"
 
 msgid "Pianto"
-msgstr ""
+msgstr "گریه کردن"
 
 msgid "Piccolo"
-msgstr ""
+msgstr "پیکولو"
 
 msgid "Piede"
-msgstr ""
+msgstr "پا"
 
 msgid "Porta"
-msgstr ""
+msgstr "پورتا"
 
 msgid "Pranzo"
-msgstr ""
+msgstr "ناهار"
 
 msgid "Predictions"
-msgstr ""
+msgstr "پیش بینی ها"
 
 msgid "Prete"
-msgstr ""
+msgstr "کشیش"
 
 msgid "Ragazzo"
-msgstr ""
+msgstr "پسر"
 
 msgid "Risata"
-msgstr ""
+msgstr "بخند"
 
 msgid "SUPERENALOTTO - Statistics"
-msgstr ""
+msgstr "SUPERENALOTTO - آمار"
 
 msgid "Sangue"
-msgstr ""
+msgstr "خون"
 
 msgid "Sant'Antonio"
-msgstr ""
+msgstr "سنت آنتونی"
 
 msgid "Scarpa"
-msgstr ""
+msgstr "اسکارپا"
 
 msgid "Scatola"
-msgstr ""
+msgstr "جعبه"
 
 msgid "Scemo"
-msgstr ""
+msgstr "احمق"
 
 msgid "Sfortuna"
-msgstr ""
+msgstr "بدشانسی"
 
 msgid "Soldato"
-msgstr ""
+msgstr "سرباز"
 
 msgid "Sorella"
-msgstr ""
+msgstr "خواهر"
 
 msgid "Sposa"
-msgstr ""
+msgstr "همسر"
 
 msgid "Statistical Analysis"
-msgstr ""
+msgstr "تجزیه و تحلیل آماری"
 
 msgid "Superenalotto"
-msgstr ""
+msgstr "سوپرنالوتو"
 
 msgid "Superenalotto update error"
-msgstr ""
+msgstr "خطای به روز رسانی Superenalotto"
 
 msgid "Superenalotto updated!"
-msgstr ""
+msgstr "Superenalotto به روز شد!"
+
+msgid "TOTAL DRAWS"
+msgstr "مجموع تساوی"
 
 msgid "Tavola"
-msgstr ""
+msgstr "جدول"
 
 msgid "Tempio"
-msgstr ""
+msgstr "معبد"
 
 msgid "Testa"
-msgstr ""
+msgstr "تستا"
 
 msgid "Tip: Play responsibly!"
-msgstr ""
+msgstr "نکته: مسئولانه بازی کنید!"
 
 msgid "Topi"
-msgstr ""
+msgstr "تاپی"
+
+msgid "Total draws"
+msgstr "مجموع تساوی ها"
 
 msgid "Ubriaco"
-msgstr ""
+msgstr "مست"
 
 msgid "Uccello"
-msgstr ""
+msgstr "پرنده"
 
 msgid "Uomo"
-msgstr ""
+msgstr "مرد"
 
 msgid "Update Lotto Archive"
-msgstr ""
+msgstr "آرشیو لوتو را به روز کنید"
 
 msgid "Update Superenalotto"
-msgstr ""
+msgstr "Superenalotto را به روز کنید"
 
 msgid "Vaso"
-msgstr ""
+msgstr "واسو"
 
 msgid "Vecchia"
-msgstr ""
+msgstr "قدیمی"
 
 msgid "Vecchio"
-msgstr ""
+msgstr "وکیو"
 
 msgid "Vino"
-msgstr ""
+msgstr "وینو"
+
+msgid "and"
+msgstr "و"
+
+msgid "contest"
+msgstr "مسابقه"
+
+msgid "draws"
+msgstr "قرعه کشی می کند"
+
+msgid "more draws"
+msgstr "قرعه کشی های بیشتر"
+
+msgid "times"
+msgstr "بارها"
+
+msgid "use up/down to scroll"
+msgstr "برای پیمایش از بالا/پایین استفاده کنید"
 
 msgid " 10 e LOTTO"
-msgstr ""
+msgstr "10 و LOT"
 
 msgid " FREQUENCIES AND DELAYS"
-msgstr ""
+msgstr "فرکانس ها و تأخیرها"
 
 msgid " GENERAL STATISTICS:\\\\\\\\n"
-msgstr ""
+msgstr "آمار عمومی:\\\\\\\\\\\\\\\\n"
 
 msgid " DRAWS ARCHIVE"
-msgstr ""
+msgstr "آرشیو قرعه کشی"
 
 msgid " COMPLETE ANALYSIS"
-msgstr ""
+msgstr "تجزیه و تحلیل کامل"
 
 msgid " LAST 10eLOTTO DRAW:\\\\\\\\n"
-msgstr ""
+msgstr "آخرین قرعه کشی 10eLOTTO:\\\\\\\\\\\\\\\\n"
 
 msgid " HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr ""
+msgstr "اعداد داغ (بیشترین ترسیم شده):\\\\\\\\\\\\\\\\n"
 
 msgid " PREDICTIONS"
-msgstr ""
+msgstr "پیش بینی ها"

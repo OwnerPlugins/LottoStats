@@ -16,376 +16,415 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "10 e Lotto"
-msgstr ""
+msgstr "10 및 로트"
 
 msgid "Annuncio"
-msgstr ""
+msgstr "발표"
 
 msgid "Bacio"
-msgstr ""
+msgstr "키스"
 
 msgid "Bambina"
-msgstr ""
+msgstr "소녀"
 
 msgid "Bambino"
-msgstr ""
+msgstr "밤비노"
 
 msgid "Bello"
-msgstr ""
+msgstr "벨로"
 
 msgid "Bocca"
-msgstr ""
+msgstr "입"
 
 msgid "Bocca di rosa"
-msgstr ""
+msgstr "장미 입"
 
 msgid "Brutto"
-msgstr ""
+msgstr "나쁜"
 
 msgid "COLD NUMBERS (least drawn):\\\\\\\\n"
-msgstr ""
+msgstr "COLD NUMBERS(최소 추첨):\\\\\\\\\\\\\\\\n"
 
 msgid "Cacciatore"
-msgstr ""
+msgstr "축구선수"
 
 msgid "Caduta"
-msgstr ""
+msgstr "떨어지다"
 
 msgid "Caff"
-msgstr ""
+msgstr "커피"
 
 msgid "Camera"
-msgstr ""
+msgstr "카메라"
 
 msgid "Cantante"
-msgstr ""
+msgstr "가수"
 
 msgid "Capo"
-msgstr ""
+msgstr "카포"
 
 msgid "Carne"
-msgstr ""
+msgstr "카르네"
 
 msgid "Casa"
-msgstr ""
+msgstr "카사"
 
 msgid "Chi va per via"
-msgstr ""
+msgstr "누가 길을 가나"
 
 msgid "Chitarra"
-msgstr ""
+msgstr "기타"
 
 msgid "Colpi"
-msgstr ""
+msgstr "샷"
 
 msgid "Coltello"
-msgstr ""
+msgstr "칼"
 
 msgid "Corda"
-msgstr ""
+msgstr "코르다"
 
 msgid "Cristo"
-msgstr ""
+msgstr "크리스토"
 
 msgid "Denaro"
-msgstr ""
+msgstr "돈"
 
 msgid "Deretano"
-msgstr ""
+msgstr "뒷면"
 
 msgid "Diavolo"
-msgstr ""
+msgstr "악마"
 
 msgid "Dito"
-msgstr ""
+msgstr "여기"
 
 msgid "Donna"
-msgstr ""
+msgstr "도나"
 
 msgid "Donna nuda"
-msgstr ""
+msgstr "벌거벗은 여자"
+
+msgid "Drawn numbers"
+msgstr "그려진 숫자"
 
 msgid "Draws Archive"
-msgstr ""
+msgstr "아카이브를 그립니다"
 
 msgid "Due gambe"
-msgstr ""
+msgstr "다리 2개"
 
 msgid "Error loading Superenalotto data. Check log for details."
-msgstr ""
+msgstr "Superenalotto 데이터를 로드하는 중 오류가 발생했습니다. 자세한 내용은 로그를 확인하세요."
 
 msgid "Exit"
-msgstr ""
+msgstr "출구"
 
 msgid "Fave"
-msgstr ""
+msgstr "좋아하는 것"
 
 msgid "Festa"
-msgstr ""
+msgstr "파티"
 
 msgid "Fiasco"
-msgstr ""
+msgstr "큰 실수"
 
 msgid "Figli"
-msgstr ""
+msgstr "어린이들"
 
 msgid "Fortuna"
-msgstr ""
+msgstr "포르투나"
 
 msgid "Fratello"
-msgstr ""
+msgstr "형제"
 
 msgid "Fune"
-msgstr ""
+msgstr "로프"
 
 msgid "GENERAL STATISTICS:\\\\\\\\n"
-msgstr ""
+msgstr "일반 통계:\\\\\\\\\\\\\\\\n"
 
 msgid "Gatta"
-msgstr ""
+msgstr "고양이"
 
 msgid "Gobbo"
-msgstr ""
+msgstr "꼽추"
 
 msgid "Grande"
-msgstr ""
+msgstr "그란데"
 
 msgid "Guardia"
-msgstr ""
+msgstr "가디아"
 
 msgid "HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr ""
+msgstr "인기 숫자(가장 많이 추첨됨):\\\\\\\\\\\\\\\\n"
 
 msgid "Italia"
-msgstr ""
+msgstr "이탈리아"
 
 msgid "LAST DRAW"
-msgstr ""
+msgstr "마지막 추첨"
 
 msgid "Ladro"
-msgstr ""
+msgstr "도둑"
 
 msgid "Lamento"
-msgstr ""
+msgstr "죄송합니다"
+
+msgid "Least frequent number"
+msgstr "가장 빈도가 낮은 번호"
 
 msgid "Lotto archive updated!"
-msgstr ""
+msgstr "로또 아카이브가 업데이트되었습니다!"
 
 msgid "Lotto update error"
-msgstr ""
+msgstr "로또 업데이트 오류"
 
 msgid "MAIN MENU - LOTTO STATISTICS"
-msgstr ""
+msgstr "메인 메뉴 - 로또 통계"
 
 msgid "MAX DELAYS:\\\\\\\\n"
-msgstr ""
+msgstr "최대 지연 시간:\\\\\\\\\\\\\\\\n"
 
 msgid "Madonna"
-msgstr ""
+msgstr "성모 마리아"
 
 msgid "Madre"
-msgstr ""
+msgstr "마드레"
 
 msgid "Maiale"
-msgstr ""
+msgstr "돼지"
 
 msgid "Mano"
-msgstr ""
+msgstr "천"
 
 msgid "Monaco"
-msgstr ""
+msgstr "모나코"
 
 msgid "Morto"
-msgstr ""
+msgstr "사망"
 
 msgid "Morto che parla"
-msgstr ""
+msgstr "죽은 사람이 말하는 중"
+
+msgid "Most frequent number"
+msgstr "가장 자주 사용되는 번호"
 
 msgid "Musica"
-msgstr ""
+msgstr "뮤지카"
 
 msgid "NEAPOLITAN SMORFIA"
-msgstr ""
+msgstr "나폴리탄 그레이스"
 
 msgid "Naso"
-msgstr ""
+msgstr "나소"
 
 msgid "Natale"
-msgstr ""
+msgstr "나탈레"
 
 msgid "Neapolitan Smorfia"
-msgstr ""
+msgstr "나폴리의 얼굴을 찡그린 얼굴"
 
 msgid "No data available. Press 'Update Superenalotto' from main menu."
-msgstr ""
+msgstr "데이터가 없습니다. 메인 메뉴에서 '슈퍼에나로토 업데이트'를 누르세요."
 
 msgid "No draws available. Press 'Update Archive' from main menu."
-msgstr ""
+msgstr "추첨이 없습니다. 메인 메뉴에서 '아카이브 업데이트'를 누르세요."
 
 msgid "Number Frequencies"
-msgstr ""
+msgstr "숫자 주파수"
+
+msgid "Number with max delay"
+msgstr "최대 지연이 있는 수"
+
+msgid "Numbers"
+msgstr "숫자"
 
 msgid "Occhio"
-msgstr ""
+msgstr "눈"
 
 msgid "Oste"
-msgstr ""
+msgstr "치즈"
 
 msgid "PREDICTIONS (6 numbers):\\\\\\\\n"
-msgstr ""
+msgstr "예측(6개 숫자):\\\\\\\\\\\\\\\\n"
 
 msgid "Padre dei figli"
-msgstr ""
+msgstr "아이들의 아버지"
 
 msgid "Padrone"
-msgstr ""
+msgstr "주인"
 
 msgid "Palla"
-msgstr ""
+msgstr "공"
 
 msgid "Pane"
-msgstr ""
+msgstr "창유리"
 
 msgid "Pane e vino"
-msgstr ""
+msgstr "빵과 포도주"
 
 msgid "Paura"
-msgstr ""
+msgstr "두려움"
 
 msgid "Pazzo"
-msgstr ""
+msgstr "미친"
 
 msgid "Pianto"
-msgstr ""
+msgstr "울음소리"
 
 msgid "Piccolo"
-msgstr ""
+msgstr "피콜로"
 
 msgid "Piede"
-msgstr ""
+msgstr "발"
 
 msgid "Porta"
-msgstr ""
+msgstr "포르타"
 
 msgid "Pranzo"
-msgstr ""
+msgstr "점심"
 
 msgid "Predictions"
-msgstr ""
+msgstr "예측"
 
 msgid "Prete"
-msgstr ""
+msgstr "성직자"
 
 msgid "Ragazzo"
-msgstr ""
+msgstr "젊은이"
 
 msgid "Risata"
-msgstr ""
+msgstr "웃다"
 
 msgid "SUPERENALOTTO - Statistics"
-msgstr ""
+msgstr "SUPERENALOTTO - 통계"
 
 msgid "Sangue"
-msgstr ""
+msgstr "피"
 
 msgid "Sant'Antonio"
-msgstr ""
+msgstr "세인트 안토니오"
 
 msgid "Scarpa"
-msgstr ""
+msgstr "스카르파"
 
 msgid "Scatola"
-msgstr ""
+msgstr "상자"
 
 msgid "Scemo"
-msgstr ""
+msgstr "멍청한"
 
 msgid "Sfortuna"
-msgstr ""
+msgstr "불행"
 
 msgid "Soldato"
-msgstr ""
+msgstr "군인"
 
 msgid "Sorella"
-msgstr ""
+msgstr "자매"
 
 msgid "Sposa"
-msgstr ""
+msgstr "부인"
 
 msgid "Statistical Analysis"
-msgstr ""
+msgstr "통계분석"
 
 msgid "Superenalotto"
-msgstr ""
+msgstr "슈퍼에나로또"
 
 msgid "Superenalotto update error"
-msgstr ""
+msgstr "슈퍼에나로또 업데이트 오류"
 
 msgid "Superenalotto updated!"
-msgstr ""
+msgstr "슈퍼에나로또 업데이트!"
+
+msgid "TOTAL DRAWS"
+msgstr "총 무승부"
 
 msgid "Tavola"
-msgstr ""
+msgstr "테이블"
 
 msgid "Tempio"
-msgstr ""
+msgstr "절"
 
 msgid "Testa"
-msgstr ""
+msgstr "종피"
 
 msgid "Tip: Play responsibly!"
-msgstr ""
+msgstr "팁: 책임감 있게 플레이하세요!"
 
 msgid "Topi"
-msgstr ""
+msgstr "토피"
+
+msgid "Total draws"
+msgstr "총 무승부"
 
 msgid "Ubriaco"
-msgstr ""
+msgstr "술 취한"
 
 msgid "Uccello"
-msgstr ""
+msgstr "새"
 
 msgid "Uomo"
-msgstr ""
+msgstr "남성"
 
 msgid "Update Lotto Archive"
-msgstr ""
+msgstr "로또 아카이브 업데이트"
 
 msgid "Update Superenalotto"
-msgstr ""
+msgstr "슈퍼에나로또 업데이트"
 
 msgid "Vaso"
-msgstr ""
+msgstr "바소"
 
 msgid "Vecchia"
-msgstr ""
+msgstr "오래된"
 
 msgid "Vecchio"
-msgstr ""
+msgstr "베키오"
 
 msgid "Vino"
-msgstr ""
+msgstr "싸구려 이탈리아 적 포도주"
+
+msgid "and"
+msgstr "그리고"
+
+msgid "contest"
+msgstr "경쟁"
+
+msgid "draws"
+msgstr "무승부"
+
+msgid "more draws"
+msgstr "더 많은 무승부"
+
+msgid "times"
+msgstr "타임스"
+
+msgid "use up/down to scroll"
+msgstr "위/아래를 사용하여 스크롤"
 
 msgid " 10 e LOTTO"
-msgstr ""
+msgstr "10 및 많이"
 
 msgid " FREQUENCIES AND DELAYS"
-msgstr ""
+msgstr "빈도와 지연"
 
 msgid " GENERAL STATISTICS:\\\\\\\\n"
-msgstr ""
+msgstr "일반 통계:\\\\\\\\\\\\\\\\n"
 
 msgid " DRAWS ARCHIVE"
-msgstr ""
+msgstr "추첨 아카이브"
 
 msgid " COMPLETE ANALYSIS"
-msgstr ""
+msgstr "완전한 분석"
 
 msgid " LAST 10eLOTTO DRAW:\\\\\\\\n"
-msgstr ""
+msgstr "마지막 10e로또 추첨:\\\\\\\\\\\\\\\\n"
 
 msgid " HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr ""
+msgstr "인기 숫자(가장 많이 추첨됨):\\\\\\\\\\\\\\\\n"
 
 msgid " PREDICTIONS"
-msgstr ""
+msgstr "예측"

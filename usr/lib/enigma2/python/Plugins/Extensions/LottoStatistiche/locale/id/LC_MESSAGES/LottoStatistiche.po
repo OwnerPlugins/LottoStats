@@ -15,49 +15,49 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "10 e Lotto"
-msgstr ""
+msgstr "10 dan Banyak"
 
 msgid "Annuncio"
-msgstr ""
+msgstr "Pengumuman"
 
 msgid "Bacio"
-msgstr ""
+msgstr "Ciuman"
 
 msgid "Bambina"
-msgstr ""
+msgstr "Gadis"
 
 msgid "Bambino"
 msgstr ""
 
 msgid "Bello"
-msgstr ""
+msgstr "Halo"
 
 msgid "Bocca"
-msgstr ""
+msgstr "Mulut"
 
 msgid "Bocca di rosa"
-msgstr ""
+msgstr "Mulut mawar"
 
 msgid "Brutto"
-msgstr ""
+msgstr "Buruk"
 
 msgid "COLD NUMBERS (least drawn):\\\\\\\\n"
-msgstr ""
+msgstr "ANGKA DINGIN (paling sedikit ditarik):\\\\\\\\\\\\\\\\n"
 
 msgid "Cacciatore"
-msgstr ""
+msgstr "Pemain sepak bola"
 
 msgid "Caduta"
-msgstr ""
+msgstr "Jatuh"
 
 msgid "Caff"
-msgstr ""
+msgstr "Kopi"
 
 msgid "Camera"
-msgstr ""
+msgstr "Kamera"
 
 msgid "Cantante"
-msgstr ""
+msgstr "Penyanyi"
 
 msgid "Capo"
 msgstr ""
@@ -69,16 +69,16 @@ msgid "Casa"
 msgstr ""
 
 msgid "Chi va per via"
-msgstr ""
+msgstr "Siapa yang melanjutkan perjalanan"
 
 msgid "Chitarra"
-msgstr ""
+msgstr "Gitar"
 
 msgid "Colpi"
-msgstr ""
+msgstr "Tembakan"
 
 msgid "Coltello"
-msgstr ""
+msgstr "Pisau"
 
 msgid "Corda"
 msgstr ""
@@ -87,304 +87,343 @@ msgid "Cristo"
 msgstr ""
 
 msgid "Denaro"
-msgstr ""
+msgstr "Uang"
 
 msgid "Deretano"
-msgstr ""
+msgstr "Belakang"
 
 msgid "Diavolo"
-msgstr ""
+msgstr "Iblis"
 
 msgid "Dito"
-msgstr ""
+msgstr "Di Sini"
 
 msgid "Donna"
 msgstr ""
 
 msgid "Donna nuda"
-msgstr ""
+msgstr "Wanita telanjang"
+
+msgid "Drawn numbers"
+msgstr "Nomor yang ditarik"
 
 msgid "Draws Archive"
-msgstr ""
+msgstr "Arsip Gambar"
 
 msgid "Due gambe"
-msgstr ""
+msgstr "Dua kaki"
 
 msgid "Error loading Superenalotto data. Check log for details."
-msgstr ""
+msgstr "Terjadi kesalahan saat memuat data SuperEnalotto. Periksa log untuk detailnya."
 
 msgid "Exit"
-msgstr ""
+msgstr "KELUAR"
 
 msgid "Fave"
-msgstr ""
+msgstr "Favorit"
 
 msgid "Festa"
-msgstr ""
+msgstr "Berpesta"
 
 msgid "Fiasco"
-msgstr ""
+msgstr "Kegagalan"
 
 msgid "Figli"
-msgstr ""
+msgstr "Anak-anak"
 
 msgid "Fortuna"
-msgstr ""
+msgstr "Keberuntungan"
 
 msgid "Fratello"
-msgstr ""
+msgstr "Saudara laki-laki"
 
 msgid "Fune"
-msgstr ""
+msgstr "Tali"
 
 msgid "GENERAL STATISTICS:\\\\\\\\n"
-msgstr ""
+msgstr "STATISTIK UMUM:\\\\\\\\\\\\\\\\n"
 
 msgid "Gatta"
-msgstr ""
+msgstr "Kucing"
 
 msgid "Gobbo"
-msgstr ""
+msgstr "Orang bungkuk"
 
 msgid "Grande"
-msgstr ""
+msgstr "Agung"
 
 msgid "Guardia"
-msgstr ""
+msgstr "Penjaga"
 
 msgid "HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr ""
+msgstr "ANGKA PANAS (paling banyak digambar):\\\\\\\\\\\\\\\\n"
 
 msgid "Italia"
 msgstr ""
 
 msgid "LAST DRAW"
-msgstr ""
+msgstr "GAMBAR TERAKHIR"
 
 msgid "Ladro"
-msgstr ""
+msgstr "Maling"
 
 msgid "Lamento"
-msgstr ""
+msgstr "saya minta maaf"
+
+msgid "Least frequent number"
+msgstr "Nomor yang paling jarang muncul"
 
 msgid "Lotto archive updated!"
-msgstr ""
+msgstr "Arsip lotre diperbarui!"
 
 msgid "Lotto update error"
-msgstr ""
+msgstr "Kesalahan pembaruan lotre"
 
 msgid "MAIN MENU - LOTTO STATISTICS"
-msgstr ""
+msgstr "MENU UTAMA - STATISTIK LOTTO"
 
 msgid "MAX DELAYS:\\\\\\\\n"
-msgstr ""
+msgstr "PENUNDAAN MAKSIMUM:\\\\\\\\\\\\\\\\n"
 
 msgid "Madonna"
 msgstr ""
 
 msgid "Madre"
-msgstr ""
+msgstr "Nyonya"
 
 msgid "Maiale"
-msgstr ""
+msgstr "Babi"
 
 msgid "Mano"
-msgstr ""
+msgstr "Ribu"
 
 msgid "Monaco"
-msgstr ""
+msgstr "Monako"
 
 msgid "Morto"
-msgstr ""
+msgstr "Mati"
 
 msgid "Morto che parla"
-msgstr ""
+msgstr "Orang mati berbicara"
+
+msgid "Most frequent number"
+msgstr "Nomor yang paling sering"
 
 msgid "Musica"
-msgstr ""
+msgstr "Musik"
 
 msgid "NEAPOLITAN SMORFIA"
-msgstr ""
+msgstr "RAHMAT NEAPOLITAN"
 
 msgid "Naso"
-msgstr ""
+msgstr "tidak"
 
 msgid "Natale"
 msgstr ""
 
 msgid "Neapolitan Smorfia"
-msgstr ""
+msgstr "Meringis Neapolitan"
 
 msgid "No data available. Press 'Update Superenalotto' from main menu."
-msgstr ""
+msgstr "Tidak ada data yang tersedia. Tekan 'Perbarui SuperEnalotto' dari menu utama."
 
 msgid "No draws available. Press 'Update Archive' from main menu."
-msgstr ""
+msgstr "Tidak ada undian yang tersedia. Tekan 'Perbarui Arsip' dari menu utama."
 
 msgid "Number Frequencies"
-msgstr ""
+msgstr "Frekuensi Angka"
+
+msgid "Number with max delay"
+msgstr "Nomor dengan penundaan maksimal"
+
+msgid "Numbers"
+msgstr "Angka"
 
 msgid "Occhio"
-msgstr ""
+msgstr "Mata"
 
 msgid "Oste"
-msgstr ""
+msgstr "Keju"
 
 msgid "PREDICTIONS (6 numbers):\\\\\\\\n"
-msgstr ""
+msgstr "PREDIKSI (6 angka):\\\\\\\\\\\\\\\\n"
 
 msgid "Padre dei figli"
-msgstr ""
+msgstr "Ayah dari anak-anak"
 
 msgid "Padrone"
-msgstr ""
+msgstr "Menguasai"
 
 msgid "Palla"
-msgstr ""
+msgstr "Bola"
 
 msgid "Pane"
-msgstr ""
+msgstr "panel"
 
 msgid "Pane e vino"
-msgstr ""
+msgstr "Roti dan anggur"
 
 msgid "Paura"
-msgstr ""
+msgstr "Takut"
 
 msgid "Pazzo"
-msgstr ""
+msgstr "Gila"
 
 msgid "Pianto"
-msgstr ""
+msgstr "Menangis"
 
 msgid "Piccolo"
-msgstr ""
+msgstr "picolo"
 
 msgid "Piede"
-msgstr ""
+msgstr "Kaki"
 
 msgid "Porta"
-msgstr ""
+msgstr "Pelabuhan"
 
 msgid "Pranzo"
-msgstr ""
+msgstr "Makan siang"
 
 msgid "Predictions"
-msgstr ""
+msgstr "Prediksi"
 
 msgid "Prete"
-msgstr ""
+msgstr "Pendeta"
 
 msgid "Ragazzo"
-msgstr ""
+msgstr "Nak"
 
 msgid "Risata"
-msgstr ""
+msgstr "Tertawa"
 
 msgid "SUPERENALOTTO - Statistics"
-msgstr ""
+msgstr "SUPERENALOTTO - Statistik"
 
 msgid "Sangue"
-msgstr ""
+msgstr "Darah"
 
 msgid "Sant'Antonio"
-msgstr ""
+msgstr "Santo Antonius"
 
 msgid "Scarpa"
 msgstr ""
 
 msgid "Scatola"
-msgstr ""
+msgstr "Kotak"
 
 msgid "Scemo"
-msgstr ""
+msgstr "Bodoh"
 
 msgid "Sfortuna"
-msgstr ""
+msgstr "Sial"
 
 msgid "Soldato"
-msgstr ""
+msgstr "Tentara"
 
 msgid "Sorella"
-msgstr ""
+msgstr "Saudari"
 
 msgid "Sposa"
-msgstr ""
+msgstr "Istri"
 
 msgid "Statistical Analysis"
-msgstr ""
+msgstr "Analisis Statistik"
 
 msgid "Superenalotto"
 msgstr ""
 
 msgid "Superenalotto update error"
-msgstr ""
+msgstr "Kesalahan pembaruan SuperEnalotto"
 
 msgid "Superenalotto updated!"
-msgstr ""
+msgstr "SuperEnalotto diperbarui!"
+
+msgid "TOTAL DRAWS"
+msgstr "JUMLAH GAMBAR"
 
 msgid "Tavola"
-msgstr ""
+msgstr "Meja"
 
 msgid "Tempio"
-msgstr ""
+msgstr "Kuil"
 
 msgid "Testa"
-msgstr ""
+msgstr "Tes"
 
 msgid "Tip: Play responsibly!"
-msgstr ""
+msgstr "Tip: Mainkan secara bertanggung jawab!"
 
 msgid "Topi"
 msgstr ""
 
+msgid "Total draws"
+msgstr "Total hasil imbang"
+
 msgid "Ubriaco"
-msgstr ""
+msgstr "Mabuk"
 
 msgid "Uccello"
-msgstr ""
+msgstr "Burung"
 
 msgid "Uomo"
-msgstr ""
+msgstr "Pria"
 
 msgid "Update Lotto Archive"
-msgstr ""
+msgstr "Perbarui Arsip Lotto"
 
 msgid "Update Superenalotto"
-msgstr ""
+msgstr "Perbarui SuperEnalotto"
 
 msgid "Vaso"
 msgstr ""
 
 msgid "Vecchia"
-msgstr ""
+msgstr "Tua"
 
 msgid "Vecchio"
 msgstr ""
 
 msgid "Vino"
-msgstr ""
+msgstr "anggur"
+
+msgid "and"
+msgstr "Dan"
+
+msgid "contest"
+msgstr "kontes"
+
+msgid "draws"
+msgstr "menarik"
+
+msgid "more draws"
+msgstr "lebih banyak hasil imbang"
+
+msgid "times"
+msgstr "kali"
+
+msgid "use up/down to scroll"
+msgstr "gunakan atas/bawah untuk menggulir"
 
 msgid " 10 e LOTTO"
-msgstr ""
+msgstr "10 dan BANYAK"
 
 msgid " FREQUENCIES AND DELAYS"
-msgstr ""
+msgstr "FREKUENSI DAN PENUNDAAN"
 
 msgid " GENERAL STATISTICS:\\\\\\\\n"
-msgstr ""
+msgstr "STATISTIK UMUM:\\\\\\\\\\\\\\\\n"
 
 msgid " DRAWS ARCHIVE"
-msgstr ""
+msgstr "GAMBAR ARSIP"
 
 msgid " COMPLETE ANALYSIS"
-msgstr ""
+msgstr "ANALISIS LENGKAP"
 
 msgid " LAST 10eLOTTO DRAW:\\\\\\\\n"
-msgstr ""
+msgstr "UNDIAN 10eLOTTO TERAKHIR:\\\\\\\\\\\\\\\\n"
 
 msgid " HOT NUMBERS (most drawn):\\\\\\\\n"
-msgstr ""
+msgstr "ANGKA PANAS (paling banyak digambar):\\\\\\\\\\\\\\\\n"
 
 msgid " PREDICTIONS"
-msgstr ""
+msgstr "PREDIKSI"
